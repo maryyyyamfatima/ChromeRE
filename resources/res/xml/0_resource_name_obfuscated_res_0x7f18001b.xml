@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppDataSearch xmlns:search="http://schemas.android.com/apk/res-auto">
+    <GlobalSearch
+        search:defaultIntentAction="android.intent.action.VIEW"
+        search:searchLabel="@string/0_resource_name_obfuscated_res_0x7f1401f5"
+        search:settingsDescription="@string/0_resource_name_obfuscated_res_0x7f14039a"/>
+    <Corpus
+        search:contentProviderUri="content://com.android.chrome.icing"
+        search:corpusId="omnibox"
+        search:corpusVersion="2"
+        search:trimmable="false">
+        <Section
+            search:indexPrefixes="true"
+            search:sectionFormat="3"
+            search:sectionId="url">
+            <SectionFeature search:featureType="4"/>
+        </Section>
+        <Section
+            search:indexPrefixes="true"
+            search:sectionId="title">
+            <SectionFeature search:featureType="5"/>
+        </Section>
+        <Section
+            search:noIndex="true"
+            search:sectionId="indexed_url"/>
+        <GlobalSearchCorpus>
+            <GlobalSearchSection
+                search:sectionContent="@string/0_resource_name_obfuscated_res_0x7f1409d5"
+                search:sectionType="0"/>
+            <GlobalSearchSection
+                search:sectionContent="@string/0_resource_name_obfuscated_res_0x7f1409d6"
+                search:sectionType="1"/>
+            <GlobalSearchSection
+                search:sectionContent="@string/0_resource_name_obfuscated_res_0x7f1409d3"
+                search:sectionType="3"/>
+            <GlobalSearchSection
+                search:sectionContent="@string/0_resource_name_obfuscated_res_0x7f1409d4"
+                search:sectionType="4"/>
+            <GlobalSearchSection
+                search:sectionContent="@mipmap/app_icon"
+                search:sectionType="2"/>
+        </GlobalSearchCorpus>
+    </Corpus>
+</AppDataSearch>

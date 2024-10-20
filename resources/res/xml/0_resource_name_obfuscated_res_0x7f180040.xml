@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:title="@string/0_resource_name_obfuscated_res_0x7f1401d9">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:key="cookie_info_text"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140c37"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:key="binary_toggle"
+        android:defaultValue="true"/>
+    <org.chromium.components.browser_ui.site_settings.TriStateSiteSettingsPreference android:key="tri_state_toggle"/>
+    <org.chromium.components.browser_ui.site_settings.FourStateCookieSettingsPreference android:key="four_state_cookie_toggle"/>
+    <org.chromium.components.browser_ui.settings.ChromeBaseCheckBoxPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140c27"
+        android:key="notifications_quiet_ui"
+        android:defaultValue="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBaseCheckBoxPreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14046d"
+        android:key="notifications_vibrate"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f14046c"
+        android:defaultValue="true"/>
+    <org.chromium.components.browser_ui.settings.ChromeBaseCheckBoxPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14046b"
+        android:key="desktop_site_peripheral"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f14046a"
+        android:defaultValue="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBaseCheckBoxPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140469"
+        android:key="desktop_site_display"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140468"
+        android:defaultValue="false"/>
+    <org.chromium.components.browser_ui.settings.LearnMorePreference android:key="protected_content_learn_more"/>
+    <org.chromium.components.browser_ui.settings.ExpandablePreferenceGroup android:key="managed_group"/>
+    <org.chromium.components.browser_ui.settings.ExpandablePreferenceGroup android:key="blocked_group"/>
+    <org.chromium.components.browser_ui.settings.ExpandablePreferenceGroup android:key="allowed_group"/>
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.ui.widget.ButtonCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="0dp"
+    android:textAlignment="center"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+    android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080394"
+    style="@style/0_resource_name_obfuscated_res_0x7f1501c6"/>

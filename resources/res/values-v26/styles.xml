@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f150057" parent="@style/0_resource_name_obfuscated_res_0x7f15011e">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15005e" parent="@style/0_resource_name_obfuscated_res_0x7f15011f">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011e" parent="@style/0_resource_name_obfuscated_res_0x7f15010d">
+        <item name="0_resource_name_obfuscated_res_0x7f050115">?android:attr/colorError</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15011f" parent="@style/0_resource_name_obfuscated_res_0x7f15010e">
+        <item name="0_resource_name_obfuscated_res_0x7f050115">?android:attr/colorError</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150120" parent="@style/0_resource_name_obfuscated_res_0x7f150130">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150169" parent="@style/0_resource_name_obfuscated_res_0x7f150120">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1504ae" parent="@style/0_resource_name_obfuscated_res_0x7f15006a">
+        <item name="android:statusBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightStatusBar">@bool/0_resource_name_obfuscated_res_0x7f06001b</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150666" parent="@android:style/Widget">
+        <item name="android:background">?attr/0_resource_name_obfuscated_res_0x7f05013a</item>
+        <item name="android:stateListAnimator">@animator/0_resource_name_obfuscated_res_0x7f030000</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.BoundedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="0x7f010588"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f090495"
+    app:maxWidthLandscape="@dimen/0_resource_name_obfuscated_res_0x7f080667"
+    app:maxWidthPortrait="@dimen/0_resource_name_obfuscated_res_0x7f080667">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e01f2"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e01f3"/>
+    <org.chromium.components.browser_ui.widget.FadingEdgeScrollView
+        android:id="@+id/option_container"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/payment_container_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15042a"
+                android:id="@+id/retry_error"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"/>
+        </LinearLayout>
+    </org.chromium.components.browser_ui.widget.FadingEdgeScrollView>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e01ed"/>
+</org.chromium.components.browser_ui.widget.BoundedLinearLayout>

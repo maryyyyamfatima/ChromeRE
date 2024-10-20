@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080638"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080638"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="@dimen/0_resource_name_obfuscated_res_0x7f080638"
+    style="@style/0_resource_name_obfuscated_res_0x7f15000a">
+    <LinearLayout
+        android:layout_gravity="start"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f080637"
+        android:layout_weight="1"
+        android:paddingEnd="9dp">
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150477"
+            android:gravity="center_vertical"
+            android:id="@+id/menu_item_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+            android:gravity="center_vertical"
+            android:id="@+id/menu_item_summary"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <org.chromium.ui.widget.ChromeImageView
+        android:gravity="center_vertical"
+        android:layout_gravity="end"
+        android:id="@+id/menu_item_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0"
+        app:tint="@null"/>
+</LinearLayout>

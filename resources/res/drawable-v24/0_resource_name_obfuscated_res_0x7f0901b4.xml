@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.SurfaceColorDrawable xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:shape="rectangle"
+    app:surfaceElevation="@dimen/0_resource_name_obfuscated_res_0x7f08022e">
+    <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f080226"/>
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/transparent"/>
+</org.chromium.components.browser_ui.widget.SurfaceColorDrawable>

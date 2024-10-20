@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d တဘ်ကို ခေါက်ပါ။</item>
+        <item quantity="other">တဘ် %1$d ခုဖြင့် တဘ်အုပ်စု လျှော့ပြပါ။</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d တဘ်ကို ခေါက်ပါ။</item>
+        <item quantity="other">တဘ် %2$d ခုဖြင့် အုပ်စုဖွဲ့ထားသည့် %1$s တဘ်ကို ပြန်ခေါက်ပါ။</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">အသံဖိုင် %d ဖိုင်</item>
+        <item quantity="other">အသံဖိုင် %d ဖိုင်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ဖိုင်</item>
+        <item quantity="other">%d ဖိုင်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d ပုံ</item>
+        <item quantity="other">%d ပုံ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d မျက်နှာ</item>
+        <item quantity="other">%d မျက်နှာ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">ဗီဒီယို %d ကား</item>
+        <item quantity="other">ဗီဒီယို %d ကား</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">ရွေးချယ်ထားသည့် အကြောင်းအရာ ၁ ခုကို ဖယ်ရှားရန်</item>
+        <item quantity="other">ရွေးချယ်ထားသည့် အကြောင်းအရာ %d ခုကို ဖယ်ရှားရန်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">ရွေးချယ်ထားသည့် အကြောင်းအရာ ၁ ခုကို မျှဝေရန်</item>
+        <item quantity="other">ရွေးချယ်ထားသည့် အကြောင်းအရာ %d ခုကို မျှဝေရန်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">ရွေးထားသော တဘ် %1$d ခုအား အုပ်စုမှ ဖယ်ရှားပါ။</item>
+        <item quantity="other">ရွေးထားသော တဘ် %1$d ခုအား အုပ်စုမှ ဖယ်ရှားပါ။</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">ရွေးထားသောတဘ် %1$d ခုကို အုပ်စုဖွဲ့ရန်</item>
+        <item quantity="other">ရွေးထားသောတဘ် %1$d ခုကို အုပ်စုဖွဲ့ရန်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">ရွေးထားသည့် တဘ် %1$d ခုကို ပိတ်ရန်</item>
+        <item quantity="other">ရွေးထားသည့် တဘ် %1$d ခုကို ပိတ်ရန်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">လိပ်စာ %1$d ခု</item>
+        <item quantity="other">လိပ်စာ %1$d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">တဘ် %1$d ခု</item>
+        <item quantity="other">တဘ် %1$d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ နောက်ထပ် ၁ ခု)</item>
+        <item quantity="other">(+ နောက်ထပ် %d ခု)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">ကွတ်ကီး ၁ ခု ကို ပိတ်ထားသည်</item>
+        <item quantity="other">ကွတ်ကီး %d ခု ကို ပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d နာရီ</item>
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ဖိုင် ဒေါင်းလုဒ်လုပ်ပြီးပြီ</item>
+        <item quantity="other">ဒေါင်းလုဒ် %d ခု လုပ်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">ဒေါင်းလုဒ် ၁ ခု လုပ်၍မရပါ</item>
+        <item quantity="other">ဒေါင်းလုဒ် %d ခု လုပ်၍မရပါ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ဖိုင်ကို ဒေါင်းလုဒ်လုပ်နေသည်</item>
+        <item quantity="other">ဖိုင် %d ဖိုင်ကို ဒေါင်းလုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">ဒေါင်းလုဒ် ၁ ခုကို စောင့်နေသည်</item>
+        <item quantity="other">ဒေါင်းလုဒ် %d ခုကို စောင့်နေသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">ဒေါင်းလုဒ် 1 ခု စီစဉ်ထားသည်</item>
+        <item quantity="other">ဒေါင်းလုဒ် %d ခု စီစဉ်ထားသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ဖိုင် ဒေါင်းလုဒ်လုပ်ပြီးပြီ</item>
+        <item quantity="other">%1$d ဖိုင် ဒေါင်းလုဒ်လုပ်ပြီးပြီ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">ကိုက်ညီမှု %d ခု</item>
+        <item quantity="other">ကိုက်ညီမှု %d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">ရုပ်ဖျက်တဘ် %1$s ခုကို ပိတ်ပါမည်</item>
+        <item quantity="other">ရုပ်ဖျက်တဘ် %1$s ခုကို ပိတ်ပါမည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">ရုပ်ဖျက်တဘ် %1$s ခုနှင့် နောက်ထပ်တဘ် %2$s ခုကို ပိတ်ပါမည်</item>
+        <item quantity="other">ရုပ်ဖျက်တဘ် %1$s ခုနှင့် နောက်ထပ်တဘ် %2$s ခုကို ပိတ်ပါမည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s နှင့် နောက်ထပ်တဘ် %2$s ခုကို ပိတ်ပါမည်</item>
+        <item quantity="other">%1$s နှင့် နောက်ထပ်တဘ် %2$s ခုကို ပိတ်ပါမည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">ရုပ်ဖျက်တဘ် %1$s ခု</item>
+        <item quantity="other">ရုပ်ဖျက်တဘ် %1$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">တဘ် %1$s ခု</item>
+        <item quantity="other">တဘ် %2$s ခု, ရုပ်ဖျက်တဘ်%1$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">တဘ် ၁ ခု</item>
+        <item quantity="other">တဘ် %d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(သုံးသပ်ချက် %1$s ခု)</item>
+        <item quantity="other">(သုံးသပ်ချက် %1$s ခု)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google မှ သုံးသပ်ချက် %1$s ခု</item>
+        <item quantity="other">Google မှ သုံးသပ်ချက် %1$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">လွန်ခဲ့သည့် %d ရက်က</item>
+        <item quantity="other">လွန်ခဲ့သည့် %d ရက်က</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">လွန်ခဲ့သည့် %d နာရီက</item>
+        <item quantity="other">လွန်ခဲ့သည့် %d နာရီက</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">လွန်ခဲ့သည့် %d မိနစ်က</item>
+        <item quantity="other"> လွန်ခဲ့သည့် %d မိနစ်က</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">အဆင်သင့်ဖြစ်သည့်အခါ Chrome က သင့်စာမျက်နှာကို ဖွင့်ပါမည်</item>
+        <item quantity="other">အဆင်သင့်ဖြစ်သည့်အခါ Chrome က သင့်စာမျက်နှာများကို ဖွင့်ပါမည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">ကွတ်ကီးတစ်ခုကို သုံးနေသည်</item>
+        <item quantity="other">အသုံးပြုနေသော ကွတ်ကီး %d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခု ခွင့်ပြုထားသည်</item>
+        <item quantity="other">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခု ခွင့်ပြုထားသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခုကို ပိတ်ထားသည်</item>
+        <item quantity="other">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခုကို ပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခု</item>
+        <item quantity="other">%1$s၊ %2$s နှင့် နောက်ထပ် %3$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">ကျိုးပေါက်ထားသည့် စကားဝှက် %d ခု</item>
+        <item quantity="other">ကျိုးပေါက်ထားသည့် စကားဝှက် %d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+        <item quantity="other">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+        <item quantity="other">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+        <item quantity="other">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+        <item quantity="other">%1$s… နှင့် နောက်ထပ် %2$s ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">မဖတ်ရသေးသော စာမျက်နှာ %1$d မျက်နှာ ရှိသည်</item>
+        <item quantity="other">မဖတ်ရသေးသော စာမျက်နှာ %1$d မျက်နှာ ရှိသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">မဖတ်ရသေးသော %1$d မျက်နှာ</item>
+        <item quantity="other">မဖတ်ရသေးသော %1$d မျက်နှာ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">ကျိုးပေါက်ထားသည့် စကားဝှက် 1 ခု</item>
+        <item quantity="other">ကျိုးပေါက်ထားသည့် စကားဝှက် %d ခု</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">လွန်ခဲ့သော ၁ ရက်က စစ်ဆေးခဲ့သည်</item>
+        <item quantity="other">လွန်ခဲ့သော %d ရက်က စစ်ဆေးခဲ့သည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">လွန်ခဲ့သော ၁ နာရီက စစ်ဆေးခဲ့သည်</item>
+        <item quantity="other">လွန်ခဲ့သော %d နာရီက စစ်ဆေးခဲ့သည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">လွန်ခဲ့သော ၁ မိနစ်က စစ်ဆေးခဲ့သည်</item>
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က စစ်ဆေးခဲ့သည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 ခု ရွေးထားသည်</item>
+        <item quantity="other">%d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">လိုင်းဆွဲအားအဆင့်- %d ဘား</item>
+        <item quantity="other">လိုင်းဆွဲအားအဆင့်- %d ဘား</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">ကြယ် %2$d ပွင့်အနက် %1$d ပွင့်</item>
+        <item quantity="other">ကြယ် %2$d ပွင့်အနက် %1$d ပွင့်</item>
+    </plurals>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d ჩანართის ჩაკეცვა.</item>
+        <item quantity="other">ჩანართების %1$d-ჩანართიანი ჯგუფის ჩაკეცვა.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d ჩანართის ჩაკეცვა.</item>
+        <item quantity="other">%2$d-ჩანართიანი ჯგუფის „%1$s“ ჩაკეცვა.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d აუდიოფაილი</item>
+        <item quantity="other">%d აუდიოფაილი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ფაილი</item>
+        <item quantity="other">%d ფაილი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d სურათი</item>
+        <item quantity="other">%d სურათი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d გვერდი</item>
+        <item quantity="other">%d გვერდი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d ვიდეო</item>
+        <item quantity="other">%d ვიდეო</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">1 არჩეული ერთეულის ამოშლა</item>
+        <item quantity="other">%d არჩეული ერთეულის ამოშლა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">1 არჩეული ერთეულის გაზიარება</item>
+        <item quantity="other">%d არჩეული ერთეულის გაზიარება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">%1$d არჩეული ჩანართის ამოშლა ჯგუფიდან.</item>
+        <item quantity="other">%1$d არჩეული ჩანართის ამოშლა ჯგუფიდან.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$d არჩეული ჩანართის დაჯგუფება</item>
+        <item quantity="other">%1$d არჩეული ჩანართის დაჯგუფება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">%1$d არჩეული ჩანართის დახურვა</item>
+        <item quantity="other">%1$d არჩეული ჩანართის დახურვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d სანიშნე</item>
+        <item quantity="other">%1$d სანიშნე</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ჩანართი</item>
+        <item quantity="other">%1$d ჩანართი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 სხვა)</item>
+        <item quantity="other">(+ %d სხვა)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 ქუქი-ჩანაწერი დაბლოკილია</item>
+        <item quantity="other">%d ქუქი-ჩანაწერი დაბლოკილია</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d სთ</item>
+        <item quantity="other">%d სთ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ფაილი ჩამოიტვირთა</item>
+        <item quantity="other">%d ჩამოტვირთვა დასრულდა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 ჩამოტვირთვა ვერ მოხერხდა</item>
+        <item quantity="other">%d ჩამოტვირთვა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">მიმდინარეობს ფაილის ჩამოტვირთვა…</item>
+        <item quantity="other">მიმდინარეობს %d ფაილის ჩამოტვირთვა…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 ჩამოტვირთვა მოლოდინის რეჟიმშია</item>
+        <item quantity="other">%d ჩამოტვირთვა მოლოდინის რეჟიმშია</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">დაგეგმილია 1 ჩამოტვირთვა</item>
+        <item quantity="other">დაგეგმილია %d ჩამოტვირთვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">ჩამოიტვირთა %1$d ფაილი</item>
+        <item quantity="other">ჩამოიტვირთა %1$d ფაილი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d დამთხვევა</item>
+        <item quantity="other">%d დამთხვევა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s ინკოგნიტო ჩანართი დაიხურება</item>
+        <item quantity="other">%1$s ინკოგნიტო ჩანართი დაიხურება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s ინკოგნიტო და %2$s სხვა ჩანართი დაიხურება</item>
+        <item quantity="other">%1$s ინკოგნიტო და %2$s სხვა ჩანართი დაიხურება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s და %2$s სხვა ჩანართი დაიხურება</item>
+        <item quantity="other">%1$s და %2$s სხვა ჩანართი დაიხურება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s ინკოგნიტო ჩანართი</item>
+        <item quantity="other">%1$s ინკოგნიტო ჩანართი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ჩანართი</item>
+        <item quantity="other">%2$s ჩანართი, %1$s ინკოგნიტო</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ჩანართი</item>
+        <item quantity="other">%d ჩანართი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s მიმოხილვა)</item>
+        <item quantity="other">(%1$s მიმოხილვა)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s მიმოხილვა Google-იდან</item>
+        <item quantity="other">%1$s მიმოხილვა Google-იდან</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d დღის წინ</item>
+        <item quantity="other">%d დღის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d საათის წინ</item>
+        <item quantity="other">%d საათის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d წუთის წინ</item>
+        <item quantity="other">%d წუთის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome ჩატვირთავს თქვენს გვერდს, როცა ის მზად იქნება</item>
+        <item quantity="other">Chrome ჩატვირთავს თქვენს გვერდებს, როცა ისინი მზად იქნება</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">გამოიყენება 1 ქუქი-ჩანაწერი</item>
+        <item quantity="other">გამოიყენება %d ქუქი-ჩანაწერი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s და %3$s სხვა დაშვებულია</item>
+        <item quantity="other">%1$s, %2$s და %3$s სხვა დაშვებულია</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s და %3$s სხვა დაბლოკილია</item>
+        <item quantity="other">%1$s, %2$s და %3$s სხვა დაბლოკილია</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s და %3$s სხვა</item>
+        <item quantity="other">%1$s, %2$s და %3$s სხვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d გატეხილი პაროლი</item>
+        <item quantity="other">%d გატეხილი პაროლი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… და %2$s სხვა</item>
+        <item quantity="other">%1$s… და %2$s სხვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… და %2$s სხვა</item>
+        <item quantity="other">%1$s… და %2$s სხვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… და %2$s სხვა</item>
+        <item quantity="other">%1$s… და %2$s სხვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… და %2$s სხვა</item>
+        <item quantity="other">%1$s… და %2$s სხვა</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">%1$d წაუკითხავი გვერდი გაქვთ</item>
+        <item quantity="other">%1$d წაუკითხავი გვერდი გაქვთ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d წაუკითხავი გვერდი</item>
+        <item quantity="other">%1$d წაუკითხავი გვერდი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 გატეხილი პაროლი</item>
+        <item quantity="other">%d გატეხილი პაროლი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">შემოწმდა 1 დღის წინ</item>
+        <item quantity="other">შემოწმდა %d დღის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">შემოწმდა 1 საათის წინ</item>
+        <item quantity="other">შემოწმდა %d საათის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">შემოწმდა 1 წუთის წინ</item>
+        <item quantity="other">შემოწმდა %d წუთის წინ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">არჩეულია 1</item>
+        <item quantity="other">არჩეულია %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">სიგნალის სიძლიერის დონე: %d ხაზი</item>
+        <item quantity="other">სიგნალის სიძლიერის დონე: %d ხაზი</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d ვარსკვლავი / %2$d-დან.</item>
+        <item quantity="other">%1$d ვარსკვლავი / %2$d-დან</item>
+    </plurals>
+</resources>

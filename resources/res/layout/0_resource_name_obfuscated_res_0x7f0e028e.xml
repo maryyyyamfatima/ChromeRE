@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/survey_controls_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.google.android.material.button.MaterialButton xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f080764"
+        android:id="@+id/survey_next"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="12dp"
+        android:minWidth="@dimen/0_resource_name_obfuscated_res_0x7f080754"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140ab4"
+        app:enforceMaterialTheme="false"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502dd"/>
+    <include
+        android:id="@+id/survey_controls_divider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f08075a"
+        android:layout_marginRight="@dimen/0_resource_name_obfuscated_res_0x7f08075a"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e0290"/>
+    <include
+        android:id="@+id/survey_controls_legal_text"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e0292"/>
+</LinearLayout>

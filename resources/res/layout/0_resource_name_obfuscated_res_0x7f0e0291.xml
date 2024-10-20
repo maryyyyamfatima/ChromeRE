@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="end"
+    android:id="@+id/survey_prompt_buttons"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="12dp"
+    android:layout_marginRight="12dp"
+    android:layout_marginBottom="16dp"
+    style="@style/0_resource_name_obfuscated_res_0x7f1502e1">
+    <com.google.android.libraries.surveys.internal.view.ButtonWithMaxTextSize
+        android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f080764"
+        android:id="@+id/survey_prompt_no_thanks_button"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140abe"
+        app:textSizeMaxDp="@dimen/0_resource_name_obfuscated_res_0x7f080763"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502f0"/>
+    <com.google.android.libraries.surveys.internal.view.ButtonWithMaxTextSize
+        android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f080764"
+        android:id="@+id/survey_prompt_take_survey_button"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140abf"
+        app:textSizeMaxDp="@dimen/0_resource_name_obfuscated_res_0x7f080763"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502f8"/>
+</LinearLayout>

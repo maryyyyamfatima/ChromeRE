@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="start|center_vertical"
+    android:orientation="vertical"
+    android:padding="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+    <View
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f0803a0"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150443"
+        android:gravity="start|center_vertical"
+        android:id="@+id/tab_title"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0803a4"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0803a4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f080396"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+        app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807ca"/>
+    <View
+        android:id="0x7f0107f9"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0803a0"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f0803a0"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+</LinearLayout>

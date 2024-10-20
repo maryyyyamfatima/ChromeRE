@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Thu gọn %1$d thẻ.</item>
+        <item quantity="other">Thu gọn nhóm thẻ có %1$d thẻ.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Thu gọn %1$d thẻ.</item>
+        <item quantity="other">Thu gọn nhóm thẻ %1$s có %2$d thẻ.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d tệp âm thanh</item>
+        <item quantity="other">%d tệp âm thanh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d tệp</item>
+        <item quantity="other">%d tệp</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d hình ảnh</item>
+        <item quantity="other">%d hình ảnh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d trang</item>
+        <item quantity="other">%d trang</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Xóa 1 mục đã chọn</item>
+        <item quantity="other">Xóa %d mục đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Chia sẻ 1 mục đã chọn</item>
+        <item quantity="other">Chia sẻ %d mục đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Xóa %1$d thẻ đã chọn khỏi nhóm.</item>
+        <item quantity="other">Xóa %1$d thẻ đã chọn khỏi nhóm.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Nhóm %1$d thẻ đã chọn</item>
+        <item quantity="other">Nhóm %1$d thẻ đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Đóng %1$d thẻ đã chọn</item>
+        <item quantity="other">Đóng %1$d thẻ đã chọn</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d dấu trang</item>
+        <item quantity="other">%1$d dấu trang</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d tab</item>
+        <item quantity="other">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 lựa chọn khác)</item>
+        <item quantity="other">(+ %d lựa chọn khác)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Đã chặn 1 cookie</item>
+        <item quantity="other">Đã chặn %d cookie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d giờ</item>
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Đã tải tệp xuống</item>
+        <item quantity="other">Đã tải xong %d tệp xuống</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 tệp tải xuống không thành công</item>
+        <item quantity="other">%d tệp tải xuống không thành công</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Đang tải tệp xuống…</item>
+        <item quantity="other">Đang tải %d tệp xuống…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 tệp đang chờ tải xuống</item>
+        <item quantity="other">%d tệp đang chờ tải xuống</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Đã lên lịch 1 quá trình tải xuống</item>
+        <item quantity="other">Đã lên lịch %d quá trình tải xuống</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Đã tải %1$d tệp xuống</item>
+        <item quantity="other">Đã tải %1$d tệp xuống</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d kết quả phù hợp</item>
+        <item quantity="other">%d kết quả phù hợp</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s thẻ ẩn danh sẽ đóng</item>
+        <item quantity="other">%1$s thẻ ẩn danh sẽ đóng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s thẻ ẩn danh và %2$s thẻ nữa sẽ đóng</item>
+        <item quantity="other">%1$s thẻ ẩn danh và %2$s thẻ nữa sẽ đóng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">Thẻ %1$s và %2$s thẻ khác sẽ đóng</item>
+        <item quantity="other">Thẻ %1$s và %2$s thẻ khác sẽ đóng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s thẻ ẩn danh</item>
+        <item quantity="other">%1$s thẻ ẩn danh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s thẻ</item>
+        <item quantity="other">%2$s thẻ, %1$s ẩn danh</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 thẻ</item>
+        <item quantity="other">%d thẻ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s bài đánh giá)</item>
+        <item quantity="other">(%1$s bài đánh giá)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s bài đánh giá trên Google</item>
+        <item quantity="other">%1$s bài đánh giá trên Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d ngày trước</item>
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d giờ trước</item>
+        <item quantity="other">%d giờ trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d phút trước</item>
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome sẽ tải trang của bạn khi sẵn sàng</item>
+        <item quantity="other">Chrome sẽ tải trang của bạn khi sẵn sàng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 cookie đang được sử dụng</item>
+        <item quantity="other">%d cookie đang được sử dụng</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Đã cho phép %1$s, %2$s và %3$s quyền khác</item>
+        <item quantity="other">Đã cho phép %1$s, %2$s và %3$s quyền khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Đã chặn %1$s, %2$s và %3$s quyền khác</item>
+        <item quantity="other">Đã chặn %1$s, %2$s và %3$s quyền khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s và %3$s quyền khác</item>
+        <item quantity="other">%1$s, %2$s và %3$s quyền khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d mật khẩu bị lộ</item>
+        <item quantity="other">%d mật khẩu bị lộ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… và %2$s tùy chọn khác</item>
+        <item quantity="other">%1$s… và %2$s tùy chọn khác</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Bạn chưa đọc %1$d trang</item>
+        <item quantity="other">Bạn chưa đọc %1$d trang</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d trang chưa đọc</item>
+        <item quantity="other">%1$d trang chưa đọc</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 mật khẩu bị lộ</item>
+        <item quantity="other">%d mật khẩu bị lộ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Đã kiểm tra 1 ngày trước</item>
+        <item quantity="other">Đã kiểm tra %d ngày trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Đã kiểm tra 1 giờ trước</item>
+        <item quantity="other">Đã kiểm tra %d giờ trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Đã kiểm tra 1 phút trước</item>
+        <item quantity="other">Đã kiểm tra %d phút trước</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Đã chọn 1 mục</item>
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Mức cường độ tín hiệu: %d vạch</item>
+        <item quantity="other">Mức cường độ tín hiệu: %d vạch</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d sao</item>
+        <item quantity="other">%1$d/%2$d sao</item>
+    </plurals>
+</resources>

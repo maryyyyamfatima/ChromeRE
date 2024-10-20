@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.download.home.list.view.AspectRatioFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f09046d"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/placeholder"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        app:layout_aspectRatio="100%"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:layout_gravity="end|top"
+        android:id="@+id/cancel_button"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900c5"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140447"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07079a"/>
+    <LinearLayout
+        android:layout_gravity="bottom|fill_horizontal"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/caption"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingStart="4dp"
+            style="@style/0_resource_name_obfuscated_res_0x7f1501c0"/>
+        <org.chromium.chrome.browser.download.home.list.view.CircularProgressView
+            android:layout_gravity="center_vertical"
+            android:id="@+id/action_button"
+            style="@style/0_resource_name_obfuscated_res_0x7f1505fd"/>
+    </LinearLayout>
+</org.chromium.chrome.browser.download.home.list.view.AspectRatioFrameLayout>

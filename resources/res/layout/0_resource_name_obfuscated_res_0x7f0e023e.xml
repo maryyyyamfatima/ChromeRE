@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:focusable="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout
+        android:id="@+id/adaptive_radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/adaptive_option_based_on_usage"
+            android:paddingTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+            app:iconSrc="@drawable/0_resource_name_obfuscated_res_0x7f0901c4"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f1401ba"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/adaptive_option_new_tab"
+            android:paddingTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+            app:iconSrc="@drawable/0_resource_name_obfuscated_res_0x7f0903de"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f1401bc"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/adaptive_option_share"
+            android:paddingTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+            app:iconSrc="@drawable/0_resource_name_obfuscated_res_0x7f090317"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f1401bd"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/adaptive_option_voice_search"
+            android:paddingTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+            app:iconSrc="@drawable/0_resource_name_obfuscated_res_0x7f0900cb"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f1401be"/>
+    </org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout>
+</LinearLayout>

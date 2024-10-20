@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke
+        android:width="@dimen/0_resource_name_obfuscated_res_0x7f0801d7"
+        android:color="@color/0_resource_name_obfuscated_res_0x7f070059"/>
+    <corners
+        android:topLeftRadius="@dimen/0_resource_name_obfuscated_res_0x7f0801d6"
+        android:topRightRadius="@dimen/0_resource_name_obfuscated_res_0x7f0801d6"
+        android:bottomLeftRadius="@dimen/0_resource_name_obfuscated_res_0x7f0801d6"
+        android:bottomRightRadius="@dimen/0_resource_name_obfuscated_res_0x7f0801d6"/>
+</shape>

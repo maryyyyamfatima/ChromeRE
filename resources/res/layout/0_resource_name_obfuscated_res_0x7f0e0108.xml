@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:id="@+id/search_box"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f0903ee"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080617"
+    android:layout_marginTop="0dp"
+    android:layout_marginBottom="1dp"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f08021c"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    class="org.chromium.chrome.browser.ntp.search.SearchBoxContainerView">
+    <RelativeLayout
+        android:gravity="center_vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginEnd="12dp">
+        <EditText
+            android:ellipsize="end"
+            android:id="@+id/search_box_text"
+            android:background="@null"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/0_resource_name_obfuscated_res_0x7f1409cf"
+            android:singleLine="true"
+            android:inputType="text"
+            style="@style/0_resource_name_obfuscated_res_0x7f150431"/>
+    </RelativeLayout>
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/voice_search_button"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900cb"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140190"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501e3"/>
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/lens_camera_button"
+        android:visibility="gone"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f09036b"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14011e"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501e3"/>
+</view>

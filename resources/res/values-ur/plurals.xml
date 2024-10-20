@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d ٹیب کو سکیڑیں۔</item>
+        <item quantity="other">ٹیب گروپ کو %1$d ٹیبز کے ساتھ سکیڑیں۔</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d ٹیب کو سکیڑیں۔</item>
+        <item quantity="other">%1$s ٹیب گروپ کو %2$d ٹیبز کے ساتھ سکیڑیں۔</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d آڈیو فائل</item>
+        <item quantity="other">%d آڈیو فائلیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d فائل</item>
+        <item quantity="other">%d فائلیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d تصویر</item>
+        <item quantity="other">%d تصاویر</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d صفحہ</item>
+        <item quantity="other">%d صفحات</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d ویڈیو</item>
+        <item quantity="other">%d ویڈیوز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">1 منتخب آئٹم کو ہٹائیں</item>
+        <item quantity="other">%d منتخب آئٹمز کو ہٹائیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">1 منتخب کردہ آئٹم کا اشتراک کریں</item>
+        <item quantity="other">%d منتخب کردہ آئٹمز کا اشتراک کریں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">گروپ سے %1$d منتخب کردہ ٹیب کو ہٹائیں۔</item>
+        <item quantity="other">گروپ سے %1$d منتخب کردہ ٹیبز کو ہٹائیں۔</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$dمنتخب کردہ ٹیب کی گروپ بندی کریں</item>
+        <item quantity="other">%1$dمنتخب کردہ ٹیبز کی گروپ بندی کریں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">%1$d منتخب کردہ ٹیب بند کریں</item>
+        <item quantity="other">%1$d منتخب کردہ ٹیبز بند کریں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d بُک مارک</item>
+        <item quantity="other">%1$d بُک مارکس</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ٹیب</item>
+        <item quantity="other">%1$d ٹیبز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">‏(‎+1 مزید)</item>
+        <item quantity="other">(%d + مزید)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 کوکی مسدود ہو گئی</item>
+        <item quantity="other">%d کوکیز مسدود ہو گئیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d گھنٹہ</item>
+        <item quantity="other">%d گھنٹے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">فائل ڈاؤن لوڈ ہو گئی</item>
+        <item quantity="other">%d ڈاؤن لوڈز مکمل ہو گئے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 ڈاؤن لوڈ ناکام ہوگیا</item>
+        <item quantity="other">%d ڈاؤن لوڈز ناکام ہو گئے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">فائل ڈاؤن لوڈ ہو رہی ہے…</item>
+        <item quantity="other">%d فائلز ڈاؤن لوڈ ہو رہی ہیں…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 ڈاؤن لوڈ زير التوا ہے</item>
+        <item quantity="other">%d ڈاؤن لوڈز زير التوا ہیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 ڈاؤن لوڈ شیڈول کیا گیا</item>
+        <item quantity="other">%d ڈاؤن لوڈز شیڈول کیے گئے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d فائل ڈاؤن لوڈ ہو گئی</item>
+        <item quantity="other">%1$d فائلز ڈاؤن لوڈ ہو گئیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d مماثلت</item>
+        <item quantity="other">%d مماثلتیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s پوشیدگی ٹیب کو بند کر دیا جائے گا</item>
+        <item quantity="other">%1$s پوشیدگی ٹیبز کو بند کر دیا جائے گا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s پوشیدگی اور %2$s مزید ٹیب کو بند کر دیا جائے گا</item>
+        <item quantity="other">%1$s پوشیدگی اور %2$s مزید ٹیبز کو بند کر دیا جائے گا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s اور %2$s مزید ٹیب کو بند کر دیا جائے گا</item>
+        <item quantity="other">%1$s اور %2$s مزید ٹیبز کو بند کر دیا جائے گا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s پوشیدگی ٹیب</item>
+        <item quantity="other">%1$s پوشیدگی ٹیبز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ٹیب</item>
+        <item quantity="other">%2$s ٹیبز، %1$s پوشیدگی</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ٹیب</item>
+        <item quantity="other">%d ٹیبز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s جائزہ)</item>
+        <item quantity="other">(%1$s جائزے)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">‏Google سے %1$s جائزہ</item>
+        <item quantity="other">‏Google سے %1$s جائزے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d دن پہلے</item>
+        <item quantity="other">%d دن پہلے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d گھنٹہ پہلے</item>
+        <item quantity="other">%d گھنٹے پہلے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d منٹ پہلے</item>
+        <item quantity="other">%d منٹ پہلے</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">‏آپ کا صفحہ تیار ہونے پر Chrome اسے لوڈ کرے گا</item>
+        <item quantity="other">‏آپ کے صفحات تیار ہونے پر Chrome انہیں لوڈ کرے گا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 زیر استعمال کوکی</item>
+        <item quantity="other">%d زیر استعمال کوکیز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s، %2$s اور %3$s مزید کی اجازت دی گئی</item>
+        <item quantity="other">%1$s، %2$s اور %3$s مزید کی اجازت دی گئی</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s، %2$s اور %3$s مزید کو مسدود کیا گیا</item>
+        <item quantity="other">%1$s، %2$s اور %3$s مزید کو مسدود کیا گیا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s، %2$s اور %3$s مزید</item>
+        <item quantity="other">%1$s، %2$s اور %3$s مزید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d متاثرہ پاس ورڈ</item>
+        <item quantity="other">%d متاثرہ پاس ورڈز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">‏%1$s… اور %2$s مزید</item>
+        <item quantity="other">‏%1$s… اور %2$s مزید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">‏%1$s… اور %2$s مزید</item>
+        <item quantity="other">‏%1$s… اور %2$s مزید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">‏%1$s… اور %2$s مزید</item>
+        <item quantity="other">‏%1$s… اور %2$s مزید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">‏%1$s… اور %2$s مزید</item>
+        <item quantity="other">‏%1$s… اور %2$s مزید</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">آپ کے پاس %1$d بغیر پڑھا ہوا صفحہ ہے</item>
+        <item quantity="other">آپ کے پاس %1$d بغیر پڑھے ہوئے صفحات ہیں</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d نہ پڑھا ہوا صفحہ</item>
+        <item quantity="other">%1$d نہ پڑھے ہوئے صفحات</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 متاثرہ پاس ورڈ</item>
+        <item quantity="other">%d متاثرہ پاس ورڈز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 دن پہلے چیک کیا گیا</item>
+        <item quantity="other">%d دن پہلے چیک کیا گیا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 گھنٹہ پہلے چیک کیا گیا</item>
+        <item quantity="other">%d گھنٹے پہلے چیک کیا گیا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 منٹ پہلے چیک کیا گيا</item>
+        <item quantity="other">%d منٹ پہلے چیک کیا گیا</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 منتخب ہے</item>
+        <item quantity="other">%d منتخب کردہ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">سگنل کی مضبوطی کی سطح: %d بار</item>
+        <item quantity="other">سگنل کی مضبوطی کی سطح: %d بارز</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%2$d میں سے %1$d ستارہ</item>
+        <item quantity="other">%2$d ستاروں میں سے %1$d ہے</item>
+    </plurals>
+</resources>

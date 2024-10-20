@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Tolestu %1$d fitxa.</item>
+        <item quantity="other">Tolestu %1$d fitxa dituen fitxa taldea.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Tolestu %1$d fitxa.</item>
+        <item quantity="other">Tolestu %2$d fitxa dituen %1$s fitxa taldea.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d audio-fitxategi</item>
+        <item quantity="other">%d audio-fitxategi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d fitxategi</item>
+        <item quantity="other">%d fitxategi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d irudi</item>
+        <item quantity="other">%d irudi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d orri</item>
+        <item quantity="other">%d orri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d bideo</item>
+        <item quantity="other">%d bideo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Kendu hautatutako elementua</item>
+        <item quantity="other">Kendu hautatutako %d elementuak</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Partekatu hautatutako elementua</item>
+        <item quantity="other">Partekatu hautatutako %d elementuak</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Kendu hautatutako %1$d fitxa taldetik.</item>
+        <item quantity="other">Kendu hautatutako %1$d fitxak taldetik.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Taldekatu hautatutako %1$d fitxa</item>
+        <item quantity="other">Taldekatu hautatutako %1$d fitxak</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Itxi hautatutako %1$d fitxa</item>
+        <item quantity="other">Itxi hautatutako %1$d fitxa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d laster-marka</item>
+        <item quantity="other">%1$d laster-marka</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d fitxa</item>
+        <item quantity="other">%1$d fitxa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(eta beste bat)</item>
+        <item quantity="other">(eta beste %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 cookie blokeatuta</item>
+        <item quantity="other">%d cookie blokeatuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ordu</item>
+        <item quantity="other">%d ordu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Deskargatu da fitxategia</item>
+        <item quantity="other">%d deskarga amaitu dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Bat ezin izan da deskargatu</item>
+        <item quantity="other">%d ezin izan dira deskargatu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Fitxategia deskargatzen…</item>
+        <item quantity="other">%d fitxategi deskargatzen…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Bat deskargatzeko zain</item>
+        <item quantity="other">%d deskargatzeko zain</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 deskarga programatu</item>
+        <item quantity="other">%d deskarga programatu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fitxategi deskargatu da</item>
+        <item quantity="other">%1$d fitxategi deskargatu dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d bat-etortze</item>
+        <item quantity="other">%d bat-etortze</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">Ezkutuko moduko %1$s fitxa itxiko da</item>
+        <item quantity="other">Ezkutuko moduko %1$s fitxa itxiko dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Ezkutuko moduko %1$s fitxa eta beste %2$s fitxa itxiko dira</item>
+        <item quantity="other">Ezkutuko moduko %1$s fitxa eta beste %2$s fitxa itxiko dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s eta beste %2$s fitxa itxiko dira</item>
+        <item quantity="other">%1$s eta beste %2$s fitxa itxiko dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">Ezkutuko moduko %1$s fitxa</item>
+        <item quantity="other">Ezkutuko moduko %1$s fitxa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s fitxa</item>
+        <item quantity="other">%2$s fitxa, ezkutuko moduko %1$s fitxa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 fitxa</item>
+        <item quantity="other">%d fitxa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s iritzi)</item>
+        <item quantity="other">(%1$s iritzi)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google-tik datorren %1$s iritzi</item>
+        <item quantity="other">Google-tik datozen %1$s iritzi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">Duela %d egun</item>
+        <item quantity="other">Duela %d egun</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">Duela %d ordu</item>
+        <item quantity="other">Duela %d ordu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">Duela %d minutu</item>
+        <item quantity="other">Duela %d minutu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Gailua konektatu egiten denean kargatuko du Chrome-k orria</item>
+        <item quantity="other">Gailua konektatu egiten denean kargatuko ditu Chrome-k orriak</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Erabiltzen den 1 cookie</item>
+        <item quantity="other">Erabiltzen diren %d cookie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Baimena eman zaie hauei: %1$s, %2$s eta beste %3$s</item>
+        <item quantity="other">Baimena eman zaie hauei: %1$s, %2$s eta beste %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s eta beste %3$s blokeatu egin dira</item>
+        <item quantity="other">%1$s, %2$s eta beste %3$s blokeatu egin dira</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s eta beste %3$s</item>
+        <item quantity="other">%1$s, %2$s eta beste %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d pasahitz arriskuan</item>
+        <item quantity="other">%d pasahitz arriskuan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s eta beste %2$s</item>
+        <item quantity="other">%1$s eta beste %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s eta beste %2$s</item>
+        <item quantity="other">%1$s eta beste %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s eta beste %2$s</item>
+        <item quantity="other">%1$s eta beste %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s eta beste %2$s</item>
+        <item quantity="other">%1$s eta beste %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">%1$d orri duzu irakurri gabe</item>
+        <item quantity="other">%1$d orri dituzu irakurri gabe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">Irakurri gabeko %1$d orri</item>
+        <item quantity="other">Irakurri gabeko %1$d orri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 pasahitz dago arriskuan</item>
+        <item quantity="other">%d pasahitz daude arriskuan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Duela 1 egun egiaztatu zuen</item>
+        <item quantity="other">Duela %d egun egiaztatu zuen</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Duela ordubete egiaztatu du</item>
+        <item quantity="other">Duela %d ordu egiaztatu du</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Duela 1 minutu egiaztatu du</item>
+        <item quantity="other">Duela %d minutu egiaztatu du</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 hautatuta</item>
+        <item quantity="other">%d hautatuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Seinalearen indarra: %d barra</item>
+        <item quantity="other">Seinalearen indarra: %d barra</item>
+    </plurals>
+</resources>

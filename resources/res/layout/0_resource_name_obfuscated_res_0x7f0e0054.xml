@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="36dp">
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="0x7f010148"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:labelFor="@+id/cc_name_edit">
+        <EditText
+            android:id="@+id/cc_name_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/0_resource_name_obfuscated_res_0x7f14020f"
+            android:inputType="textCapWords"
+            android:imeOptions="actionDone"
+            android:imeActionLabel="@string/0_resource_name_obfuscated_res_0x7f140239"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/cc_name_tooltip_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900c9"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1405af"/>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0025"/>
+    <View style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:id="@+id/account_picker_selected_account"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0030"/>
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginStart="16dp"
+            app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f090203"/>
+    </LinearLayout>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0024"/>
+    <org.chromium.ui.widget.ButtonCompat
+        android:id="@+id/account_picker_dismiss_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140a57"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+</LinearLayout>

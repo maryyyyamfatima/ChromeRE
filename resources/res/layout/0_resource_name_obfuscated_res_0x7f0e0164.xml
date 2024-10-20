@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="0x7f0103e4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080716"
+        style="@style/0_resource_name_obfuscated_res_0x7f15020d"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/launchpad_recycler"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080716"/>
+    <org.chromium.components.browser_ui.widget.FadingShadowView
+        android:id="@+id/shadow"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08005f"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080716"/>
+</FrameLayout>

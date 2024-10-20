@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Sbalit %1$d kartu.</item>
+        <item quantity="few">Sbalit skupinu karet se %1$d kartami.</item>
+        <item quantity="many">Sbalit skupinu karet s %1$d karty.</item>
+        <item quantity="other">Sbalit skupinu karet s %1$d kartami.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Sbalit %1$d kartu.</item>
+        <item quantity="few">Sbalit skupinu karet %1$s se %2$d kartami.</item>
+        <item quantity="many">Sbalit skupinu karet %1$s s %2$d karty.</item>
+        <item quantity="other">Sbalit skupinu karet %1$s s %2$d kartami.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d zvukový soubor</item>
+        <item quantity="few">%d zvukové soubory</item>
+        <item quantity="many">%d zvukového souboru</item>
+        <item quantity="other">%d zvukových souborů</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d soubor</item>
+        <item quantity="few">%d soubory</item>
+        <item quantity="many">%d souboru</item>
+        <item quantity="other">%d souborů</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d obrázek</item>
+        <item quantity="few">%d obrázky</item>
+        <item quantity="many">%d obrázku</item>
+        <item quantity="other">%d obrázků</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d stránka</item>
+        <item quantity="few">%d stránky</item>
+        <item quantity="many">%d stránky</item>
+        <item quantity="other">%d stránek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videa</item>
+        <item quantity="many">%d videa</item>
+        <item quantity="other">%d videí</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Odstranit jednu vybranou položku</item>
+        <item quantity="few">Odstranit %d vybrané položky</item>
+        <item quantity="many">Odstranit %d vybrané položky</item>
+        <item quantity="other">Odstranit %d vybraných položek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Sdílet 1 vybranou položku</item>
+        <item quantity="few">Sdílet %d vybrané položky</item>
+        <item quantity="many">Sdílet %d vybrané položky</item>
+        <item quantity="other">Sdílet %d vybraných položek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Odstranit ze skupiny %1$d vybranou kartu.</item>
+        <item quantity="few">Odstranit ze skupiny %1$d vybrané karty.</item>
+        <item quantity="many">Odstranit ze skupiny %1$d vybrané karty.</item>
+        <item quantity="other">Odstranit ze skupiny %1$d vybraných karet.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Seskupit %1$d vybranou kartu</item>
+        <item quantity="few">Seskupit %1$d vybrané karty</item>
+        <item quantity="many">Seskupit %1$d vybrané karty</item>
+        <item quantity="other">Seskupit %1$d vybraných karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Zavřít %1$d vybranou kartu</item>
+        <item quantity="few">Zavřít %1$d vybrané karty</item>
+        <item quantity="many">Zavřít %1$d vybrané karty</item>
+        <item quantity="other">Zavřít %1$d vybraných karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d záložka</item>
+        <item quantity="few">%1$d záložky</item>
+        <item quantity="many">%1$d záložky</item>
+        <item quantity="other">%1$d záložek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d karta</item>
+        <item quantity="few">%1$d karty</item>
+        <item quantity="many">%1$d karty</item>
+        <item quantity="other">%1$d karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 další)</item>
+        <item quantity="few">(+ %d další)</item>
+        <item quantity="many">(+ %d další)</item>
+        <item quantity="other">(+ %d dalších)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Byl zablokován 1 soubor cookie</item>
+        <item quantity="few">Byly zablokovány %d soubory cookie</item>
+        <item quantity="many">Bylo zablokováno %d souboru cookie</item>
+        <item quantity="other">Bylo zablokováno %d souborů cookie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Byl stažen jeden soubor</item>
+        <item quantity="few">Byly staženy %d soubory</item>
+        <item quantity="many">Bylo staženo %d souboru</item>
+        <item quantity="other">Bylo staženo %d souborů</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Stažení 1 souboru se nezdařilo</item>
+        <item quantity="few">Stažení %d souborů se nezdařilo</item>
+        <item quantity="many">Stažení %d souboru se nezdařilo</item>
+        <item quantity="other">Stažení %d souborů se nezdařilo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Stahování souboru…</item>
+        <item quantity="few">Stahování %d souborů…</item>
+        <item quantity="many">Stahování %d souboru…</item>
+        <item quantity="other">Stahování %d souborů…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 nevyřízené stahování</item>
+        <item quantity="few">%d nevyřízená stahování</item>
+        <item quantity="many">%d nevyřízeného stahování</item>
+        <item quantity="other">%d nevyřízených stahování</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Je naplánováno stažení 1 souboru</item>
+        <item quantity="few">Je naplánováno stažení %d souborů</item>
+        <item quantity="many">Je naplánováno stažení %d souboru</item>
+        <item quantity="other">Je naplánováno stažení %d souborů</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Byl stažen %1$d soubor</item>
+        <item quantity="few">Byly staženy %1$d soubory</item>
+        <item quantity="many">Bylo staženo %1$d souboru</item>
+        <item quantity="other">Bylo staženo %1$d souborů</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d shoda</item>
+        <item quantity="few">%d shody</item>
+        <item quantity="many">%d shody</item>
+        <item quantity="other">%d shod</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">Zavře se %1$s anonymní karta</item>
+        <item quantity="few">Zavřou se %1$s anonymní karty</item>
+        <item quantity="many">Zavře se %1$s anonymní karty</item>
+        <item quantity="other">Zavře se %1$s anonymních karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Zavře se %1$s anonymní a %2$s další karta</item>
+        <item quantity="few">Zavřou se %1$s anonymní a %2$s další karty</item>
+        <item quantity="many">Zavře se %1$s anonymní a %2$s další karty</item>
+        <item quantity="other">Zavře se %1$s anonymních a %2$s dalších karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">Zavře se karta %1$s a %2$s další karta</item>
+        <item quantity="few">Zavře se karta %1$s a %2$s další karty</item>
+        <item quantity="many">Zavře se karta %1$s a %2$s další karty</item>
+        <item quantity="other">Zavře se karta %1$s a %2$s dalších karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s anonymní karta</item>
+        <item quantity="few">%1$s anonymní karty</item>
+        <item quantity="many">%1$s anonymní karty</item>
+        <item quantity="other">%1$s anonymních karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s karta</item>
+        <item quantity="few">%2$s karty, anonymní: %1$s</item>
+        <item quantity="many">%2$s karty, anonymní: %1$s</item>
+        <item quantity="other">%2$s karet, anonymní: %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 karta</item>
+        <item quantity="few">%d karty</item>
+        <item quantity="many">%d karty</item>
+        <item quantity="other">%d karet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s recenze)</item>
+        <item quantity="few">(%1$s recenze)</item>
+        <item quantity="many">(%1$s recenze)</item>
+        <item quantity="other">(%1$s recenzí)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s recenze od Googlu</item>
+        <item quantity="few">%1$s recenze od Googlu</item>
+        <item quantity="many">%1$s recenze od Googlu</item>
+        <item quantity="other">%1$s recenzí od Googlu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">před %d dnem</item>
+        <item quantity="few">před %d dny</item>
+        <item quantity="many">před %d dne</item>
+        <item quantity="other">před %d dny</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">před %d hodinou</item>
+        <item quantity="few">před %d hodinami</item>
+        <item quantity="many">před %d hodiny</item>
+        <item quantity="other">před %d hodinami</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">před %d minutou</item>
+        <item quantity="few">před %d minutami</item>
+        <item quantity="many">před %d minuty</item>
+        <item quantity="other">před %d minutami</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome stránku načte, až bude připraven</item>
+        <item quantity="few">Chrome stránky načte, až bude připraven</item>
+        <item quantity="many">Chrome stránky načte, až bude připraven</item>
+        <item quantity="other">Chrome stránky načte, až bude připraven</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Je používán 1 soubor cookie</item>
+        <item quantity="few">Jsou používány %d soubory cookie</item>
+        <item quantity="many">Je používáno %d souboru cookie</item>
+        <item quantity="other">Je používáno %d souborů cookie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Povolená oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="few">Povolená oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="many">Povolená oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="other">Povolená oprávnění: %1$s, %2$s a další (%3$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Blokovaná oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="few">Blokovaná oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="many">Blokovaná oprávnění: %1$s, %2$s a další (%3$s)</item>
+        <item quantity="other">Blokovaná oprávnění: %1$s, %2$s a další (%3$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s a další (%3$s)</item>
+        <item quantity="few">%1$s, %2$s a další (%3$s)</item>
+        <item quantity="many">%1$s, %2$s a další (%3$s)</item>
+        <item quantity="other">%1$s, %2$s a další (%3$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">Bylo nalezeno %d prolomené heslo</item>
+        <item quantity="few">Byla nalezena %d prolomená hesla</item>
+        <item quantity="many">Bylo nalezeno %d prolomeného hesla</item>
+        <item quantity="other">Bylo nalezeno %d prolomených hesel</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s a %2$s další</item>
+        <item quantity="few">%1$s a %2$s další</item>
+        <item quantity="many">%1$s a %2$s dalšího</item>
+        <item quantity="other">%1$s a %2$s dalších</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s a %2$s další</item>
+        <item quantity="few">%1$s a %2$s další</item>
+        <item quantity="many">%1$s a %2$s další</item>
+        <item quantity="other">%1$s a %2$s dalších</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s a %2$s další</item>
+        <item quantity="few">%1$s a %2$s další</item>
+        <item quantity="many">%1$s a %2$s další</item>
+        <item quantity="other">%1$s a %2$s dalších</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s a %2$s další</item>
+        <item quantity="few">%1$s a %2$s další</item>
+        <item quantity="many">%1$s a %2$s další</item>
+        <item quantity="other">%1$s a %2$s dalších</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Máte %1$d nepřečtenou stránku</item>
+        <item quantity="few">Máte %1$d nepřečtené stránky</item>
+        <item quantity="many">Máte %1$d nepřečtené stránky</item>
+        <item quantity="other">Máte %1$d nepřečtených stránek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d nepřečtená stránka</item>
+        <item quantity="few">%1$d nepřečtené stránky</item>
+        <item quantity="many">%1$d nepřečtené stránky</item>
+        <item quantity="other">%1$d nepřečtených stránek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">Bylo nalezeno jedno prolomené heslo</item>
+        <item quantity="few">Byla nalezena %d prolomená hesla</item>
+        <item quantity="many">Bylo nalezeno %d prolomeného hesla</item>
+        <item quantity="other">Bylo nalezeno %d prolomených hesel</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Zkontrolováno před 1 dnem</item>
+        <item quantity="few">Zkontrolováno před %d dny</item>
+        <item quantity="many">Zkontrolováno před %d dne</item>
+        <item quantity="other">Zkontrolováno před %d dny</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Zkontrolováno před hodinou</item>
+        <item quantity="few">Zkontrolováno před %d hodinami</item>
+        <item quantity="many">Zkontrolováno před %d hodiny</item>
+        <item quantity="other">Zkontrolováno před %d hodinami</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Zkontrolováno před 1 minutou</item>
+        <item quantity="few">Zkontrolováno před %d minutami</item>
+        <item quantity="many">Zkontrolováno před %d minuty</item>
+        <item quantity="other">Aktualizováno před %d minutami</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Vybráno: 1</item>
+        <item quantity="few">Vybráno: %d</item>
+        <item quantity="many">Vybráno: %d</item>
+        <item quantity="other">Vybráno: %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Síla signálu: %d čárka</item>
+        <item quantity="few">Síla signálu: %d čárky</item>
+        <item quantity="many">Síla signálu: %d čárky</item>
+        <item quantity="other">Síla signálu: %d čárek</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d hvězdička z %2$d</item>
+        <item quantity="few">%1$d hvězdičky z %2$d</item>
+        <item quantity="many">%1$d hvězdičky z %2$d</item>
+        <item quantity="other">%1$d hvězdiček z %2$d</item>
+    </plurals>
+</resources>

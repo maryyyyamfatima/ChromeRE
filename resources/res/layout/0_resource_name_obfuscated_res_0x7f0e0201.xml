@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables
+        android:gravity="start|center_vertical"
+        android:id="@+id/running_in_chrome_footer_text"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080164"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080164"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:drawablePadding="@dimen/0_resource_name_obfuscated_res_0x7f080163"
+        android:drawableStart="@mipmap/app_icon"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        app:drawableHeight="@dimen/0_resource_name_obfuscated_res_0x7f080162"
+        app:drawableWidth="@dimen/0_resource_name_obfuscated_res_0x7f080162"
+        style="@style/0_resource_name_obfuscated_res_0x7f15046f"/>
+    <View
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050154"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+</FrameLayout>

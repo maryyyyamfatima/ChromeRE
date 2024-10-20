@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080636"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080636"
+    android:focusable="false"
+    android:visibility="visible"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:importantForAccessibility="noHideDescendants"
+    android:paddingVertical="@dimen/0_resource_name_obfuscated_res_0x7f080636"
+    style="@style/0_resource_name_obfuscated_res_0x7f15000a">
+    <View
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050154"
+        android:layout_width="match_parent"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="@drawable/0_resource_name_obfuscated_res_0x7f0900db"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        style="@style/0_resource_name_obfuscated_res_0x7f150209">
+        <org.chromium.ui.widget.TextViewWithLeading
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+            android:layout_gravity="center"
+            android:padding="@dimen/0_resource_name_obfuscated_res_0x7f0800a8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f1407d3"
+            android:textAlignment="center"
+            app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807cc"/>
+    </org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow>
+</FrameLayout>

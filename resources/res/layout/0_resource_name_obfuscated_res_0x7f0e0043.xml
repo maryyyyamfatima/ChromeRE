@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.FadingEdgeScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="0x7f0100c5"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:importantForAccessibility="no">
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="122dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f09009f"
+            android:importantForAccessibility="no"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f14026b"
+            style="@style/0_resource_name_obfuscated_res_0x7f1503dd"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f140269"
+            style="@style/0_resource_name_obfuscated_res_0x7f15046f"/>
+        <TextView
+            android:id="@+id/avs_consent_ui_learn_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f1405af"
+            style="@style/0_resource_name_obfuscated_res_0x7f150469"/>
+    </LinearLayout>
+</org.chromium.components.browser_ui.widget.FadingEdgeScrollView>

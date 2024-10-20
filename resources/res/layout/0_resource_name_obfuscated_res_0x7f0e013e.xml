@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:id="0x7f01083b"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.translate.TranslateTabLayout
+        android:id="@+id/translate_infobar_tabs"
+        android:fadingEdgeLength="@dimen/0_resource_name_obfuscated_res_0x7f08038a"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:requiresFadingEdge="horizontal"
+        app:tabMode="0"
+        style="@style/0_resource_name_obfuscated_res_0x7f15030a"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:id="@+id/translate_infobar_menu_button"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f09025e"
+        android:scaleType="center"
+        android:minWidth="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14018d"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+</LinearLayout>

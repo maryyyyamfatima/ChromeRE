@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.page_info.AboutThisSiteView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f080647"
+    android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f080647"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f080647">
+    <TextView
+        android:id="@+id/description_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080648"
+        style="@style/0_resource_name_obfuscated_res_0x7f150452"/>
+    <TextView
+        android:id="@+id/source_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/0_resource_name_obfuscated_res_0x7f150452"/>
+</org.chromium.chrome.browser.page_info.AboutThisSiteView>

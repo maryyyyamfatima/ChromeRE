@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="end|bottom"
+    android:orientation="vertical"
+    android:id="@+id/survey_main_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <com.google.android.material.card.MaterialCardView
+            android:layout_gravity="end|bottom"
+            android:id="@+id/survey_overall_container"
+            android:clipToPadding="false"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            app:cardElevation="2dp"
+            app:enforceMaterialTheme="false"
+            app:strokeWidth="0dp"
+            style="@style/0_resource_name_obfuscated_res_0x7f1502f2">
+            <LinearLayout
+                android:layout_gravity="bottom"
+                android:orientation="vertical"
+                android:id="@+id/survey_container"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1">
+                <com.google.android.libraries.surveys.internal.view.SurveyViewPager
+                    android:id="@+id/survey_viewpager"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:overScrollMode="never"/>
+            </LinearLayout>
+            <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e028c"/>
+        </com.google.android.material.card.MaterialCardView>
+    </FrameLayout>
+</ScrollView>

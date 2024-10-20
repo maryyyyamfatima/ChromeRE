@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:focusable="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+        android:id="@+id/no_preloading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140867"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140868"/>
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionAndAuxButton
+        android:id="@+id/standard_preloading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f14086e"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f14086f"/>
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionAndAuxButton
+        android:id="@+id/extended_preloading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140865"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140866"/>
+</org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout>

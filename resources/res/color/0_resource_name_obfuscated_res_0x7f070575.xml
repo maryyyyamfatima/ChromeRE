@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_selected="true"
+        android:state_pressed="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012d"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f080321"/>
+    <item
+        android:state_focused="true"
+        android:state_selected="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012d"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f08031f"/>
+    <item
+        android:state_selected="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012d"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f080320"
+        android:state_hovered="true"/>
+    <item
+        android:state_selected="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012d"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f08031e"/>
+    <item
+        android:state_pressed="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012d"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f080321"/>
+    <item
+        android:state_focused="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050131"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f08031f"/>
+    <item
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050131"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f080320"
+        android:state_hovered="true"/>
+    <item
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050131"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f08031e"/>
+</selector>

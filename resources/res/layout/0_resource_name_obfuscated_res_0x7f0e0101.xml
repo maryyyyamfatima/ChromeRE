@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.explore_sites.ExploreSitesTileView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f080210"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f08020f"
+    app:iconCornerRadius="@dimen/0_resource_name_obfuscated_res_0x7f08020a">
+    <View
+        android:layout_gravity="center_horizontal"
+        android:id="0x7f0107ed"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f090179"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08020e"/>
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tile_view_icon"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08020e"/>
+    <View
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tile_view_highlight"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f0904c5"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08020b"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08020e"/>
+    <ImageView
+        android:layout_gravity="end|top"
+        android:id="@+id/offline_badge"
+        android:visibility="gone"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807f3"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0807f3"
+        android:layout_marginTop="0dp"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14014a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0807ef"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f0902ef"/>
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:id="@+id/tile_view_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080211"
+        android:lines="2"
+        app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807ce"/>
+</org.chromium.chrome.browser.explore_sites.ExploreSitesTileView>

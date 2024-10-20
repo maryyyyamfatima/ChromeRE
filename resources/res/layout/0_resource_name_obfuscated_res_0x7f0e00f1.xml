@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="fill_horizontal"
+    android:orientation="vertical"
+    android:id="0x7f010288"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0801c5"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+    <FrameLayout
+        android:id="@+id/dropdown_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

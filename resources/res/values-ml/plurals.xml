@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d ടാബ് ചുരുക്കുക.</item>
+        <item quantity="other">%1$d ടാബുകളുള്ള ടാബ് ഗ്രൂപ്പ് ചുരുക്കുക.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d ടാബ് ചുരുക്കുക.</item>
+        <item quantity="other">%2$d ടാബുകളുള്ള %1$s ടാബ് ഗ്രൂപ്പ് ചുരുക്കുക.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ഓഡിയോ ഫയൽ</item>
+        <item quantity="other">%d ഓഡിയോ ഫയലുകള്‍</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ഫയല്‍</item>
+        <item quantity="other">%d ഫയലുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d ചിത്രം</item>
+        <item quantity="other">%d ചിത്രങ്ങൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d പേജ്</item>
+        <item quantity="other">%d പേജുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d വീഡിയോ</item>
+        <item quantity="other">%d വീഡിയോകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">തിരഞ്ഞെടുത്ത ഒരു ഇനം നീക്കംചെയ്യുക</item>
+        <item quantity="other">തിരഞ്ഞെടുത്ത %d ഇനങ്ങൾ നീക്കംചെയ്യുക</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">തിരഞ്ഞെടുത്ത ഒരു ഇനം പങ്കിടുക</item>
+        <item quantity="other">തിരഞ്ഞെടുത്ത %d ഇനങ്ങൾ പങ്കിടുക</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">തിരഞ്ഞെടുത്ത %1$d ടാബ്, ഗ്രൂപ്പിൽ നിന്ന് നീക്കം ചെയ്യുക.</item>
+        <item quantity="other">തിരഞ്ഞെടുത്ത %1$d ടാബുകൾ, ഗ്രൂപ്പിൽ നിന്ന് നീക്കം ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">തിരഞ്ഞെടുത്ത %1$d ടാബ് ഗ്രൂപ്പ് ചെയ്യുക</item>
+        <item quantity="other">തിരഞ്ഞെടുത്ത %1$d ടാബുകൾ ഗ്രൂപ്പ് ചെയ്യുക</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">തിരഞ്ഞെടുത്ത %1$d ടാബ് അടയ്‌ക്കുക</item>
+        <item quantity="other">തിരഞ്ഞെടുത്ത %1$d ടാബുകൾ അടയ്‌ക്കുക</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d ബുക്ക്‌മാർക്ക്</item>
+        <item quantity="other">%1$d ബുക്ക്‌മാർക്കുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ടാബ്</item>
+        <item quantity="other">%1$d ടാബുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ ഒരെണ്ണം കൂടി)</item>
+        <item quantity="other">(+ %d എണ്ണം കൂടി)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 കുക്കി ബ്ലോക്ക് ചെയ്തു</item>
+        <item quantity="other">%d കുക്കികൾ ബ്ലോക്ക് ചെയ്തു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d മണിക്കൂർ</item>
+        <item quantity="other">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ഫയൽ ഡൗൺലോഡ് ചെയ്‌തു</item>
+        <item quantity="other">%d ഡൗൺലോഡുകൾ പൂർത്തിയായി</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">ഒരു ഡൗൺലോഡ് പരാജയപ്പെട്ടു</item>
+        <item quantity="other">%d ഡൗൺലോഡുകൾ പരാജയപ്പെട്ടു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു…</item>
+        <item quantity="other">%d ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നു…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">ഒരു ഡൗൺലോഡ് തീർച്ചപ്പെടുത്തിയിട്ടില്ല</item>
+        <item quantity="other">%d ഡൗൺലോഡുകൾ തീർച്ചപ്പെടുത്തിയിട്ടില്ല</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 ഡൗൺലോഡ് ഷെഡ്യൂൾ ചെയ്‌തു</item>
+        <item quantity="other">%d ഡൗൺലോഡുകൾ ഷെഡ്യൂൾ ചെയ്‌തു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ഫയൽ ഡൗൺലോഡ് ചെയ്‌തു</item>
+        <item quantity="other">%1$d ഫയലുകൾ ഡൗൺലോഡ് ചെയ്‌തു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d പൊരുത്തം</item>
+        <item quantity="other">%d പൊരുത്തങ്ങൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s അദൃശ്യ ടാബ് അടയ്‌ക്കും</item>
+        <item quantity="other">%1$s അദൃശ്യ ടാബുകൾ അടയ്‌ക്കും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s അദൃശ്യ ടാബും മറ്റ് %2$s ടാബും കൂടി അടയ്ക്കും</item>
+        <item quantity="other">%1$s അദൃശ്യ ടാബും മറ്റ് %2$s ടാബുകളും കൂടി അടയ്ക്കും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s എന്നതും മറ്റ് %2$s ടാബും കൂടി അടയ്ക്കും</item>
+        <item quantity="other">%1$s എന്നതും മറ്റ് %2$s ടാബുകളും കൂടി അടയ്ക്കും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s അദൃശ്യ ടാബ്</item>
+        <item quantity="other">%1$s അദൃശ്യ ടാബുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ടാബ്</item>
+        <item quantity="other">%2$s ടാബുകൾ, %1$s അദൃശ്യ മോഡ്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ടാബ്</item>
+        <item quantity="other">%d ടാബുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s റിവ്യൂ)</item>
+        <item quantity="other">(%1$s റിവ്യൂകൾ)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google-ൽ നിന്നുള്ള %1$s റിവ്യൂ</item>
+        <item quantity="other">Google-ൽ നിന്നുള്ള %1$s റിവ്യൂകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d ദിവസം മുമ്പ്</item>
+        <item quantity="other">%d ദിവസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d മണിക്കൂര്‍ മുമ്പ്</item>
+        <item quantity="other">%d മണിക്കൂര്‍ മുമ്പ്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">നിങ്ങളുടെ പേജ് തയ്യാറാകുമ്പോൾ Chrome ലോഡ് ചെയ്യും</item>
+        <item quantity="other">നിങ്ങളുടെ പേജുകൾ തയ്യാറാകുമ്പോൾ Chrome ലോഡ് ചെയ്യും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">ഒരു കുക്കി ഉപയോഗത്തിലാണ്</item>
+        <item quantity="other">%d കുക്കികൾ ഉപയോഗത്തിലാണ്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും അനുവദിച്ചു</item>
+        <item quantity="other">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും അനുവദിച്ചു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും ബ്ലോക്ക് ചെയ്‌തു</item>
+        <item quantity="other">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും ബ്ലോക്ക് ചെയ്‌തു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും</item>
+        <item quantity="other">%1$s, %2$s എന്നിവയും മറ്റ് %3$s എണ്ണവും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">അപഹരിക്കപ്പെട്ട %d പാസ്‌വേഡ്</item>
+        <item quantity="other">അപഹരിക്കപ്പെട്ട %d പാസ്‌വേഡുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+        <item quantity="other">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+        <item quantity="other">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+        <item quantity="other">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+        <item quantity="other">%1$s… എന്നതും ‌മറ്റ് %2$s പേയ്‌മെന്റ് രീതികളും</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">നിങ്ങൾക്ക് വായിക്കാത്ത %1$d പേജ് ഉണ്ട്</item>
+        <item quantity="other">നിങ്ങൾക്ക് വായിക്കാത്ത %1$d പേജുകൾ ഉണ്ട്</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">വായിക്കാത്ത %1$d പേജ്</item>
+        <item quantity="other">വായിക്കാത്ത %1$d പേജുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">അപഹരിക്കപ്പെട്ട ഒരു പാസ്‌വേഡ്</item>
+        <item quantity="other">അപഹരിക്കപ്പെട്ട %d പാസ്‌വേഡുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">ഒരു ദിവസം മുമ്പ് പരിശോധിച്ചു</item>
+        <item quantity="other">%d ദിവസം മുമ്പ് പരിശോധിച്ചു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">ഒരു മണിക്കൂർ മുമ്പ് പരിശോധിച്ചു</item>
+        <item quantity="other">%d മണിക്കൂർ മുമ്പ് പരിശോധിച്ചു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">ഒരു മിനിറ്റ് മുമ്പ് പരിശോധിച്ചു</item>
+        <item quantity="other">%d മിനിറ്റ് മുമ്പ് പരിശോധിച്ചു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 തിരഞ്ഞെടുത്തു</item>
+        <item quantity="other">%d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">സിഗ്‌നൽ സ്‌ട്രെംഗ്‌ത്ത് ലെവൽ %d ബാർ</item>
+        <item quantity="other">സിഗ്‌നൽ സ്‌ട്രെംഗ്‌ത്ത് ലെവൽ %d ബാറുകൾ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%2$d നക്ഷത്ര ചിഹ്നങ്ങളിൽ %1$d എണ്ണം</item>
+        <item quantity="other">%2$d നക്ഷത്ര ചിഹ്നങ്ങളിൽ %1$d എണ്ണം</item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/normal_menu_group">
+        <item
+            android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0900c9"
+            android:id="@+id/info_menu_id"
+            android:visible="false"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f140a41"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090312"
+            android:id="@+id/search_menu_id"
+            android:visible="false"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f1409c7"
+            app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012a"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0900c5"
+            android:id="@+id/close_menu_id"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f140362"
+            app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012a"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/optout_menu_id"
+            android:visible="false"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f140504"
+            app:showAsAction="never"/>
+    </group>
+    <group
+        android:id="@+id/selection_mode_menu_group"
+        android:visible="false">
+        <item
+            android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0901e2"
+            android:id="@+id/selection_mode_delete_menu_id"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f140953"
+            app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012a"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/selection_mode_open_in_new_tab"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f1403ac"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/selection_mode_open_in_incognito"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f1403aa"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/selection_mode_copy_link"
+            android:title="@string/0_resource_name_obfuscated_res_0x7f1403d6"
+            app:showAsAction="never"/>
+    </group>
+</menu>

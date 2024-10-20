@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080079"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f08007a"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f08007a">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150453"
+        android:ellipsize="end"
+        android:id="@+id/dropdown_label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:includeFontPadding="false"
+        android:layout_weight="1"
+        android:textAlignment="viewStart"/>
+    <ImageView
+        android:id="@+id/dropdown_icon"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f08007d"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080078"
+        android:scaleType="centerInside"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f08007c"
+        android:layout_marginEnd="0dp"/>
+</LinearLayout>

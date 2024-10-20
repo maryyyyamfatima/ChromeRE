@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d tabını yığcamlaşdırın.</item>
+        <item quantity="other">%1$d tab olan tab qrupunu yığcamlaşdırın.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d tabını yığcamlaşdırın.</item>
+        <item quantity="other">%2$d tab olan %1$s tab qrupunu yığcamlaşdırın.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d Audio fayl</item>
+        <item quantity="other">%d Audio fayl</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d Fayl</item>
+        <item quantity="other">%d Fayl</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d Şəkil</item>
+        <item quantity="other">%d Şəkil</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d Səhifə</item>
+        <item quantity="other">%d Səhifə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d Video</item>
+        <item quantity="other">%d Video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Seçilmiş 1 elementi silin</item>
+        <item quantity="other">Seçilmiş %d elementi silin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Seçilmiş 1 elementi paylaşın</item>
+        <item quantity="other">Seçilmiş %d elementi paylaşın</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">%1$d seçilmiş tabı qrupdan silin.</item>
+        <item quantity="other">%1$d seçilmiş tabı qrupdan silin.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$d seçilmiş tabı qruplaşdırın</item>
+        <item quantity="other">%1$d seçilmiş tabı qruplaşdırın</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Seçilmiş %1$d tabeli bağlayın</item>
+        <item quantity="other">Seçilmiş %1$d tabeli bağlayın</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d əlfəcin</item>
+        <item quantity="other">%1$d əlfəcin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d tab</item>
+        <item quantity="other">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+1)</item>
+        <item quantity="other">(+ %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 kuki bloklanıb</item>
+        <item quantity="other">%d kuki bloklanıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Fayl endirildi</item>
+        <item quantity="other">%d endirmə tamamlandı</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 endirmə alınmadı</item>
+        <item quantity="other">%d endirmə alınmadı</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Fayl endirilir…</item>
+        <item quantity="other">%d fayl endirilir…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 endirmə gözlənilir</item>
+        <item quantity="other">%d endirmə gözlənilir</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 endirmə planlanıb</item>
+        <item quantity="other">%d endirmə planlanıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fayl endirildi</item>
+        <item quantity="other">%1$d fayl endirildi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d uyğunluq</item>
+        <item quantity="other">%d uyğunluq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s anonim tab bağlanacaq</item>
+        <item quantity="other">%1$s anonim tab bağlanacaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s anonim və digər %2$s tab bağlanacaq</item>
+        <item quantity="other">%1$s anonim və digər %2$s tab bağlanacaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s və digər %2$s tab bağlanacaq</item>
+        <item quantity="other">%1$s və digər %2$s tab bağlanacaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s anonim tab</item>
+        <item quantity="other">%1$s anonim tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s tab</item>
+        <item quantity="other">%2$s tab, %1$s anonim</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s rəy)</item>
+        <item quantity="other">(%1$s rəy)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google&apos;dan %1$s rəy</item>
+        <item quantity="other">Google&apos;dan %1$s rəy</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d gün öncə</item>
+        <item quantity="other">%d gün öncə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d saat öncə</item>
+        <item quantity="other">%d saat öncə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d dəqiqə öncə</item>
+        <item quantity="other">%d dəqiqə öncə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome səhifəni cihaz onlayn olduqda yükləyəcək</item>
+        <item quantity="other">Chrome səhifələri cihaz onlayn olduqda yükləyəcək</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 kuki istifadə olunur</item>
+        <item quantity="other">%d kuki istifadə olunur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s və daha %3$s üçün icazə verilib</item>
+        <item quantity="other">%1$s, %2$s və daha %3$s üçün icazə verilib</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s və daha %3$s icazə bloklanıb</item>
+        <item quantity="other">%1$s, %2$s və daha %3$s icazə bloklanıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s və daha %3$s icazə</item>
+        <item quantity="other">%1$s, %2$s və daha %3$s icazə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d oğurlanmış parol</item>
+        <item quantity="other">%d oğurlanmış parol</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… və %2$s digəri</item>
+        <item quantity="other">%1$s… və %2$s digəri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… və %2$s digəri</item>
+        <item quantity="other">%1$s… və %2$s digəri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… və %2$s digəri</item>
+        <item quantity="other">%1$s… və %2$s digəri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… və %2$s digəri</item>
+        <item quantity="other">%1$s… və %2$s digəri</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">%1$d oxunmamış səhifəniz var</item>
+        <item quantity="other">%1$d oxunmamış səhifəniz var</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d oxunmamış səhifə</item>
+        <item quantity="other">%1$d oxunmamış səhifə</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 oğurlanmış parol</item>
+        <item quantity="other">%d oğurlanmış parol</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 gün əvvəl yoxlanılıb</item>
+        <item quantity="other">%d gün əvvəl yoxlanılıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 saat əvvəl yoxlanılıb</item>
+        <item quantity="other">%d saat əvvəl yoxlanılıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 dəqiqə əvvəl yoxlanılıb</item>
+        <item quantity="other">%d dəqiqə əvvəl yoxlanılıb</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Siqnal Gücü Səviyyəsi: %d panel</item>
+        <item quantity="other">Siqnal Gücü Səviyyəsi: %d panel</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d ulduz</item>
+        <item quantity="other">%1$d/%2$d ulduz</item>
+    </plurals>
+</resources>

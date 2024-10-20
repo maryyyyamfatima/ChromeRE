@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408c1"
+        android:selectable="false"
+        app:allowDividerBelow="false"/>
+    <org.chromium.components.browser_ui.settings.LongSummaryTextMessagePreference
+        android:selectable="false"
+        android:key="ad_personalization_description"
+        app:allowDividerBelow="false"/>
+    <PreferenceCategory
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140901"
+        android:key="topic_interests"
+        app:isPreferenceVisible="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:selectable="false"
+        android:key="empty_topics"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140900"
+        app:isPreferenceVisible="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408f1"
+        android:key="removed_topics"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.AdPersonalizationRemovedFragment"
+        app:allowDividerAbove="false"
+        app:isPreferenceVisible="false"
+        app:userAction="Settings.PrivacySandbox.RemovedInterests.Opened"/>
+    <PreferenceCategory
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408db"
+        android:key="fledge_interests"
+        app:allowDividerAbove="true"
+        app:isPreferenceVisible="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:selectable="false"
+        android:key="empty_fledge"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408d9"
+        app:isPreferenceVisible="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408f4"
+        android:key="removed_sites"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.AdPersonalizationRemovedFragment"
+        app:allowDividerAbove="false"
+        app:allowDividerBelow="false"
+        app:isPreferenceVisible="false"
+        app:userAction="Settings.PrivacySandbox.RemovedInterests.Opened"/>
+</PreferenceScreen>

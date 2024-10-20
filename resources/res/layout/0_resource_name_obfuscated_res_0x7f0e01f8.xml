@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/sync_promo_illustration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f0904aa"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502d0"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/signin_promo_image"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f080732"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080732"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:scaleType="fitCenter"
+        android:importantForAccessibility="no"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:layout_gravity="end|top"
+        android:id="@+id/signin_promo_close_button"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:visibility="gone"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900c5"
+        android:scaleType="center"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140362"
+        app:tint="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+</merge>

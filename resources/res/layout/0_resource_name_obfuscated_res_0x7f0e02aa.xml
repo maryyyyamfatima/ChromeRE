@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.tasks.tab_management.MessageCardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="0x7f010793"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f0900e0"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/0_resource_name_obfuscated_res_0x7f0807ae">
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/icon"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:minWidth="8dp"
+        android:layout_weight="1"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f090212"/>
+    <org.chromium.components.browser_ui.widget.text.TemplatePreservingTextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:layout_gravity="start|center_vertical"
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp"
+        android:layout_weight="4"
+        android:textAlignment="viewStart"/>
+    <org.chromium.ui.widget.ButtonCompat
+        android:layout_gravity="center"
+        android:id="@+id/action_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/close_button"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:tint="?attr/0_resource_name_obfuscated_res_0x7f05012e"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140362"
+        style="@style/0_resource_name_obfuscated_res_0x7f15019a"/>
+</org.chromium.chrome.browser.tasks.tab_management.MessageCardView>

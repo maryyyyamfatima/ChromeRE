@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:gravity="center_horizontal"
+        android:id="@+id/cc_month_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/0_resource_name_obfuscated_res_0x7f140236"
+        android:width="50sp"
+        android:maxLength="2"
+        android:inputType="number"
+        android:imeOptions="actionNext"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140237"/>
+    <EditText
+        android:gravity="center_horizontal"
+        android:id="@+id/cc_year_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/0_resource_name_obfuscated_res_0x7f140238"
+        android:width="50sp"
+        android:maxLength="2"
+        android:inputType="number"
+        android:imeOptions="actionDone"/>
+</LinearLayout>

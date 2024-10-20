@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140983"
+        android:key="subtitle"
+        app:allowDividerBelow="false"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090313"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f14097f"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0901e1"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140980"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140982"
+        android:key="extended_reporting"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140981"
+        app:allowDividerBelow="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1407e8"
+        android:key="password_leak_detection"
+        app:allowDividerBelow="false"/>
+</PreferenceScreen>

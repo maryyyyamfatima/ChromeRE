@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f1502db" parent="@style/0_resource_name_obfuscated_res_0x7f150489">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1502dc" parent="@style/0_resource_name_obfuscated_res_0x7f150489">
+        <item name="android:background">@color/0_resource_name_obfuscated_res_0x7f070870</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="0_resource_name_obfuscated_res_0x7f05010d">@color/0_resource_name_obfuscated_res_0x7f07086e</item>
+    </style>
+</resources>

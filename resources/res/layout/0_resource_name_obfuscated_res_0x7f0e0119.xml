@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/fullscreen_notification"
+    android:paddingTop="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150476"
+        android:layout_gravity="center"
+        android:id="@+id/text"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f090408"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="@dimen/0_resource_name_obfuscated_res_0x7f080252"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140523"
+        android:textAlignment="center"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"/>
+</LinearLayout>

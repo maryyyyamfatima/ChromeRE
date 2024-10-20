@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.listmenu.ListMenuButton xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/more"
+    android:background="@null"
+    android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+    android:layout_height="match_parent"
+    android:src="@drawable/0_resource_name_obfuscated_res_0x7f09025e"
+    android:layout_marginEnd="4dp"
+    app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>

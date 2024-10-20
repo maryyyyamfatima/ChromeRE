@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.explore_sites.ExploreSitesCategoryCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080207"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080206"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f080202"
+    android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080202">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15045c"
+        android:gravity="center"
+        android:id="@+id/category_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f080208"/>
+    <org.chromium.chrome.browser.suggestions.tile.MostVisitedTilesGridLayout
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:id="@+id/category_sites"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080209"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="5"
+        android:columnOrderPreserved="true"/>
+</org.chromium.chrome.browser.explore_sites.ExploreSitesCategoryCardView>

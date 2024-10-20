@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:id="0x7f0100eb"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f090397"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08005f"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080060"
+        android:scaleY="-1"
+        android:importantForAccessibility="no"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="0x7f0100ea"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <org.chromium.ui.widget.ButtonCompat
+            android:id="@+id/cancel_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f1402f4"
+            style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+        <View
+            android:visibility="invisible"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <org.chromium.ui.widget.ButtonCompat
+            android:id="@+id/confirm_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f14038c"
+            style="@style/0_resource_name_obfuscated_res_0x7f1501c6"/>
+    </LinearLayout>
+</merge>

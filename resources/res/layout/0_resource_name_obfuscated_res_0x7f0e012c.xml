@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/0_resource_name_obfuscated_res_0x7f070098"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e02c9"/>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <FrameLayout
+                android:id="@+id/sengine_fragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <FrameLayout
+                android:id="@+id/text_editor_fragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <org.chromium.components.browser_ui.widget.FadingShadowView
+                android:layout_gravity="top"
+                android:id="@+id/top_drop_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0801dc"/>
+            <org.chromium.components.browser_ui.widget.FadingShadowView
+                android:layout_gravity="bottom"
+                android:id="@+id/bottom_drop_shadow"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0801dc"
+                android:scaleY="-1"/>
+        </FrameLayout>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e006d"/>
+    </LinearLayout>
+    <ViewStub
+        android:layout_gravity="start|bottom"
+        android:id="@+id/bottombar_stub"
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e0278"
+        android:inflatedId="@+id/bottombar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-4dp"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e02b5"/>
+</FrameLayout>

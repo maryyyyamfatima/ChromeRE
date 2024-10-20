@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <View
+        android:id="0x7f0106b4"
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        style="@style/0_resource_name_obfuscated_res_0x7f150601"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:id="@+id/expand_arrow"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f090202"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14012f"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0806e7"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0806e9"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+</LinearLayout>

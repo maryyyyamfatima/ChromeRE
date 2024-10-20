@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:id="@+id/search_view"
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:textColorHint="?attr/0_resource_name_obfuscated_res_0x7f050132"
+        android:id="@+id/search_text"
+        android:background="@null"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:singleLine="true"
+        android:layout_weight="1"
+        android:inputType="text"
+        android:imeOptions="flagNoExtractUi|actionSearch"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:id="@+id/clear_text_button"
+        android:background="@null"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900c7"
+        android:scaleType="center"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140189"
+        android:paddingStart="16dp"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080104"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+</LinearLayout>

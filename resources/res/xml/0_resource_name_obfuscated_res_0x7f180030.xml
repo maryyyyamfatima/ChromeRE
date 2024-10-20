@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140902"
+        android:key="privacy_sandbox_toggle"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408d2"
+        app:allowDividerBelow="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:key="privacy_sandbox_learn_more"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.LearnMoreFragment"
+        app:userAction="Settings.PrivacySandbox.AdPersonalization.LearnMoreClicked"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f09018a"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408c3"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408c2"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.AdPersonalizationFragment"
+        app:userAction="Settings.PrivacySandbox.AdPersonalization.Opened"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f09019a"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408bd"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408bc"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.AdMeasurementFragment"
+        app:userAction="Settings.PrivacySandbox.AdMeasurement.Opened"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090321"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408fb"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408fa"
+        android:fragment="org.chromium.chrome.browser.privacy_sandbox.SpamFraudFragment"
+        app:userAction="Settings.PrivacySandbox.SpamFraud.Opened"/>
+</PreferenceScreen>

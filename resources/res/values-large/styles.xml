@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f15005d" parent="@style/0_resource_name_obfuscated_res_0x7f15005b">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150064" parent="@style/0_resource_name_obfuscated_res_0x7f150062">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150075" parent="@style/0_resource_name_obfuscated_res_0x7f150073">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15007e" parent="@style/0_resource_name_obfuscated_res_0x7f15007c">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150085" parent="@style/0_resource_name_obfuscated_res_0x7f150083">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15008c" parent="@style/0_resource_name_obfuscated_res_0x7f15008a">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15009b" parent="@style/0_resource_name_obfuscated_res_0x7f150099">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1500a5" parent="@style/0_resource_name_obfuscated_res_0x7f1500a3">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1504f3" parent="@style/0_resource_name_obfuscated_res_0x7f15008f">
+        <item name="0_resource_name_obfuscated_res_0x7f050523">@dimen/0_resource_name_obfuscated_res_0x7f08001c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050524">@dimen/0_resource_name_obfuscated_res_0x7f08001d</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050525">@dimen/0_resource_name_obfuscated_res_0x7f08001e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050526">@dimen/0_resource_name_obfuscated_res_0x7f08001f</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150504" parent="@style/0_resource_name_obfuscated_res_0x7f150092">
+        <item name="0_resource_name_obfuscated_res_0x7f050523">@dimen/0_resource_name_obfuscated_res_0x7f08001c</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050524">@dimen/0_resource_name_obfuscated_res_0x7f08001d</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050525">@dimen/0_resource_name_obfuscated_res_0x7f08001e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050526">@dimen/0_resource_name_obfuscated_res_0x7f08001f</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150549" parent="@style/0_resource_name_obfuscated_res_0x7f1505df">
+    </style>
+</resources>

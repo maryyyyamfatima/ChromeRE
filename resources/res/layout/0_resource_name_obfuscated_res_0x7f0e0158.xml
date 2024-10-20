@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.keyboard_accessory.tab_layout_component.KeyboardAccessoryTabLayoutView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="end"
+    android:background="@null"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0803a7"
+    app:tabIndicatorHeight="0dp"
+    app:tabMaxWidth="@dimen/0_resource_name_obfuscated_res_0x7f0803a6"
+    app:tabPaddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080394"
+    app:tabPaddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080394"
+    app:tabSelectedTextColor="?attr/0_resource_name_obfuscated_res_0x7f05013a"
+    app:tabTextColor="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>

@@ -1,0 +1,28 @@
+package defpackage;
+
+import android.content.ContentResolver;
+import android.net.Uri;
+
+/* compiled from: chromium-ChromeModern.aab-stable-519513610 */
+/* loaded from: classes.dex */
+public final class N24 implements InterfaceC8374oY1, P24 {
+    public final ContentResolver a;
+
+    @Override // defpackage.InterfaceC8374oY1
+    public final void a() {
+    }
+
+    public N24(ContentResolver contentResolver) {
+        this.a = contentResolver;
+    }
+
+    @Override // defpackage.InterfaceC8374oY1
+    public final InterfaceC8030nY1 c(C3727b02 c3727b02) {
+        return new R24(this);
+    }
+
+    @Override // defpackage.P24
+    public final InterfaceC3145Yf0 b(Uri uri) {
+        return new C7410lk(this.a, uri);
+    }
+}

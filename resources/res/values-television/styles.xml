@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated" parent="@style/0_resource_name_obfuscated_res_0x7f150847">
+        <item name="0_resource_name_obfuscated_res_0x7f050089">@color/0_resource_name_obfuscated_res_0x7f07055b</item>
+        <item name="0_resource_name_obfuscated_res_0x7f05050e">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1502f9" parent="@style/0_resource_name_obfuscated_res_0x7f1504c2">
+        <item name="0_resource_name_obfuscated_res_0x7f0500d0">@style/0_resource_name_obfuscated</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1502fa" parent="@style/0_resource_name_obfuscated_res_0x7f1504c2">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustNothing|stateUnchanged</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="0_resource_name_obfuscated_res_0x7f05013d">@color/0_resource_name_obfuscated_res_0x7f07086e</item>
+        <item name="0_resource_name_obfuscated_res_0x7f050152">@color/0_resource_name_obfuscated_res_0x7f070888</item>
+    </style>
+</resources>

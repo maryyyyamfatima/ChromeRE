@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f08008f">
+    <ListView
+        android:id="@+id/bookmark_folder_list"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f08008e"
+        android:clipToPadding="false"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"/>
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080803"
+        style="@style/0_resource_name_obfuscated_res_0x7f15020d"/>
+    <View
+        android:id="@+id/shadow"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f0900b5"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08008c"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080803"/>
+</merge>

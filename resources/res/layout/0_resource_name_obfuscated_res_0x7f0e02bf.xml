@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View
+        android:layout_gravity="center_horizontal"
+        android:id="0x7f0107ed"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f0904c8"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807e9"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0807e9"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0807e5"/>
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tile_view_icon"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807ea"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0807ea"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0807e7"/>
+    <View
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tile_view_highlight"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f0904c5"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807e9"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0807e9"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0807e5"/>
+    <ImageView
+        android:layout_gravity="end|top"
+        android:id="@+id/offline_badge"
+        android:visibility="gone"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807f3"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0807f3"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0807f2"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14014a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0807f0"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f0902ef"/>
+</merge>

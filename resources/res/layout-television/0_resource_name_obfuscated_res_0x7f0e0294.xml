@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/survey_question_header_logo_text"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080757"
+    android:focusable="true"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="16dp"
+    android:layout_marginRight="8dp">
+    <include
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e028f"/>
+    <TextView
+        android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f080767"
+        android:textColor="@color/0_resource_name_obfuscated_res_0x7f070884"
+        android:id="@+id/survey_question_text"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f0904a5"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lineSpacingMultiplier="@dimen/0_resource_name_obfuscated_res_0x7f08075c"
+        android:fontFamily="@string/0_resource_name_obfuscated_res_0x7f140aab"
+        android:focusedByDefault="true"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502f5"/>
+</LinearLayout>

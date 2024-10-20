@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f09011e"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:gravity="center_horizontal"
+        android:id="@+id/account_picker_header_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140a56"/>
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+        android:gravity="center_horizontal"
+        android:id="@+id/account_picker_header_subtitle"
+        android:focusable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140a53"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807cc"/>
+</merge>

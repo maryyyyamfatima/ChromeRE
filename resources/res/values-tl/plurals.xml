@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">I-collapse ang %1$d tab.</item>
+        <item quantity="other">I-collapse ang grupo ng tab na may %1$d na tab.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">I-collapse ang %1$d tab.</item>
+        <item quantity="other">I-collapse ang grupo ng tab na %1$s na may %2$d na tab.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d Audio file</item>
+        <item quantity="other">%d na Audio file</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d File</item>
+        <item quantity="other">%d na File</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d Larawan</item>
+        <item quantity="other">%d na Larawan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d Page</item>
+        <item quantity="other">%d na Page</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d Video</item>
+        <item quantity="other">%d na Video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Alisin ang 1 piniling item</item>
+        <item quantity="other">Alisin ang %d na piniling item</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Ibahagi ang 1 piniling item</item>
+        <item quantity="other">Ibahagi ang %d na piniling item</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Alisin ang %1$d piniling tab sa grupo.</item>
+        <item quantity="other">Alisin ang %1$d na piniling tab sa grupo.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Igrupo ang %1$d napiling tab</item>
+        <item quantity="other">Igrupo ang %1$d na napiling tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Isara ang %1$d napiling tab</item>
+        <item quantity="other">Isara ang %1$d na napiling tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d bookmark</item>
+        <item quantity="other">%1$d na bookmark</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d tab</item>
+        <item quantity="other">%1$d na tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 pa)</item>
+        <item quantity="other">(+ %d pa)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 cookie ang na-block</item>
+        <item quantity="other">%d na cookies ang na-block</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d oras</item>
+        <item quantity="other">%d na oras</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Na-download ang file</item>
+        <item quantity="other">Tapos na ang %d na pag-download</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 ang hindi na-download</item>
+        <item quantity="other">%d ang hindi na-download</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Dina-download ang file…</item>
+        <item quantity="other">Nagda-download ng %d na file…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Nakabinbin ang 1 pag-download</item>
+        <item quantity="other">Nakabinbin ang %d na pag-download</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 download ang nakaiskedyul</item>
+        <item quantity="other">%d na download ang nakaiskedyul</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d file ang na-download</item>
+        <item quantity="other">%1$d na file ang na-download</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d tugma</item>
+        <item quantity="other">%d na tugma</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s tab na incognito ang isasara</item>
+        <item quantity="other">%1$s na tab na incognito ang isasara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Isasara ang %1$s tab na incognito at %2$s pang tab</item>
+        <item quantity="other">Isasara ang %1$s na tab na incognito at %2$s pang tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">Isasara ang %1$s at %2$s pang tab</item>
+        <item quantity="other">Isasara ang %1$s at %2$s pang tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s tab na incognito</item>
+        <item quantity="other">%1$s na tab na incognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s tab</item>
+        <item quantity="other">%2$s na tab, %1$s incognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d na tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s review)</item>
+        <item quantity="other">(%1$s na review)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s review mula sa Google</item>
+        <item quantity="other">%1$s na review mula sa Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d araw ang nakalipas</item>
+        <item quantity="other">%d na araw ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d oras ang nakalipas</item>
+        <item quantity="other">%d na oras ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minuto ang nakalipas</item>
+        <item quantity="other">%d na minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Ilo-load ng Chrome ang iyong page kapag handa na</item>
+        <item quantity="other">Ilo-load ng Chrome ang iyong mga page kapag handa na</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 cookie ang ginagamit</item>
+        <item quantity="other">%d na cookie ang ginagamit</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Pinapayagan ang %1$s, %2$s, at %3$s pa</item>
+        <item quantity="other">Pinapayagan ang %1$s, %2$s, at %3$s pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Naka-block ang %1$s, %2$s, at %3$s pa</item>
+        <item quantity="other">Naka-block ang %1$s, %2$s, at %3$s pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s, at %3$s pa</item>
+        <item quantity="other">%1$s, %2$s, at %3$s pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d nakompromisong password</item>
+        <item quantity="other">%d na nakompromisong password</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… at %2$s iba pa</item>
+        <item quantity="other">%1$s… at %2$s na iba pa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Mayroon kang %1$d page na hindi pa nababasa</item>
+        <item quantity="other">Mayroon kang %1$d na page na hindi pa nababasa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d page ang hindi pa nababasa</item>
+        <item quantity="other">%1$d na page ang hindi pa nababasa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 nakompromisong password</item>
+        <item quantity="other">%d na nakompromisong password</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Nagsuri 1 araw ang nakalipas</item>
+        <item quantity="other">Nagsuri %d na araw ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Nagsuri 1 oras ang nakalipas</item>
+        <item quantity="other">Nagsuri %d na oras ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Nagsuri 1 minuto ang nakalipas</item>
+        <item quantity="other">Nagsuri %d na minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 ang napili</item>
+        <item quantity="other">%d ang napili</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Antas ng Lakas ng Signal: %d bar</item>
+        <item quantity="other">Antas ng Lakas ng Signal: %d na bar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d star sa %2$d</item>
+        <item quantity="other">%1$d na star sa %2$d</item>
+    </plurals>
+</resources>

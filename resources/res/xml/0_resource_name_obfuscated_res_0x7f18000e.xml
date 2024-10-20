@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.search.rendering.xuikit.device
+        </configuration-package>
+        <log-sources>
+            <log-source>ANDROID_GSA
+            </log-source>
+            <log-source>ANDROID_GSA_ANDROID_PRIMES
+            </log-source>
+            <log-source>ANDROID_GSA_COUNTERS
+            </log-source>
+            <log-source>ANDROID_GSA_HIGH_PRIORITY_EVENTS
+            </log-source>
+            <log-source>CLIENT_LOGGING_PROD
+            </log-source>
+            <log-source>CRONET_ANDROID_GSA
+            </log-source>
+            <log-source>SEARCHLITE
+            </log-source>
+            <log-source>SEARCHLITE_ANDROID_PRIMES
+            </log-source>
+            <log-source>SILK_NATIVE
+            </log-source>
+            <log-source>XUIKIT
+            </log-source>
+            <log-source>XUIKIT_COUNTERS
+            </log-source>
+            <log-source>STREAMZ_XUIKIT_CLIENT_ERRORS
+            </log-source>
+        </log-sources>
+        <auto-subpackage>true
+        </auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

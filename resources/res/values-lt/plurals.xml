@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Sutraukti %1$d skirtuką.</item>
+        <item quantity="few">Sutraukti skirtukų grupę, kurioje yra %1$d skirtukai.</item>
+        <item quantity="many">Sutraukti skirtukų grupę, kurioje yra %1$d skirtuko.</item>
+        <item quantity="other">Sutraukti skirtukų grupę, kurioje yra %1$d skirtukų.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Sutraukti %1$d skirtuką.</item>
+        <item quantity="few">Sutraukti skirtukų grupę „%1$s“, kurioje yra %2$d skirtukai.</item>
+        <item quantity="many">Sutraukti skirtukų grupę „%1$s“, kurioje yra %2$d skirtuko.</item>
+        <item quantity="other">Sutraukti skirtukų grupę „%1$s“, kurioje yra %2$d skirtukų.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d garso įrašo failas</item>
+        <item quantity="few">%d garso įrašo failai</item>
+        <item quantity="many">%d garso įrašo failo</item>
+        <item quantity="other">%d garso įrašo failų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d failas</item>
+        <item quantity="few">%d failai</item>
+        <item quantity="many">%d failo</item>
+        <item quantity="other">%d failų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d vaizdas</item>
+        <item quantity="few">%d vaizdai</item>
+        <item quantity="many">%d vaizdo</item>
+        <item quantity="other">%d vaizdų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d puslapis</item>
+        <item quantity="few">%d puslapiai</item>
+        <item quantity="many">%d puslapio</item>
+        <item quantity="other">%d puslapių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d vaizdo įrašas</item>
+        <item quantity="few">%d vaizdo įrašai</item>
+        <item quantity="many">%d vaizdo įrašo</item>
+        <item quantity="other">%d vaizdo įrašų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Pašalinti 1 pasirinktą elementą</item>
+        <item quantity="few">Pašalinti %d pasirinktus elementus</item>
+        <item quantity="many">Pašalinti %d pasirinkto elemento</item>
+        <item quantity="other">Pašalinti %d pasirinktų elementų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Bendrinti 1 pasirinktą elementą</item>
+        <item quantity="few">Bendrinti %d pasirinktus elementus</item>
+        <item quantity="many">Bendrinti %d pasirinkto elemento</item>
+        <item quantity="other">Bendrinti %d pasirinktų elementų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Pašalinti %1$d pasirinktą skirtuką iš grupės.</item>
+        <item quantity="few">Pašalinti %1$d pasirinktus skirtukus iš grupės.</item>
+        <item quantity="many">Pašalinti %1$d pasirinkto skirtuko iš grupės.</item>
+        <item quantity="other">Pašalinti %1$d pasirinktų skirtukų iš grupės.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Grupuoti %1$d pasirinktą skirtuką</item>
+        <item quantity="few">Grupuoti %1$d pasirinktus skirtukus</item>
+        <item quantity="many">Grupuoti %1$d pasirinkto skirtuko</item>
+        <item quantity="other">Grupuoti %1$d pasirinktų skirtukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Uždaryti %1$d pasirinktą skirtuką</item>
+        <item quantity="few">Uždaryti %1$d pasirinktus skirtukus</item>
+        <item quantity="many">Uždaryti %1$d pasirinkto skirtuko</item>
+        <item quantity="other">Uždaryti %1$d pasirinktų skirtukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d žymė</item>
+        <item quantity="few">%1$d žymės</item>
+        <item quantity="many">%1$d žymės</item>
+        <item quantity="other">%1$d žymių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d skirtukas</item>
+        <item quantity="few">%1$d skirtukai</item>
+        <item quantity="many">%1$d skirtuko</item>
+        <item quantity="other">%1$d skirtukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(ir dar 1)</item>
+        <item quantity="few">(ir dar %d)</item>
+        <item quantity="many">(ir dar %d)</item>
+        <item quantity="other">(ir dar %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Užblokuotas 1 slapukas</item>
+        <item quantity="few">Užblokuoti %d slapukai</item>
+        <item quantity="many">Užblokuota %d slapuko</item>
+        <item quantity="other">Užblokuota %d slapukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Failas atsisiųstas</item>
+        <item quantity="few">Baigti %d atsisiuntimai</item>
+        <item quantity="many">Baigta %d atsisiuntimo</item>
+        <item quantity="other">Baigta %d atsisiuntimų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Nepavyko atlikti 1 atsisiuntimo</item>
+        <item quantity="few">Nepavyko atlikti %d atsisiuntimų</item>
+        <item quantity="many">Nepavyko atlikti %d atsisiuntimo</item>
+        <item quantity="other">Nepavyko atlikti %d atsisiuntimų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Atsisiunčiamas failas…</item>
+        <item quantity="few">Atsisiunčiami %d failai…</item>
+        <item quantity="many">Atsisiunčiama %d failo…</item>
+        <item quantity="other">Atsisiunčiama %d failų…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Laukiama 1 atsisiuntimo</item>
+        <item quantity="few">Laukiama %d atsisiuntimų</item>
+        <item quantity="many">Laukiama %d atsisiuntimo</item>
+        <item quantity="other">Laukiama %d atsisiuntimų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Suplanuotas 1 atsisiuntimas</item>
+        <item quantity="few">Suplanuoti %d atsisiuntimai</item>
+        <item quantity="many">Suplanuota %d atsisiuntimo</item>
+        <item quantity="other">Suplanuota %d atsisiuntimų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Atsisiųstas %1$d failas</item>
+        <item quantity="few">Atsisiųsti %1$d failai</item>
+        <item quantity="many">Atsisiųsta %1$d failo</item>
+        <item quantity="other">Atsisiųsta %1$d failų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d atitiktis</item>
+        <item quantity="few">%d atitiktys</item>
+        <item quantity="many">%d atitikties</item>
+        <item quantity="other">%d atitikčių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s inkognito skirtukas bus uždarytas</item>
+        <item quantity="few">%1$s inkognito skirtukai bus uždaryti</item>
+        <item quantity="many">%1$s inkognito skirtuko bus uždaryta</item>
+        <item quantity="other">%1$s inkognito skirtukų bus uždaryta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s inkognito ir dar %2$s skirtukas bus uždaryti</item>
+        <item quantity="few">%1$s inkognito ir dar %2$s skirtukai bus uždaryti</item>
+        <item quantity="many">%1$s inkognito ir dar %2$s skirtuko bus uždaryti</item>
+        <item quantity="other">%1$s inkognito ir dar %2$s skirtukų bus uždaryti</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">„%1$s“ ir dar %2$s skirtukas bus uždaryti</item>
+        <item quantity="few">„%1$s“ ir dar %2$s skirtukai bus uždaryti</item>
+        <item quantity="many">„%1$s“ ir dar %2$s skirtuko bus uždaryti</item>
+        <item quantity="other">„%1$s“ ir dar %2$s skirtukų bus uždaryti</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s inkognito skirtukas</item>
+        <item quantity="few">%1$s inkognito skirtukai</item>
+        <item quantity="many">%1$s inkognito skirtuko</item>
+        <item quantity="other">%1$s inkognito skirtukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s skirtukas</item>
+        <item quantity="few">Skirtukų: %2$s, %1$s inkognito</item>
+        <item quantity="many">Skirtukų: %2$s, %1$s inkognito</item>
+        <item quantity="other">Skirtukų: %2$s, %1$s inkognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">Vienas skirtukas</item>
+        <item quantity="few">%d skirtukai</item>
+        <item quantity="many">%d skirtuko</item>
+        <item quantity="other">%d skirtukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s atsiliepimas)</item>
+        <item quantity="few">(%1$s atsiliepimai)</item>
+        <item quantity="many">(%1$s atsiliepimo)</item>
+        <item quantity="other">(%1$s atsiliepimų)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s apžvalga iš „Google“</item>
+        <item quantity="few">%1$s apžvalgos iš „Google“</item>
+        <item quantity="many">%1$s apžvalgos iš „Google“</item>
+        <item quantity="other">%1$s apžvalgų iš „Google“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">Prieš %d dieną</item>
+        <item quantity="few">Prieš %d dienas</item>
+        <item quantity="many">Prieš %d dienos</item>
+        <item quantity="other">Prieš %d dienų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">Prieš 1 valandą</item>
+        <item quantity="few">Prieš %d valandas</item>
+        <item quantity="many">Prieš %d valandos</item>
+        <item quantity="other">Prieš %d valandų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">Prieš 1 minutę</item>
+        <item quantity="few">Prieš %d minutes</item>
+        <item quantity="many">Prieš %d minutės</item>
+        <item quantity="other">Prieš %d minučių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">„Chrome“ įkels puslapį, kai bus paruošta</item>
+        <item quantity="few">„Chrome“ įkels puslapius, kai bus paruošta</item>
+        <item quantity="many">„Chrome“ įkels puslapius, kai bus paruošta</item>
+        <item quantity="other">„Chrome“ įkels puslapius, kai bus paruošta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Naudojamas 1 slapukas</item>
+        <item quantity="few">Naudojami %d slapukai</item>
+        <item quantity="many">Naudojama %d slapuko</item>
+        <item quantity="other">Naudojama %d slapukų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Leidžiama: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="few">Leidžiama: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="many">Leidžiama: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="other">Leidžiama: %1$s, %2$s ir dar %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Užblokuota: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="few">Užblokuota: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="many">Užblokuota: %1$s, %2$s ir dar %3$s</item>
+        <item quantity="other">Užblokuota: %1$s, %2$s ir dar %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s ir dar %3$s</item>
+        <item quantity="few">%1$s, %2$s ir dar %3$s</item>
+        <item quantity="many">%1$s, %2$s ir dar %3$s</item>
+        <item quantity="other">%1$s, %2$s ir dar %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d pažeistas slaptažodis</item>
+        <item quantity="few">%d pažeisti slaptažodžiai</item>
+        <item quantity="many">%d pažeisto slaptažodžio</item>
+        <item quantity="other">%d pažeistų slaptažodžių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+        <item quantity="other">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+        <item quantity="other">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+        <item quantity="other">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… ir dar %2$s</item>
+        <item quantity="few">%1$s… ir dar %2$s</item>
+        <item quantity="many">%1$s… ir dar %2$s</item>
+        <item quantity="other">%1$s… ir dar %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Turite %1$d neskaitytą puslapį</item>
+        <item quantity="few">Turite %1$d neskaitytus puslapius</item>
+        <item quantity="many">Turite %1$d neskaityto puslapio</item>
+        <item quantity="other">Turite %1$d neskaitytų puslapių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d neskaitytas puslapis</item>
+        <item quantity="few">%1$d neskaityti puslapiai</item>
+        <item quantity="many">%1$d neskaityto puslapio</item>
+        <item quantity="other">%1$d neskaitytų puslapių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 pažeistas slaptažodis</item>
+        <item quantity="few">%d pažeisti slaptažodžiai</item>
+        <item quantity="many">%d pažeisto slaptažodžio</item>
+        <item quantity="other">%d pažeistų slaptažodžių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Tikrinta prieš 1 dieną</item>
+        <item quantity="few">Tikrinta prieš %d dienas</item>
+        <item quantity="many">Tikrinta prieš %d dienos</item>
+        <item quantity="other">Tikrinta prieš %d dienų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Tikrinta prieš 1 valandą</item>
+        <item quantity="few">Tikrinta prieš %d valandas</item>
+        <item quantity="many">Tikrinta prieš %d valandos</item>
+        <item quantity="other">Tikrinta prieš %d valandų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Tikrinta prieš 1 minutę</item>
+        <item quantity="few">Tikrinta prieš %d minutes</item>
+        <item quantity="many">Tikrinta prieš %d minutės</item>
+        <item quantity="other">Tikrinta prieš %d minučių</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Pasirinktas 1 elementas</item>
+        <item quantity="few">Pasirinkti %d elementai</item>
+        <item quantity="many">Pasirinkta %d elemento</item>
+        <item quantity="other">Pasirinkta %d elementų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Signalo stiprumo lygis: %d juosta</item>
+        <item quantity="few">Signalo stiprumo lygis: %d juostos</item>
+        <item quantity="many">Signalo stiprumo lygis: %d juostos</item>
+        <item quantity="other">Signalo stiprumo lygis: %d juostų</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d žvaigždutė iš %2$d</item>
+        <item quantity="few">%1$d žvaigždutės iš %2$d</item>
+        <item quantity="many">%1$d žvaigždutės iš %2$d</item>
+        <item quantity="other">%1$d žvaigždučių iš %2$d</item>
+    </plurals>
+</resources>

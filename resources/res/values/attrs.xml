@@ -1,0 +1,3110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="0_resource_name_obfuscated_res_0x7f050000" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050001" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050002" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050003" format="dimension">
+        <enum name="?0x7f0108b7" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050004" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050005" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050006" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050007" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050008" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050009" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05000f" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050010" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050011" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050012" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050013" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050014" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050015" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050016" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050017" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050018" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050019" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05001f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050020" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050021" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050022" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050023" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050024" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050025" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050026" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050027" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050028" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050029" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002a">
+        <enum name="?0x7f010089" value="0" />
+        <enum name="?0x7f01008a" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05002f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050030" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050031" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050032">
+        <flag name="?0x7f010001" value="0x2" />
+        <flag name="?0x7f010004" value="0x1000" />
+        <flag name="?0x7f010005" value="0x8" />
+        <flag name="?0x7f010006" value="0x10000" />
+        <flag name="?0x7f010009" value="0x1" />
+        <flag name="?0x7f01000a" value="0x4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050033" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050034" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050035" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050036" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050037">
+        <enum name="?0x7f0102ec" value="1" />
+        <enum name="?0x7f010701" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050038" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050039">
+        <enum name="?0x7f01037a" value="0" />
+        <enum name="?0x7f01037b" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05003f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050040" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050041" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050042">
+        <enum name="none" value="0" />
+        <enum name="?0x7f01084f" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050043" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050044" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050045" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050046" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050047" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050048" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050049" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004a" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004b" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004d">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004e">
+        <enum name="?0x7f010002" value="8388693" />
+        <enum name="?0x7f010003" value="8388691" />
+        <enum name="?0x7f01000c" value="8388661" />
+        <enum name="?0x7f01000d" value="8388659" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05004f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050050" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050051" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050052" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050053" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050054" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050055" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050056" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050057" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050058" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050059" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005a" format="reference|float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005d" format="dimension">
+        <enum name="?0x7f0100b9" value="-1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005e">
+        <flag name="?0x7f01008b" value="-1" />
+        <flag name="?0x7f010314" value="0x2" />
+        <flag name="?0x7f010374" value="0x4" />
+        <flag name="none" value="0" />
+        <flag name="?0x7f010594" value="0x1" />
+        <flag name="?0x7f010700" value="0x8" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05005f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050060" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050061" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050062" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050063" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050064" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050065" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050066" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050067" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050068" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050069" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006b">
+        <enum name="?0x7f010306" value="1" />
+        <enum name="none" value="0" />
+        <enum name="?0x7f010540" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05006f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050070" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050071" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050072" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050073" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050074" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050075">
+        <enum name="?0x7f010099" value="2" />
+        <enum name="?0x7f0102b8" value="1" />
+        <enum name="?0x7f01072b" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050076" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050077" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050078" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050079" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007d">
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f010151" value="0x10" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05007f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050080" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050081">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050082" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050083" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050084" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050085" format="reference">
+        <enum name="?0x7f010388" value="2" />
+        <enum name="?0x7f010725" value="0" />
+        <enum name="?0x7f0108b1" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050086" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050087" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050088" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050089" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008a">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008b">
+        <enum name="?0x7f010095" value="4" />
+        <enum name="?0x7f010096" value="5" />
+        <enum name="?0x7f010097" value="6" />
+        <enum name="?0x7f01016e" value="1" />
+        <enum name="?0x7f010357" value="1" />
+        <enum name="?0x7f010358" value="2" />
+        <enum name="?0x7f010359" value="3" />
+        <enum name="?0x7f01035d" value="2" />
+        <enum name="?0x7f010478" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008c" format="dimension">
+        <enum name="?0x7f01043b" value="-1" />
+        <enum name="?0x7f0108b7" value="-2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008d">
+        <enum name="?0x7f0100dd" value="3" />
+        <enum name="?0x7f01011f" value="2" />
+        <enum name="?0x7f010120" value="5" />
+        <enum name="?0x7f010121" value="1" />
+        <enum name="?0x7f01026f" value="7" />
+        <enum name="?0x7f010270" value="4" />
+        <enum name="?0x7f010427" value="6" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008e" format="dimension">
+        <enum name="?0x7f01043b" value="-1" />
+        <enum name="?0x7f0108b7" value="-2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05008f" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050090" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050091" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050092" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050093" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050094" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050095" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050096" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050097" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050098" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050099" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05009f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a0" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a1" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a2" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a5" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a6" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a7" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a8" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500a9" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500aa" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ab" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ac" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ad" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ae" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500af" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b1" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b7" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b8" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500b9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ba" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500bb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500bc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500bd" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500be" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500bf" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c1" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c5" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500c9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ca" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500cb" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500cc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500cd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ce" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500cf">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d4" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d5">
+        <enum name="?0x7f010002" value="8388693" />
+        <enum name="?0x7f010003" value="8388691" />
+        <enum name="?0x7f01000c" value="8388661" />
+        <enum name="?0x7f01000d" value="8388659" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d8" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500d9" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500da" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500db" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500dc" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500dd" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500de" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500df" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e1" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e2" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e4" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e8" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500e9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ea" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500eb" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ec" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ed" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ee" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ef" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f0" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f1" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f2" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f5" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f7" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500f9" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500fa" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500fb" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500fc" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500fd" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500fe" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0500ff" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050100" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050101" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050102" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050103" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050104">
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f01014d" value="0x11" />
+        <flag name="?0x7f010150" value="0x1" />
+        <flag name="?0x7f010151" value="0x10" />
+        <flag name="?0x7f0102b8" value="0x800005" />
+        <flag name="?0x7f010305" value="0x70" />
+        <flag name="?0x7f0103e8" value="0x3" />
+        <flag name="?0x7f01063b" value="0x5" />
+        <flag name="?0x7f01072b" value="0x800003" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050105" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050106" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050107" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050108" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050109" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010e" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05010f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050110" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050111" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050112" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050113" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050114" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050115" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050116" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050117" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050118" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050119" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05011f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050120" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050121" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050122" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050123" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050124" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050125" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050126" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050127" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050128" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050129" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05012f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050130" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050131" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050132" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050133" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050134" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050135" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050136" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050137" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050138" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050139" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05013f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050140" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050141" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050142" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050143" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050144" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050145" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050146" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050147" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050148" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050149" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014a" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014b" format="reference">
+        <enum name="?0x7f0100b9" value="2" />
+        <enum name="dark" value="0" />
+        <enum name="light" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014e" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05014f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050150" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050151" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050152" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050153" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050154" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050155" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050156" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050157" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050158" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050159" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015c" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015d" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05015f" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050160" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050161" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050162" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050163" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050164" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050165" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050166" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050167" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050168" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050169" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016e" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05016f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050170" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050171" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050172">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050173">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050174">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050175">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050176">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050177" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050178" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050179" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017c" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017d" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017e" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05017f" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050180" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050181" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050182" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050183" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050184" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050185" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050186" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050187" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050188" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050189" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018a">
+        <enum name="?0x7f010354" value="2" />
+        <enum name="?0x7f01043c" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05018f" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050190" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050191" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050192" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050193" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050194" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050195" format="reference|string|integer|boolean|float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050196" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050197" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050198" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050199" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019c" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05019f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a0" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a1" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a2">
+        <flag name="?0x7f010264" value="0x20" />
+        <flag name="?0x7f01037d" value="0x4" />
+        <flag name="none" value="0" />
+        <flag name="?0x7f0106db" value="0x10" />
+        <flag name="?0x7f0106dc" value="0x2" />
+        <flag name="?0x7f0106dd" value="0x8" />
+        <flag name="?0x7f010861" value="0x1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a4" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a8" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501a9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501aa" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ab" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ac" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ad" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ae" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501af" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b1" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b4">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b8" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501b9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ba" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501bb" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501bc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501bd" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501be" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501bf" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c2" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c6" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c7" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c8" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501c9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ca" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501cb">
+        <enum name="?0x7f01008b" value="1" />
+        <enum name="?0x7f010235" value="0" />
+        <enum name="?0x7f0104f7" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501cc" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501cd" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ce" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501cf" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d0" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d1" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d2" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d4" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d6">
+        <enum name="?0x7f010175" value="2" />
+        <enum name="custom" value="-1" />
+        <enum name="?0x7f010289" value="3" />
+        <enum name="none" value="0" />
+        <enum name="?0x7f01057d" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d7" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d8">
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501d9" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501da" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501db" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501dc" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501dd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501de" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501df">
+        <enum name="?0x7f0105d9" value="1" />
+        <enum name="?0x7f01064d" value="0" />
+        <enum name="?0x7f010742" value="2" />
+        <enum name="?0x7f0107c7" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e0" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e1" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e2" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e5">
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e6" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e8" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501e9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ea" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501eb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ec" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ed">
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f01014d" value="0x11" />
+        <flag name="?0x7f010150" value="0x1" />
+        <flag name="?0x7f010151" value="0x10" />
+        <flag name="?0x7f0102b8" value="0x800005" />
+        <flag name="?0x7f010305" value="0x70" />
+        <flag name="?0x7f0103e8" value="0x3" />
+        <flag name="?0x7f01063b" value="0x5" />
+        <flag name="?0x7f01072b" value="0x800003" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ee" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ef" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f0" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f1" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f2" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f4" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f5" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501f9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501fa" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501fb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501fc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501fd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501fe" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0501ff" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050200">
+        <enum name="?0x7f01014d" value="0" />
+        <enum name="?0x7f0102b8" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050201" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050202">
+        <enum name="?0x7f010201" value="1" />
+        <enum name="?0x7f0102a9" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050203">
+        <enum name="?0x7f010653" value="0" />
+        <enum name="?0x7f010701" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050204" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050205" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050206" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050207" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050208">
+        <enum name="?0x7f0100b9" value="-1" />
+        <enum name="?0x7f010473" value="1" />
+        <enum name="?0x7f0104f9" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050209" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020e">
+        <enum name="?0x7f01023e" value="2" />
+        <enum name="?0x7f01023f" value="3" />
+        <enum name="?0x7f0103b3" value="6" />
+        <enum name="?0x7f01043a" value="1" />
+        <enum name="?0x7f010525" value="5" />
+        <enum name="?0x7f010526" value="4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05020f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050210" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050211" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050212">
+        <enum name="?0x7f0100b9" value="0" />
+        <enum name="?0x7f01014d" value="2" />
+        <enum name="?0x7f010317" value="3" />
+        <enum name="?0x7f010318" value="1" />
+        <enum name="?0x7f010741" value="4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050213">
+        <enum name="?0x7f0100b9" value="0" />
+        <enum name="?0x7f01014d" value="2" />
+        <enum name="?0x7f010317" value="3" />
+        <enum name="?0x7f010318" value="1" />
+        <enum name="?0x7f010741" value="4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050214" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050215">
+        <enum name="?0x7f01018a" value="0" />
+        <enum name="?0x7f01018b" value="1" />
+        <enum name="?0x7f010640" value="2" />
+        <enum name="?0x7f010641" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050216">
+        <enum name="?0x7f01014d" value="1" />
+        <enum name="?0x7f010317" value="2" />
+        <enum name="?0x7f010318" value="0" />
+        <enum name="?0x7f010714" value="4" />
+        <enum name="?0x7f010715" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050217">
+        <enum name="?0x7f0103bc" value="0" />
+        <enum name="?0x7f01042b" value="1" />
+        <enum name="?0x7f010643" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050218" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050219">
+        <enum name="?0x7f01000e" value="1" />
+        <enum name="?0x7f010617" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021c">
+        <enum name="?0x7f010509" value="0" />
+        <enum name="?0x7f0108b6" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05021f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050220" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050221" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050222" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050223" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050224" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050225" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050226" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050227" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050228" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050229" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05022f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050230" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050231" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050232" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050233" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050234">
+        <enum name="?0x7f0100af" value="1" />
+        <enum name="?0x7f0100d9" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050235" format="integer">
+        <enum name="?0x7f010334" value="-1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050236" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050237" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050238" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050239">
+        <enum name="?0x7f0103ca" value="1" />
+        <enum name="?0x7f0104f9" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023a" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023b" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05023f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050240" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050241" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050242">
+        <enum name="?0x7f01011e" value="1" />
+        <enum name="?0x7f0106a2" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050243" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050244" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050245" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050246" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050247" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050248" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050249" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05024f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050250" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050251" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050252" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050253" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050254" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050255" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050256">
+        <enum name="?0x7f0103c6" value="2" />
+        <enum name="none" value="0" />
+        <enum name="?0x7f010541" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050257" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050258" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050259" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05025f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050260" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050261" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050262" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050263" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050264" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050265" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050266" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050267" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050268">
+        <flag name="?0x7f0102b8" value="0x3" />
+        <flag name="?0x7f01072b" value="0x1" />
+        <flag name="?0x7f0107cb" value="0x4" />
+        <flag name="?0x7f0107ce" value="0x2" />
+        <flag name="?0x7f0107d0" value="0x20" />
+        <flag name="?0x7f010811" value="0x10" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050269" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026a" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05026f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050270" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050271">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050272" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050273" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050274" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050275">
+        <enum name="?0x7f010086" value="2" />
+        <enum name="?0x7f010087" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050276" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050277">
+        <enum name="?0x7f0101e5" value="0" />
+        <enum name="?0x7f010267" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050278" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050279" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027b" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027c">
+        <enum name="?0x7f01017a" value="0" />
+        <enum name="?0x7f0101fd" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027d">
+        <enum name="?0x7f0102b9" value="3" />
+        <enum name="?0x7f0103e9" value="0" />
+        <enum name="?0x7f01063c" value="1" />
+        <enum name="?0x7f01072c" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05027f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050280" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050281" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050282" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050283" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050284" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050285" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050286" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050287" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050288" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050289" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05028f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050290" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050291" format="integer" min="1">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050292" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050293" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050294" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050295" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050296" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050297" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050298" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050299" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05029f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a0" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a6" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502a9" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502aa">
+        <enum name="?0x7f010319" value="0" />
+        <enum name="?0x7f010353" value="2" />
+        <enum name="visible" value="3" />
+        <enum name="?0x7f0108b4" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ab" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ac">
+        <enum name="?0x7f0100b9" value="-1" />
+        <enum name="?0x7f0103d6" value="1" />
+        <enum name="selected" value="0" />
+        <enum name="?0x7f010853" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ad" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ae" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502af" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b0" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b1" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b2" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b4" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b6">
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f01014d" value="0x11" />
+        <flag name="?0x7f010150" value="0x1" />
+        <flag name="?0x7f010151" value="0x10" />
+        <flag name="?0x7f010178" value="0x8" />
+        <flag name="?0x7f010179" value="0x80" />
+        <flag name="?0x7f0102b8" value="0x800005" />
+        <flag name="?0x7f010303" value="0x77" />
+        <flag name="?0x7f010304" value="0x7" />
+        <flag name="?0x7f010305" value="0x70" />
+        <flag name="?0x7f0103e8" value="0x3" />
+        <flag name="?0x7f01063b" value="0x5" />
+        <flag name="?0x7f01072b" value="0x800003" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b7" format="fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b8" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502b9">
+        <enum name="none" value="0" />
+        <enum name="?0x7f010568" value="2" />
+        <enum name="?0x7f01059c" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ba" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502bb" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502bc" format="integer" min="1">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502bd" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502be">
+        <flag name="?0x7f01008b" value="0x77" />
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f0102b8" value="0x800005" />
+        <flag name="?0x7f0103e8" value="0x3" />
+        <flag name="none" value="0x0" />
+        <flag name="?0x7f01063b" value="0x5" />
+        <flag name="?0x7f01072b" value="0x800003" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502bf">
+        <flag name="?0x7f0100e8" value="0x50" />
+        <flag name="?0x7f01014d" value="0x11" />
+        <flag name="?0x7f010150" value="0x1" />
+        <flag name="?0x7f010151" value="0x10" />
+        <flag name="?0x7f010178" value="0x8" />
+        <flag name="?0x7f010179" value="0x80" />
+        <flag name="?0x7f0102b8" value="0x800005" />
+        <flag name="?0x7f010303" value="0x77" />
+        <flag name="?0x7f010304" value="0x7" />
+        <flag name="?0x7f010305" value="0x70" />
+        <flag name="?0x7f0103e8" value="0x3" />
+        <flag name="?0x7f01063b" value="0x5" />
+        <flag name="?0x7f01072b" value="0x800003" />
+        <flag name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c0">
+        <enum name="?0x7f0100e8" value="0x50" />
+        <enum name="?0x7f0102b8" value="0x800005" />
+        <enum name="?0x7f0103e8" value="0x3" />
+        <enum name="none" value="0x0" />
+        <enum name="?0x7f01063b" value="0x5" />
+        <enum name="?0x7f01072b" value="0x800003" />
+        <enum name="?0x7f010811" value="0x30" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c1" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c2" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c3" format="integer" min="1">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c4" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c5">
+        <enum name="?0x7f010194" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c6">
+        <flag name="?0x7f0102c4" value="0x4" />
+        <flag name="?0x7f0102c5" value="0x8" />
+        <flag name="?0x7f0102d1" value="0x2" />
+        <flag name="?0x7f0104ed" value="0x0" />
+        <flag name="?0x7f01065a" value="0x1" />
+        <flag name="?0x7f01070f" value="0x10" />
+        <flag name="?0x7f010710" value="0x20" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c8" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502c9" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ca" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502cb" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502cc" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502cd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ce" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502cf" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d8" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502d9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502da" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502db" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502dc" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502dd" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502de">
+        <enum name="?0x7f0100b9" value="0" />
+        <enum name="custom" value="-1" />
+        <enum name="?0x7f0104f9" value="1" />
+        <enum name="?0x7f010702" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502df" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e0" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e1">
+        <enum name="dark" value="1" />
+        <enum name="?0x7f01035e" value="3" />
+        <enum name="light" value="2" />
+        <enum name="?0x7f010725" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e2" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e4">
+        <enum name="?0x7f01014d" value="5" />
+        <enum name="?0x7f01014e" value="6" />
+        <enum name="?0x7f01014f" value="7" />
+        <enum name="?0x7f010311" value="3" />
+        <enum name="?0x7f010312" value="4" />
+        <enum name="?0x7f010313" value="2" />
+        <enum name="?0x7f010315" value="1" />
+        <enum name="?0x7f010440" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e7" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e8" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502e9" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ea" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502eb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ec" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ed" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ee" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ef" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f0" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f2">
+        <enum name="automatic" value="0" />
+        <enum name="?0x7f010363" value="1" />
+        <enum name="?0x7f010711" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f3" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f4">
+        <enum name="?0x7f010624" value="1" />
+        <enum name="?0x7f010637" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f5" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f6" format="float">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f7" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f8" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502f9">
+        <enum name="?0x7f010383" value="4" />
+        <enum name="none" value="0" />
+        <enum name="?0x7f0104f9" value="1" />
+        <enum name="?0x7f01064e" value="2" />
+        <enum name="?0x7f0107c6" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502fa" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502fb" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502fc" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502fd" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502fe" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0502ff" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050300" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050301" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050302">
+        <enum name="?0x7f010094" value="3" />
+        <enum name="?0x7f01016e" value="1" />
+        <enum name="?0x7f010357" value="1" />
+        <enum name="?0x7f010359" value="2" />
+        <enum name="?0x7f010478" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050303" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050304" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050305" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050306" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050307" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050308" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050309" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05030f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050310" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050311" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050312" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050313" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050314" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050315" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050316" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050317" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050318" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050319" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05031f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050320" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050321" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050322" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050323" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050324" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050325" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050326" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050327" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050328" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050329" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032a" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05032f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050330" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050331" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050332" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050333" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050334" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050335" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050336" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050337" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050338" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050339" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05033f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050340" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050341" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050342" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050343" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050344" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050345" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050346" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050347" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050348" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050349" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034d">
+        <enum name="?0x7f0100b9" value="0" />
+        <enum name="?0x7f01072b" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034e">
+        <enum name="?0x7f0100e8" value="81" />
+        <enum name="?0x7f01014d" value="17" />
+        <enum name="?0x7f010811" value="49" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05034f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050350" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050351" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050352" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050353" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050354" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050355" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050356" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050357" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050358" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050359" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035a" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035b" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035c" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035d" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035e" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05035f" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050360" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050361" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050362" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050363" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050364" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050365" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050366" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050367" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050368" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050369" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036a" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036b" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05036f" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050370" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050371" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050372" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050373" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050374" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050375" format="string">
+        <enum name="?0x7f0100ab" value="1" />
+        <enum name="?0x7f010403" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050376" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050377" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050378" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050379" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037a" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037b">
+        <enum name="?0x7f010407" value="1" />
+        <enum name="?0x7f0104f9" value="0" />
+        <enum name="?0x7f010790" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037e" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05037f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050380" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050381" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050382" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050383">
+        <flag name="?0x7f010001" value="0x2" />
+        <flag name="?0x7f010004" value="0x1000" />
+        <flag name="?0x7f010005" value="0x8" />
+        <flag name="?0x7f010006" value="0x10000" />
+        <flag name="?0x7f010009" value="0x1" />
+        <flag name="?0x7f01000a" value="0x4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050384" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050385" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050386" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050387" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050388" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050389">
+        <enum name="?0x7f01037f" value="0" />
+        <enum name="?0x7f010871" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038b" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05038f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050390" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050391" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050392" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050393" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050394" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050395" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050396" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050397" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050398" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050399" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039c">
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05039f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a0" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a2" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a7" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503a9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503aa" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ab" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ac" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ad" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ae" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503af" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b2" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b5" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b7" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b8" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503b9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ba" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503bb" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503bc" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503bd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503be" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503bf" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c2" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c8" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503c9" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ca" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503cb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503cc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503cd" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ce" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503cf" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d0" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d1" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d2" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d3" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d4" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d5" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d6" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d7" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d8" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503d9" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503da" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503db" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503dc" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503dd" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503de" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503df" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e1" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e2" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e4" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e6" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e7">
+        <enum name="date" value="4" />
+        <enum name="?0x7f010382" value="1" />
+        <enum name="?0x7f01059f" value="0" />
+        <enum name="?0x7f01063a" value="2" />
+        <enum name="url" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e8" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503e9">
+        <enum name="?0x7f01038c" value="2" />
+        <enum name="?0x7f0103c1" value="3" />
+        <enum name="?0x7f0103c2" value="8" />
+        <enum name="?0x7f0103c3" value="4" />
+        <enum name="?0x7f0103c4" value="5" />
+        <enum name="?0x7f0103c5" value="6" />
+        <enum name="?0x7f0103de" value="7" />
+        <enum name="?0x7f0107c9" value="0" />
+        <enum name="?0x7f0107ca" value="1" />
+        <enum name="?0x7f0107e3" value="9" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ea" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503eb" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ec" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ed" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ee" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ef" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f0" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f3" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f4" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f5" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f6" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503f9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503fa" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503fb" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503fc" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503fd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503fe" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0503ff" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050400" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050401">
+        <enum name="?0x7f010229" value="1" />
+        <enum name="?0x7f01063f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050402" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050403" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050404">
+        <enum name="?0x7f0103c6" value="2" />
+        <enum name="none" value="0" />
+        <enum name="?0x7f010541" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050405">
+        <flag name="?0x7f010092" value="2" />
+        <flag name="?0x7f010185" value="8" />
+        <flag name="?0x7f010391" value="1" />
+        <flag name="?0x7f0104d7" value="0" />
+        <flag name="?0x7f0108b2" value="4" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050406" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050407">
+        <flag name="?0x7f0100d0" value="1" />
+        <flag name="?0x7f0102b8" value="4" />
+        <flag name="?0x7f010470" value="2" />
+        <flag name="none" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050408" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050409" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040e" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05040f" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050410" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050411" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050412" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050413" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050414" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050415" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050416" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050417" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050418" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050419" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041a">
+        <enum name="?0x7f0101a1" value="1" />
+        <enum name="email" value="0" />
+        <enum name="?0x7f0103bf" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041b" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05041f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050420" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050421" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050422" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050423" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050424" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050425" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050426" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050427" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050428">
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050429" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05042f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050430" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050431" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050432" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050433" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050434" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050435" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050436" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050437" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050438" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050439" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043c" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043d" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05043f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050440" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050441" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050442" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050443" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050444" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050445" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050446" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050447" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050448" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050449" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044b" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05044f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050450" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050451" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050452" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050453" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050454" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050455" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050456">
+        <enum name="?0x7f01014d" value="1" />
+        <enum name="?0x7f010303" value="0" />
+        <enum name="?0x7f01072b" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050457" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050458" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050459" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045c" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045e" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05045f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050460" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050461" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050462" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050463">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050464" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050465" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050466">
+        <enum name="?0x7f0102a0" value="1" />
+        <enum name="?0x7f0102ec" value="2" />
+        <enum name="?0x7f010403" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050467" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050468" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050469">
+        <enum name="?0x7f0100e8" value="0" />
+        <enum name="?0x7f01014d" value="1" />
+        <enum name="?0x7f010741" value="3" />
+        <enum name="?0x7f010811" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046c" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046d" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046e">
+        <enum name="?0x7f0100b9" value="2" />
+        <enum name="?0x7f010316" value="1" />
+        <enum name="?0x7f01065f" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05046f" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050470" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050471" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050472" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050473" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050474" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050475" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050476" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050477" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050478" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050479" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047b">
+        <enum name="?0x7f01024c" value="2" />
+        <enum name="?0x7f0105d9" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047d" format="reference|boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05047f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050480" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050481" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050482" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050483" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050484" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050485" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050486" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050487" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050488" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050489" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048a" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05048f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050490" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050491" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050492" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050493" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050494" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050495" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050496" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050497" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050498" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050499" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049a" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05049f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a0" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a5" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504a9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504aa" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ab" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ac" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ad" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ae" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504af" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b0" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b3" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b5" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b6" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504b9" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ba" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504bb" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504bc" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504bd" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504be" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504bf" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c0" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c1" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c2" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c4">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c6" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c7" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c8" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504c9" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ca">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504cb" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504cc" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504cd" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ce" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504cf" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d0">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d1" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d2" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d3">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d4" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d5" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d6" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d7">
+        <enum name="?0x7f0102ec" value="1" />
+        <enum name="?0x7f010653" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d8" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504d9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504da" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504db" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504dc" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504dd" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504de" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504df" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e0" format="reference|string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e2" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e3">
+        <enum name="?0x7f0102b8" value="2" />
+        <enum name="?0x7f010438" value="3" />
+        <enum name="?0x7f010470" value="1" />
+        <enum name="?0x7f01072b" value="0" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e4" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e5" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e6" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e7" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e8" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504e9" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ea" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504eb">
+        <enum name="dark" value="2" />
+        <enum name="light" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ec" format="reference|color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ed" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ee" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ef" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f0" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f1" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f2" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f3" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f4" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f5" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f6" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f7" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f8">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504f9" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504fa" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504fb" format="color">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504fc">
+        <enum name="?0x7f010074" value="16" />
+        <enum name="?0x7f0104c1" value="14" />
+        <enum name="?0x7f010654" value="15" />
+        <enum name="?0x7f010722" value="9" />
+        <enum name="?0x7f010723" value="5" />
+        <enum name="?0x7f010724" value="3" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504fd" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504fe" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f0504ff" format="integer">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050500" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050501" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050502" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050503" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050504" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050505" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050506" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050507" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050508" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050509" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050a" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050b" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050c" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050d" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050e" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05050f" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050510" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050511" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050512" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050513" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050514" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050515" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050516" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050517" format="reference|dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050518" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050519" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051a" format="dimension">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051b" format="string">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051c">
+        <enum name="?0x7f010266" value="1" />
+        <enum name="?0x7f0102b7" value="2" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051e" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05051f" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050520" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050521" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050522" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050523" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050524" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050525" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050526" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050527" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050528" format="dimension|fraction">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f050529" format="boolean">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05052a">
+        <enum name="none" value="2" />
+        <enum name="?0x7f010701" value="1" />
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05052b" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05052c" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05052d" format="reference">
+    </attr>
+    <attr name="0_resource_name_obfuscated_res_0x7f05052e" format="boolean">
+    </attr>
+</resources>

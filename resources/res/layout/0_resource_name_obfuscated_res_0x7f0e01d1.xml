@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.ui.autofill.OtpVerificationDialogView xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/otp_verification_dialog_contents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/0_resource_name_obfuscated_res_0x7f150003">
+        <EditText
+            android:id="@+id/otp_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:digits="0123456789"
+            android:inputType="phone"
+            android:autofillHints="sms_otp"/>
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150372"
+            android:id="@+id/otp_error_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/otp_resend_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080635"/>
+    </LinearLayout>
+    <include
+        android:id="@+id/progress_bar_overlay"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/otp_verification_dialog_contents"
+        android:layout_alignBottom="@+id/otp_verification_dialog_contents"
+        android:layout_alignStart="@+id/otp_verification_dialog_contents"
+        android:layout_alignEnd="@+id/otp_verification_dialog_contents"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e022b"/>
+</org.chromium.chrome.browser.ui.autofill.OtpVerificationDialogView>

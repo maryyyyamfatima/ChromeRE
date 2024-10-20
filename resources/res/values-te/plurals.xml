@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d ట్యాబ్‌ను కుదించండి.</item>
+        <item quantity="other">%1$d ట్యాబ్‌లతో ట్యాబ్ గ్రూప్‌ను కుదించండి.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d ట్యాబ్‌ను కుదించండి.</item>
+        <item quantity="other">%2$d ట్యాబ్‌లతో ఉన్న %1$s ట్యాబ్ గ్రూప్‌ను కుదించండి.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ఆడియో ఫైల్</item>
+        <item quantity="other">%d ఆడియో ఫైళ్లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ఫైల్</item>
+        <item quantity="other">%d ఫైళ్లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d ఫోటో</item>
+        <item quantity="other">%d ఫోటోలు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d పేజీ</item>
+        <item quantity="other">%d పేజీలు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d వీడియో</item>
+        <item quantity="other">%d వీడియోలు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">ఎంచుకోబడిన 1 అంశాన్ని తీసివేస్తుంది</item>
+        <item quantity="other">ఎంచుకోబడిన %d అంశాలను తీసివేస్తుంది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">ఎంచుకోబడిన 1 అంశాన్ని భాగస్వామ్యం చేస్తుంది</item>
+        <item quantity="other">ఎంచుకోబడిన %d అంశాలను భాగస్వామ్యం చేస్తుంది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">గ్రూప్ నుండి %1$d ఎంచుకున్న ట్యాబ్‌ను తీసివేయండి.</item>
+        <item quantity="other">గ్రూప్ నుండి %1$d ఎంచుకున్న ట్యాబ్‌లను తీసివేయండి.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">ఎంచుకున్న %1$d ట్యాబ్ గ్రూప్ చేయబడుతుంది</item>
+        <item quantity="other">ఎంచుకున్న %1$d ట్యాబ్‌లు గ్రూప్ చేయబడతాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">ఎంపిక చేసిన %1$d ట్యాబ్‌ను మూసివేయి</item>
+        <item quantity="other">ఎంపిక చేసిన %1$d ట్యాబ్‌లను మూసివేయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d బుక్‌మార్క్</item>
+        <item quantity="other">%1$d బుక్‌మార్క్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ట్యాబ్</item>
+        <item quantity="other">%1$d ట్యాబ్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ మరో 1)</item>
+        <item quantity="other">(+ మరో %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 కుక్కీ బ్లాక్ చేయబడింది</item>
+        <item quantity="other">%d కుక్కీలు బ్లాక్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d గం</item>
+        <item quantity="other">%d గం</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ఫైల్ డౌన్‌లోడ్ చేయబడింది</item>
+        <item quantity="other">%d డౌన్‌లోడ్‌లు పూర్తయ్యాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 డౌన్‌లోడ్ విఫలమైంది</item>
+        <item quantity="other">%d డౌన్‌లోడ్‌లు విఫలమయ్యాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ఫైల్‌ను డౌన్‌లోడ్ చేస్తోంది…</item>
+        <item quantity="other">%d ఫైల్‌లను డౌన్‌లోడ్ చేస్తోంది…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 డౌన్‌లోడ్ పెండింగ్‌లో ఉంది</item>
+        <item quantity="other">%d డౌన్‌లోడ్‌లు పెండింగ్‌లో ఉన్నాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 డౌన్‌లోడ్ షెడ్యూల్ చేయబడింది</item>
+        <item quantity="other">%d డౌన్‌లోడ్‌లు షెడ్యూల్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ఫైల్ డౌన్‌లోడ్ చేయబడింది</item>
+        <item quantity="other">%1$d ఫైళ్లు డౌన్‌లోడ్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d మ్యాచ్</item>
+        <item quantity="other">%d మ్యాచ్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s అజ్ఞాత ట్యాబ్ మూసివేయబడుతుంది</item>
+        <item quantity="other">%1$s అజ్ఞాత ట్యాబ్‌లు మూసివేయబడతాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s అజ్ఞాత ట్యాబ్, ఇంకా మరో%2$s ట్యాబ్ మూసివేయబడతాయి</item>
+        <item quantity="other">%1$s అజ్ఞాత ట్యాబ్, ఇంకా మరో%2$s ట్యాబ్‌లు మూసివేయబడతాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s, ఇంకా మరో %2$s ట్యాబ్ మూసివేయబడుతుంది</item>
+        <item quantity="other">%1$s, ఇంకా మరో %2$s ట్యాబ్‌లు మూసివేయబడతాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s అజ్ఞాత ట్యాబ్</item>
+        <item quantity="other">%1$s అజ్ఞాత ట్యాబ్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ట్యాబ్</item>
+        <item quantity="other">%2$s ట్యాబ్‌లు, %1$s అజ్ఞాత ట్యాబ్</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ట్యాబ్</item>
+        <item quantity="other">%d ట్యాబ్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s రివ్యూ)</item>
+        <item quantity="other">(%1$s రివ్యూలు)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google నుండి %1$s రివ్యూ</item>
+        <item quantity="other">Google నుండి %1$s రివ్యూలు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d రోజు క్రితం</item>
+        <item quantity="other">%d రోజుల క్రితం</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d గంట క్రితం</item>
+        <item quantity="other">%d గంటల క్రితం</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d నిమిషం క్రితం</item>
+        <item quantity="other">%d నిమిషాల క్రితం</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">కనెక్ట్ అయినప్పుడు, Chrome మీ పేజీని లోడ్ చేస్తుంది</item>
+        <item quantity="other">కనెక్ట్ అయినప్పుడు, Chrome మీ పేజీలను లోడ్ చేస్తుంది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 కుక్కీ ఉపయోగంలో ఉంది</item>
+        <item quantity="other">%d కుక్కీలు ఉపయోగంలో ఉన్నాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s, ఇంకా మరో %3$s అనుమతించబడ్డాయి</item>
+        <item quantity="other">%1$s, %2$s, ఇంకా మరో %3$s అనుమతించబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s, ఇంకా మరో %3$s బ్లాక్ చేయబడ్డాయి</item>
+        <item quantity="other">%1$s, %2$s, ఇంకా మరో %3$s బ్లాక్ చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s, ఇంకా మరో %3$s</item>
+        <item quantity="other">%1$s, %2$s, ఇంకా మరో %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d పాస్‌వర్డ్ చోరీకి గురయ్యింది</item>
+        <item quantity="other">%d పాస్‌వర్డ్‌లు చోరీకి గురయ్యాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… మరియు మరో %2$s</item>
+        <item quantity="other">%1$s… మరియు మరో %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… మరియు మరో %2$s</item>
+        <item quantity="other">%1$s… మరియు మరో %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… మరియు మరో %2$s</item>
+        <item quantity="other">%1$s… మరియు మరో %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… మరియు మరో %2$s</item>
+        <item quantity="other">%1$s… మరియు మరో %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">మీకు %1$d చదవని పేజీ ఉంది</item>
+        <item quantity="other">మీకు %1$d చదవని పేజీలు ఉన్నాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d చదవని పేజీ</item>
+        <item quantity="other">%1$d చదవని పేజీలు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 చోరీకి గురైన పాస్‌వర్డ్</item>
+        <item quantity="other">%d చోరీకి గురైన పాస్‌వర్డ్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 రోజు క్రితం చెక్ చేసింది</item>
+        <item quantity="other">%d రోజుల క్రితం చెక్ చేసింది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 గంట క్రితం చెక్ చేసింది</item>
+        <item quantity="other">%d గంటల క్రితం చెక్ చేసింది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 నిమిషం క్రితం చెక్ చేసింది</item>
+        <item quantity="other">%d నిమిషాల క్రితం చెక్ చేసింది</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 ఎంచుకోబడింది</item>
+        <item quantity="other">%d ఎంచుకోబడ్డాయి</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">సిగ్నల్ సామర్థ్యం స్థాయి: %d బార్</item>
+        <item quantity="other">సిగ్నల్ సామర్థ్యం స్థాయి: %d బార్‌లు</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%2$dకి %1$d నక్షత్రం ఇవ్వబడింది</item>
+        <item quantity="other">%2$dకి %1$d నక్షత్రాలు ఇవ్వబడ్డాయి</item>
+    </plurals>
+</resources>

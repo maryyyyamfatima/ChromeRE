@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0901e2"
+        android:id="@+id/delete_menu_id"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1403ec"
+        app:iconTint="?attr/0_resource_name_obfuscated_res_0x7f05012e"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f09023a"
+        android:id="@+id/help_menu_id"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1404e2"
+        app:showAsAction="ifRoom"/>
+</menu>

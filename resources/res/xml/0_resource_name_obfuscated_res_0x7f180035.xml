@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140987"
+        app:allowDividerBelow="false"/>
+    <org.chromium.chrome.browser.safety_check.SafetyCheckElementPreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090335"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14099b"
+        android:key="updates"
+        app:allowDividerBelow="false"
+        app:iconTint="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+    <org.chromium.chrome.browser.safety_check.SafetyCheckElementPreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090345"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14098f"
+        android:key="passwords"
+        app:allowDividerBelow="false"
+        app:iconTint="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+    <org.chromium.chrome.browser.safety_check.SafetyCheckElementPreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090313"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140995"
+        android:key="safe_browsing"
+        app:allowDividerBelow="false"
+        app:iconTint="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+</PreferenceScreen>

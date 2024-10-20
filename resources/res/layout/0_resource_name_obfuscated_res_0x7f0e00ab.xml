@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/dialog_layout"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140395"
+    android:importantForAccessibility="yes">
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e02c8"/>
+    <RelativeLayout
+        android:orientation="vertical"
+        android:id="@+id/main_content"
+        android:background="@color/0_resource_name_obfuscated_res_0x7f07009e"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150463"
+            android:id="@+id/title"
+            android:background="@drawable/0_resource_name_obfuscated_res_0x7f0903e0"
+            android:paddingLeft="18dp"
+            android:paddingTop="4dp"
+            android:paddingRight="18dp"
+            android:paddingBottom="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_centerHorizontal="true"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:orientation="horizontal"
+            android:id="@+id/note_carousel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/title"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

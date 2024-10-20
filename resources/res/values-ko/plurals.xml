@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">탭 %1$d개를 접습니다.</item>
+        <item quantity="other">탭 %1$d개가 포함된 탭 그룹을 접습니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">탭 %1$d개를 접습니다.</item>
+        <item quantity="other">탭 %2$d개가 포함된 %1$s 탭 그룹을 접습니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">오디오 파일 %d개</item>
+        <item quantity="other">오디오 파일 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">파일 %d개</item>
+        <item quantity="other">파일 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">이미지 %d개</item>
+        <item quantity="other">이미지 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d페이지</item>
+        <item quantity="other">%d페이지</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">동영상 %d개</item>
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">선택한 1개 항목 삭제</item>
+        <item quantity="other">선택한 %d개 항목 삭제</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">선택한 1개 항목 공유</item>
+        <item quantity="other">선택한 %d개 항목 공유</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">선택한 탭 %1$d개를 그룹에서 삭제합니다.</item>
+        <item quantity="other">선택한 탭 %1$d개를 그룹에서 삭제합니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">선택한 탭 %1$d개 그룹화</item>
+        <item quantity="other">선택한 탭 %1$d개 그룹화</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">선택된 탭 %1$d개 닫기</item>
+        <item quantity="other">선택된 탭 %1$d개 닫기</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">북마크 %1$d개</item>
+        <item quantity="other">북마크 %1$d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">탭 %1$d개</item>
+        <item quantity="other">탭 %1$d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(외 1개)</item>
+        <item quantity="other">(외 %d개)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">쿠키 1개 차단됨</item>
+        <item quantity="other">쿠키 %d개 차단됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d시간</item>
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">파일 1개 다운로드 완료</item>
+        <item quantity="other">다운로드 %d개 완료</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">다운로드 1개 실패</item>
+        <item quantity="other">다운로드 %d개 실패</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">파일 1개 다운로드 중…</item>
+        <item quantity="other">파일 %d개 다운로드 중…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">다운로드 1개 대기 중</item>
+        <item quantity="other">다운로드 %d개 대기 중</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">다운로드 1개 예약됨</item>
+        <item quantity="other">다운로드 %d개 예약됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d개 파일 다운로드됨</item>
+        <item quantity="other">%1$d개 파일 다운로드됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d개 일치</item>
+        <item quantity="other">%d개 일치</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">시크릿 탭 %1$s개가 닫힙니다.</item>
+        <item quantity="other">시크릿 탭 %1$s개가 닫힙니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">시크릿 탭 %1$s개와 일반 탭 %2$s개가 닫힙니다.</item>
+        <item quantity="other">시크릿 탭 %1$s개와 일반 탭 %2$s개가 닫힙니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s 외 탭 %2$s개가 닫힙니다.</item>
+        <item quantity="other">%1$s 외 탭 %2$s개가 닫힙니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">시크릿 탭 %1$s개</item>
+        <item quantity="other">시크릿 탭 %1$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">탭 %1$s개</item>
+        <item quantity="other">탭 %2$s개(시크릿 탭 %1$s개)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">탭 1개</item>
+        <item quantity="other">탭 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(리뷰 %1$s개)</item>
+        <item quantity="other">(리뷰 %1$s개)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google에서 찾은 리뷰 %1$s개</item>
+        <item quantity="other">Google에서 찾은 리뷰 %1$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d일 전</item>
+        <item quantity="other">%d일 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d시간 전</item>
+        <item quantity="other">%d시간 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d분 전</item>
+        <item quantity="other">%d분 전</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">준비가 완료되면 Chrome에서 페이지를 로드합니다.</item>
+        <item quantity="other">준비가 완료되면 Chrome에서 페이지를 로드합니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">쿠키 1개 사용 중</item>
+        <item quantity="other">쿠키 %d개 사용 중</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s 외 %3$s개 허용됨</item>
+        <item quantity="other">%1$s, %2$s 외 %3$s개 허용됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s 외 %3$s개 차단됨</item>
+        <item quantity="other">%1$s, %2$s 외 %3$s개 차단됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s 외 %3$s개</item>
+        <item quantity="other">%1$s, %2$s 외 %3$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">유출된 비밀번호 %d개</item>
+        <item quantity="other">유출된 비밀번호 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s 외 %2$s개</item>
+        <item quantity="other">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s 외 %2$s개</item>
+        <item quantity="other">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s 외 %2$s개</item>
+        <item quantity="other">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s 외 %2$s개</item>
+        <item quantity="other">%1$s 외 %2$s개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">읽지 않은 페이지가 %1$d개 있습니다.</item>
+        <item quantity="other">읽지 않은 페이지가 %1$d개 있습니다.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">읽지 않은 페이지 %1$d개</item>
+        <item quantity="other">읽지 않은 페이지 %1$d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">유출된 비밀번호 1개</item>
+        <item quantity="other">유출된 비밀번호 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1일 전에 확인됨</item>
+        <item quantity="other">%d일 전에 확인됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1시간 전에 확인됨</item>
+        <item quantity="other">%d시간 전에 확인됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1분 전에 확인됨</item>
+        <item quantity="other">%d분 전에 확인됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1개 선택됨</item>
+        <item quantity="other">%d개 선택됨</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">신호 강도: 막대 %d개</item>
+        <item quantity="other">신호 강도: 막대 %d개</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">별 %2$d개 중 %1$d개</item>
+        <item quantity="other">별 %2$d개 중 %1$d개</item>
+    </plurals>
+</resources>

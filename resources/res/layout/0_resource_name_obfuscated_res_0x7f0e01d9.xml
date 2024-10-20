@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="0x7f010582"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f08039e"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"/>

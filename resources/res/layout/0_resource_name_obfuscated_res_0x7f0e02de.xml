@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:id="@+id/undo_redo"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <org.chromium.ui.widget.ChromeImageButton
+        android:enabled="false"
+        android:id="@+id/undo"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0904dc"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140b6e"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502d4"/>
+    <org.chromium.ui.widget.ChromeImageButton
+        android:enabled="false"
+        android:id="@+id/redo"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f09046e"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f1409c0"
+        android:layout_marginStart="24dp"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502d4"/>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f0801f9"
+    android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f080679"
+    android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080679">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:id="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <org.chromium.chrome.browser.autofill.prefeditor.ExpandableGridView
+        android:id="@+id/icons_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchMode="none"
+        android:columnWidth="@dimen/0_resource_name_obfuscated_res_0x7f0801f6"
+        android:numColumns="auto_fit"/>
+</LinearLayout>

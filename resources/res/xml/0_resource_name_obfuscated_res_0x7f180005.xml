@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.LongSummaryTextMessagePreference
+        android:selectable="false"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408ef"
+        app:allowDividerBelow="false"/>
+    <PreferenceCategory
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140901"
+        android:key="topic_interests"/>
+    <Preference
+        android:selectable="false"
+        android:key="empty_topics"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408f6"
+        app:allowDividerBelow="false"/>
+    <PreferenceCategory
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1408db"
+        android:key="fledge_interests"/>
+    <Preference
+        android:selectable="false"
+        android:key="empty_fledge"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1408f5"
+        app:allowDividerBelow="false"/>
+</PreferenceScreen>

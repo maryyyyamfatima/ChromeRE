@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
+        android:gravity="center"
+        android:id="@+id/empty_container"
+        android:padding="@dimen/0_resource_name_obfuscated_res_0x7f0800a8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f080180"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080180"
+        style="@style/0_resource_name_obfuscated_res_0x7f150209">
+        <org.chromium.ui.widget.TextViewWithLeading
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+            android:id="@+id/empty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807cc"/>
+    </org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow>
+    <org.chromium.ui.widget.LoadingView
+        android:layout_gravity="center"
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</FrameLayout>

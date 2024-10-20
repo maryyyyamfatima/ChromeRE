@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f090123">
+    <target
+        android:name="circlegreen"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f020027"/>
+    <target
+        android:name="ellipse_path_2"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f02002a"/>
+    <target
+        android:name="circleyellow"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f020029"/>
+    <target
+        android:name="ellipse_path_3"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f02002b"/>
+    <target
+        android:name="circlered"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f020028"/>
+    <target
+        android:name="ellipse_path_4"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f02002c"/>
+    <target
+        android:name="circleblue"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f020026"/>
+    <target
+        android:name="ellipse_path_5"
+        android:animation="@anim/0_resource_name_obfuscated_res_0x7f02002d"/>
+</animated-vector>

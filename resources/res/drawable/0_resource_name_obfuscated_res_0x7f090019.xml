@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="sequentially">
+    <objectAnimator
+        android:interpolator="@android:interpolator/linear"
+        android:duration="0"
+        android:valueFrom="?attr/0_resource_name_obfuscated_res_0x7f05013a"
+        android:valueTo="?attr/0_resource_name_obfuscated_res_0x7f05013a"
+        android:propertyName="fillColor"/>
+    <objectAnimator
+        android:interpolator="@android:interpolator/linear"
+        android:duration="@integer/0_resource_name_obfuscated_res_0x7f0c0014"
+        android:startOffset="@integer/0_resource_name_obfuscated_res_0x7f0c0013"
+        android:valueFrom="?attr/0_resource_name_obfuscated_res_0x7f05013a"
+        android:valueTo="@android:color/transparent"
+        android:propertyName="fillColor"/>
+</set>

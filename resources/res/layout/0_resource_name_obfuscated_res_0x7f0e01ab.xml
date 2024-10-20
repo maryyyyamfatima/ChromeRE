@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.gesturenav.NavigationBubble xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f0903db"
+    android:layout_width="wrap_content"
+    android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0805ed"
+    android:animateLayoutChanges="true">
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/navigation_bubble_arrow"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0805f3"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0805ec"
+        android:visibility="gone"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0805eb"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0805eb"
+        android:importantForAccessibility="no"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0805ee"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f0901be"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150457"
+        android:gravity="center"
+        android:id="@+id/navigation_bubble_text"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0805f2"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0805ef"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:maxLines="1"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0805f1"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0805f0"/>
+</org.chromium.chrome.browser.gesturenav.NavigationBubble>

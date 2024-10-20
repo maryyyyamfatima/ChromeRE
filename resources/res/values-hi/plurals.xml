@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d टैब छोटा करें.</item>
+        <item quantity="other">%1$d टैब वाले टैब ग्रुप को छोटा करें.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d टैब छोटा करें.</item>
+        <item quantity="other">%2$d टैब वाले %1$s टैब ग्रुप को छोटा करें.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ऑडियो फ़ाइल</item>
+        <item quantity="other">%d ऑडियो फ़ाइलें</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d फ़ाइल</item>
+        <item quantity="other">%d फ़ाइलें</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d इमेज</item>
+        <item quantity="other">%d इमेज</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d पेज</item>
+        <item quantity="other">%d पेज</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d वीडियो</item>
+        <item quantity="other">%d वीडियो</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">1 चयनित आइटम निकालें</item>
+        <item quantity="other">%d चयनित आइटम निकालें</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">1 चयनित आइटम शेयर करें</item>
+        <item quantity="other">%d चयनित आइटम शेयर करें</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">चुने गए %1$d टैब को ग्रुप से हटाएं.</item>
+        <item quantity="other">चुने गए %1$d टैब को ग्रुप से हटाएं.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">चुने गए %1$d टैब का ग्रुप बनाएं</item>
+        <item quantity="other">चुने गए %1$d टैब का ग्रुप बनाएं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">%1$d चुना गया टैब बंद करें</item>
+        <item quantity="other">%1$d चुने गए टैब बंद करें</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d बुकमार्क</item>
+        <item quantity="other">%1$d बुकमार्क</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d टैब</item>
+        <item quantity="other">%1$d टैब</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 और)</item>
+        <item quantity="other">(+ %d और)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 कुकी को ब्लॉक किया गया</item>
+        <item quantity="other">%d कुकी ब्लॉक किए गए</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d घंटा</item>
+        <item quantity="other">%d घंटे</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">फ़ाइल डाउनलोड हो गई है</item>
+        <item quantity="other">%d डाउनलोड पूरे हुए</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 डाउनलोड नहीं हो सका</item>
+        <item quantity="other">%d डाउनलोड नहीं हो सके</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">फ़ाइल डाउनलोड हो रही है…</item>
+        <item quantity="other">%d फ़ाइलें डाउनलोड हो रही हैं…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 डाउनलोड बाकी है</item>
+        <item quantity="other">%d डाउनलोड बाकी हैं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 डाउनलोड शेड्यूल किया गया</item>
+        <item quantity="other">%d डाउनलोड शेड्यूल किए गए</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d फ़ाइल डाउनलोड की गई</item>
+        <item quantity="other">%1$d फ़ाइलें डाउनलोड की गईं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d मिलता-जुलता क्लस्टर</item>
+        <item quantity="other">%d मिलते-जुलते क्लस्टर</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s गुप्त टैब बंद हो जाएगा</item>
+        <item quantity="other">%1$s गुप्त टैब बंद हो जाएंगे</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s गुप्त और %2$s अन्य टैब बंद हो जाएगा</item>
+        <item quantity="other">%1$s गुप्त और %2$s अन्य टैब बंद हो जाएंगे</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s और %2$s अन्य टैब बंद हो जाएगा</item>
+        <item quantity="other">%1$s और %2$s अन्य टैब बंद हो जाएंगे</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s गुप्त टैब</item>
+        <item quantity="other">%1$s गुप्त टैब</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s टैब</item>
+        <item quantity="other">%2$s टैब, %1$s गुप्त टैब</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 टैब</item>
+        <item quantity="other">%d टैब</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s समीक्षा)</item>
+        <item quantity="other">(%1$s समीक्षाएं)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google से मिली %1$s समीक्षा</item>
+        <item quantity="other">Google से मिली %1$s समीक्षाएं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d दिन पहले</item>
+        <item quantity="other">%d दिन पहले</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d घंटा पहले</item>
+        <item quantity="other">%d घंटे पहले</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d मिनट पहले</item>
+        <item quantity="other">%d मिनट पहले</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">तैयार होने पर Chrome आपका पेज लोड करेगा</item>
+        <item quantity="other">तैयार होने पर Chrome आपके पेज लोड करेगा</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 कुकी इस्तेमाल की जा रही है</item>
+        <item quantity="other">%d कुकी इस्तेमाल की जा रही हैं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s, और %3$s अन्य सुविधा को इस्तेमाल करने की अनुमति दी गई</item>
+        <item quantity="other">%1$s, %2$s, और %3$s अन्य सुविधाओं को इस्तेमाल करने की अनुमति दी गई</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s, और %3$s अन्य सुविधा को ब्लॉक किया गया</item>
+        <item quantity="other">%1$s, %2$s, और %3$s अन्य सुविधाओं को ब्लॉक किया गया</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s, और %3$s अन्य सुविधा</item>
+        <item quantity="other">%1$s, %2$s, और %3$s अन्य सुविधाएं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d पासवर्ड या तो हैक हुआ है या चोरी हुआ है</item>
+        <item quantity="other">%d पासवर्ड या तो हैक हुए हैं या चोरी हुए हैं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… और %2$s अन्य</item>
+        <item quantity="other">%1$s… और %2$s अन्य</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… और %2$s अन्य</item>
+        <item quantity="other">%1$s… और %2$s अन्य</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… और %2$s अन्य</item>
+        <item quantity="other">%1$s… और %2$s अन्य</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… और %2$s अन्य</item>
+        <item quantity="other">%1$s… और %2$s अन्य</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">आपने %1$d पेज नहीं पढ़ा है</item>
+        <item quantity="other">आपने %1$d पेज नहीं पढ़े हैं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d पेज नहीं पढ़ा गया</item>
+        <item quantity="other">%1$d पेज नहीं पढ़े गए</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 पासवर्ड या तो हैक हुआ है या चोरी हुआ है</item>
+        <item quantity="other">%d पासवर्ड या तो हैक हुए हैं या चोरी हुए हैं</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">जांच 1 दिन पहले की गई</item>
+        <item quantity="other">जांच %d दिन पहले की गई</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">जांच 1 घंटा पहले की गई</item>
+        <item quantity="other">जांच %d घंटे पहले की गई</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">जांच 1 मिनट पहले की गई</item>
+        <item quantity="other">जांच %d मिनट पहले की गई</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 चुना गया</item>
+        <item quantity="other">%d चुने गए</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">सिग्नल सशक्तता का स्तर: %d बार</item>
+        <item quantity="other">सिग्नल सशक्तता का स्तर: %d बार</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%2$d में से %1$d स्टार</item>
+        <item quantity="other">%2$d में से %1$d स्टार</item>
+    </plurals>
+</resources>

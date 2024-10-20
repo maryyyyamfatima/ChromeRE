@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.search_resumption.SearchResumptionTileView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="0x7f01074e"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f09047d"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0806fd"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0806fd"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f080703"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080704"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080704">
+    <ImageView
+        android:id="@+id/tile_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f090325"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14005a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080704"
+        android:layout_alignParentStart="true"
+        app:tint="?attr/0_resource_name_obfuscated_res_0x7f050132"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:id="@+id/tile_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/tile_icon"/>
+</org.chromium.chrome.browser.search_resumption.SearchResumptionTileView>

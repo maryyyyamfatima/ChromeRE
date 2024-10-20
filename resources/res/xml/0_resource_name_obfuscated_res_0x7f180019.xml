@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1401db"
+        android:key="allow_signin"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1401da"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1405e9"
+        android:key="metrics_settings"
+        android:fragment="org.chromium.chrome.browser.metrics_settings.MetricsSettingsFragment"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140209"
+        android:key="search_suggestions"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140208"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140b7e"
+        android:key="usage_and_crash_reports"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140b7d"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140b7c"
+        android:key="url_keyed_anonymized_data"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140b7b"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14084a"
+        android:key="autofill_assistant"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140845"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:persistent="false"
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140b4e"
+        android:key="price_tracking_annotations"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140b4f"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f14084a"
+        android:key="autofill_assistant_subsection"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140849"
+        android:fragment="org.chromium.chrome.browser.autofill_assistant.AutofillAssistantPreferenceFragment"
+        app:isPreferenceVisible="false"/>
+    <org.chromium.components.browser_ui.settings.ChromeBasePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1403d1"
+        android:key="contextual_search"
+        android:fragment="org.chromium.chrome.browser.contextualsearch.ContextualSearchPreferenceFragment"/>
+</PreferenceScreen>

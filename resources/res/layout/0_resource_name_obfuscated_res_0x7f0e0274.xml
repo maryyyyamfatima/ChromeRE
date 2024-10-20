@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.image_editor.bottom_bar.ShapeToolView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="0x7f0106bd"
+    android:layout_width="match_parent"
+    android:layout_height="104dp"
+    android:baselineAligned="false">
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:id="0x7f0106be"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <org.chromium.chrome.browser.image_editor.bottom_bar.ColorSelectorView
+            android:orientation="horizontal"
+            android:id="@+id/color_row"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginTop="4dp"
+            android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"/>
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            layout="@layout/0_resource_name_obfuscated_res_0x7f0e02c4"/>
+    </LinearLayout>
+</org.chromium.chrome.browser.image_editor.bottom_bar.ShapeToolView>

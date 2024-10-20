@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d 個のタブを折りたたみます。</item>
+        <item quantity="other">タブグループの %1$d 個のタブを折りたたみます。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d 個のタブを折りたたみます。</item>
+        <item quantity="other">%1$s タブグループの %2$d 個のタブを折りたたみます。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d 件の音声ファイル</item>
+        <item quantity="other">%d 件の音声ファイル</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d 件のファイル</item>
+        <item quantity="other">%d 件のファイル</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d 個の画像</item>
+        <item quantity="other">%d 個の画像</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d ページ</item>
+        <item quantity="other">%d ページ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d 個の動画</item>
+        <item quantity="other">%d 個の動画</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">選択された 1 件のアイテムを削除します</item>
+        <item quantity="other">選択された %d 件のアイテムを削除します</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">1 件の選択されたアイテムを共有します</item>
+        <item quantity="other">%d 件の選択されたアイテムを共有します</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">選択した %1$d 個のタブをグループから削除します。</item>
+        <item quantity="other">選択した %1$d 個のタブをグループから削除します。</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">選択した %1$d 個のタブをグループ化する</item>
+        <item quantity="other">選択した %1$d 個のタブをグループ化する</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">選択した %1$d 個のタブを閉じます</item>
+        <item quantity="other">選択した %1$d 個のタブを閉じます</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d 個のブックマーク</item>
+        <item quantity="other">%1$d 個のブックマーク</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d 個のタブ</item>
+        <item quantity="other">%1$d 個のタブ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">（他 1 件）</item>
+        <item quantity="other">（他 %d 件）</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 個の Cookie がブロックされました</item>
+        <item quantity="other">%d 個の Cookie がブロックされました</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d 時間</item>
+        <item quantity="other">%d 時間</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ファイルをダウンロードしました</item>
+        <item quantity="other">%d 件のダウンロードが完了しました</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 件のダウンロードが失敗しました</item>
+        <item quantity="other">%d 件のダウンロードが失敗しました</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ファイルをダウンロードしています…</item>
+        <item quantity="other">%d 件のファイルをダウンロードしています…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 件のダウンロードが保留中です</item>
+        <item quantity="other">%d 件のダウンロードが保留中です</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 件のダウンロードがスケジュール設定されました</item>
+        <item quantity="other">%d 件のダウンロードがスケジュール設定されました</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d 件のファイルをダウンロードしました</item>
+        <item quantity="other">%1$d 件のファイルをダウンロードしました</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">一致: %d 件</item>
+        <item quantity="other">一致: %d 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s 個のシークレット タブが閉じられます</item>
+        <item quantity="other">%1$s 個のシークレット タブが閉じられます</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s 個のシークレット タブと %2$s 個以上のタブが閉じられます</item>
+        <item quantity="other">%1$s 個のシークレット タブと %2$s 個以上のタブが閉じられます</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">「%1$s」と %2$s 個以上のタブが閉じられます</item>
+        <item quantity="other">「%1$s」と %2$s 個以上のタブが閉じられます</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s 個のシークレット タブ</item>
+        <item quantity="other">%1$s 個のシークレット タブ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s 個のタブ</item>
+        <item quantity="other">%2$s 個のタブ、%1$s 個のシークレット タブ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 個のタブ</item>
+        <item quantity="other">%d 個のタブ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">（%1$s 件のクチコミ）</item>
+        <item quantity="other">（%1$s 件のクチコミ）</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google による審査 %1$s 件</item>
+        <item quantity="other">Google による審査 %1$s 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d 日前</item>
+        <item quantity="other">%d 日前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d 時間前</item>
+        <item quantity="other">%d 時間前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d 分前</item>
+        <item quantity="other">%d 分前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">準備ができると Chrome でページが読み込まれます</item>
+        <item quantity="other">準備ができると Chrome でページが読み込まれます</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 個の Cookie が使用中です</item>
+        <item quantity="other">%d 個の Cookie が使用中です</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s、%2$s、他 %3$s 個の権限が許可されています</item>
+        <item quantity="other">%1$s、%2$s、他 %3$s 個の権限が許可されています</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s、%2$s、他 %3$s 個の権限がブロックされています</item>
+        <item quantity="other">%1$s、%2$s、他 %3$s 個の権限がブロックされています</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s、%2$s、他 %3$s 個の権限</item>
+        <item quantity="other">%1$s、%2$s、他 %3$s 個の権限</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">不正使用されたパスワード: %d 件</item>
+        <item quantity="other">不正使用されたパスワード: %d 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… 他 %2$s 件</item>
+        <item quantity="other">%1$s… 他 %2$s 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… 他 %2$s 件</item>
+        <item quantity="other">%1$s… 他 %2$s 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… 他 %2$s 件</item>
+        <item quantity="other">%1$s… 他 %2$s 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… 他 %2$s 件</item>
+        <item quantity="other">%1$s… 他 %2$s 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">未読ページが %1$d 件あります</item>
+        <item quantity="other">未読ページが %1$d 件あります</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d 件の未読ページ</item>
+        <item quantity="other">%1$d 件の未読ページ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">不正使用されたパスワード: 1 件</item>
+        <item quantity="other">不正使用されたパスワード: %d 件</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">前回の確認: 1 日前</item>
+        <item quantity="other">前回の確認: %d 日前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">前回の確認: 1 時間前</item>
+        <item quantity="other">前回の確認: %d 時間前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">前回の確認: 1 分前</item>
+        <item quantity="other">前回の確認: %d 分前</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 件を選択済み</item>
+        <item quantity="other">%d 件を選択済み</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">電波強度: レベル %d</item>
+        <item quantity="other">電波強度: レベル %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">星 %2$d 個中 %1$d 個</item>
+        <item quantity="other">星 %2$d 個中 %1$d 個</item>
+    </plurals>
+</resources>

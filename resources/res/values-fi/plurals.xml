@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Tiivistä %1$d välilehti.</item>
+        <item quantity="other">Tiivistä välilehtiryhmä, jossa on %1$d välilehteä.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Tiivistä %1$d välilehti.</item>
+        <item quantity="other">Tiivistä %1$s välilehtiryhmä, jossa on %2$d välilehteä.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d äänitiedosto</item>
+        <item quantity="other">%d äänitiedostoa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d tiedosto</item>
+        <item quantity="other">%d tiedostoa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d kuva</item>
+        <item quantity="other">%d kuvaa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d sivu</item>
+        <item quantity="other">%d sivua</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videota</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Poista 1 valittu kohde</item>
+        <item quantity="other">Poista %d valittua kohdetta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Jaa 1 valittu kohde</item>
+        <item quantity="other">Jaa %d valittua kohdetta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Poista %1$d valittu välilehti ryhmästä.</item>
+        <item quantity="other">Poista %1$d valittua välilehteä ryhmästä.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Lisää %1$d valittu välilehti ryhmäksi</item>
+        <item quantity="other">Lisää %1$d valittua välilehteä ryhmäksi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Sulje %1$d valittu välilehti</item>
+        <item quantity="other">Sulje %1$d valittua välilehteä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d kirjanmerkki</item>
+        <item quantity="other">%1$d kirjanmerkkiä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d välilehti</item>
+        <item quantity="other">%1$d välilehteä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 muu)</item>
+        <item quantity="other">(+ %d muuta)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 eväste estetty</item>
+        <item quantity="other">%d evästettä estetty</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Tiedosto ladattu</item>
+        <item quantity="other">%d latausta valmiina</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 lataus epäonnistui</item>
+        <item quantity="other">%d latausta epäonnistui</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Ladataan tiedostoa…</item>
+        <item quantity="other">Ladataan %d tiedostoa…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 lataus odottaa</item>
+        <item quantity="other">%d latausta odottaa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 lataus ajoitettu</item>
+        <item quantity="other">%d latausta ajoitettu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d tiedosto ladattu</item>
+        <item quantity="other">%1$d tiedostoa ladattu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d osuma</item>
+        <item quantity="other">%d osumaa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s incognito-välilehti suljetaan</item>
+        <item quantity="other">%1$s incognito-välilehteä suljetaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s incognito-välilehti ja %2$s muu välilehti suljetaan</item>
+        <item quantity="other">%1$s incognito-välilehteä ja %2$s muuta välilehteä suljetaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s ja %2$s muu välilehti suljetaan</item>
+        <item quantity="other">%1$s ja %2$s muuta välilehteä suljetaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s incognito-välilehti</item>
+        <item quantity="other">%1$s incognito-välilehteä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s välilehti</item>
+        <item quantity="other">%2$s välilehteä, %1$s incognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 välilehti</item>
+        <item quantity="other">%d välilehteä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s arvostelu)</item>
+        <item quantity="other">(%1$s arvostelua)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s arvostelu Googlesta</item>
+        <item quantity="other">%1$s arvostelua Googlesta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d päivä sitten</item>
+        <item quantity="other">%d päivää sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d tunti sitten</item>
+        <item quantity="other">%d tuntia sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minuutti sitten</item>
+        <item quantity="other">%d minuuttia sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome lataa sivusi, kun se on valmis</item>
+        <item quantity="other">Chrome lataa sivusi, kun ne ovat valmiina</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 eväste käytössä</item>
+        <item quantity="other">%d evästettä käytössä</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s ja %3$s muuta sallittu</item>
+        <item quantity="other">%1$s, %2$s ja %3$s muuta sallittu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s ja %3$s muuta estetty</item>
+        <item quantity="other">%1$s, %2$s ja %3$s muuta estetty</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s ja %3$s muuta</item>
+        <item quantity="other">%1$s, %2$s ja %3$s muuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d vaarantunut salasana</item>
+        <item quantity="other">%d vaarantunutta salasanaa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… ja %2$s muu</item>
+        <item quantity="other">%1$s… ja %2$s muuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… ja %2$s muu</item>
+        <item quantity="other">%1$s… ja %2$s muuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… ja %2$s muu</item>
+        <item quantity="other">%1$s… ja %2$s muuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… ja %2$s muu</item>
+        <item quantity="other">%1$s… ja %2$s muuta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Sinulla on %1$d lukematon sivu</item>
+        <item quantity="other">Sinulla on %1$d lukematonta sivua</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d sivu lukematta</item>
+        <item quantity="other">%1$d sivua lukematta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 vaarantunut salasana</item>
+        <item quantity="other">%d vaarantunutta salasanaa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Tarkistettu 1 päivä sitten</item>
+        <item quantity="other">Tarkistettu %d päivää sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Tarkistettu 1 tunti sitten</item>
+        <item quantity="other">Tarkistettu %d tuntia sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Tarkistettu 1 minuutti sitten</item>
+        <item quantity="other">Tarkistettu %d minuuttia sitten</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 valittu</item>
+        <item quantity="other">%d valittu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Signaalin voimakkuus: %d palkki</item>
+        <item quantity="other">Signaalin voimakkuus: %d palkkia</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d tähteä</item>
+        <item quantity="other">%1$d/%2$d tähteä</item>
+    </plurals>
+</resources>

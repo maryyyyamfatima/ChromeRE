@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">ຫຍໍ້ %1$d ແຖບລົງ.</item>
+        <item quantity="other">ຫຍໍ້ກຸ່ມແຖບທີ່ມີ %1$d ແຖບແລ້ວ.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">ຫຍໍ້ %1$d ແຖບລົງ.</item>
+        <item quantity="other">ຫຍໍ້ກຸ່ມແຖບ %1$s ທີ່ມີ %2$d ແຖບລົງ.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ໄຟລ໌ສຽງ</item>
+        <item quantity="other">%d ໄຟລ໌ສຽງ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ໄຟລ໌</item>
+        <item quantity="other">%d ໄຟລ໌</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d ຮູບ</item>
+        <item quantity="other">%d ຮູບ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d ໜ້າ</item>
+        <item quantity="other">%d ໜ້າ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d ວິດີໂອ</item>
+        <item quantity="other">%d ວິດີໂອ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">ລຶບ 1 ລາຍການທີ່ເລືອກອອກ</item>
+        <item quantity="other">ລຶບ %d ລາຍການທີ່ເລືອກອອກ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">ແບ່ງປັນ 1 ລາຍການທີ່ເລືອກ</item>
+        <item quantity="other">ແບ່ງປັນ %d ລາຍການທີ່ເລືອກ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">ລຶບ %1$d ແຖບທີ່ເລືອກອອກຈາກກຸ່ມ.</item>
+        <item quantity="other">ລຶບ %1$d ແຖບທີ່ເລືອກອອກຈາກກຸ່ມ.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">ຈັດກຸ່ມແຖບທີ່ເລືອກ %1$d ແຖບ</item>
+        <item quantity="other">ຈັດກຸ່ມແຖບທີ່ເລືອກ %1$d ແຖບ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">ປິດ %1$d ແຖບທີ່ເລືອກ</item>
+        <item quantity="other">ປິດ %1$d ແຖບທີ່ເລືອກ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d ບຸກມາກ</item>
+        <item quantity="other">%1$d ບຸກມາກ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ແຖບ</item>
+        <item quantity="other">%1$d ແຖບ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(ອີກ 1 ລາຍການ)</item>
+        <item quantity="other">(ອີກ %d ລາຍການ)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">ບລັອກຄຸກກີ້ 1 ລາຍການແລ້ວ</item>
+        <item quantity="other">ບລັອກຄຸກກີ້ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ຊົ່ວໂມງ</item>
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ດາວໂຫຼດໄຟລ໌ແລ້ວ</item>
+        <item quantity="other">ດາວໂຫຼດ %d ໄຟລ໌ສຳເລັດແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 ການດາວໂຫຼດບໍ່ສຳເລັດ</item>
+        <item quantity="other">%d ການດາວໂຫຼດບໍ່ສຳເລັດ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ກຳລັງດາວໂຫຼດໄຟລ໌…</item>
+        <item quantity="other">ກຳລັງດາວໂຫຼດ %d ໄຟລ໌…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 ການດາວໂຫຼດຍັງຄ້າງຢູ່</item>
+        <item quantity="other">%d ການດາວໂຫຼດຍັງຄ້າງຢູ່</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">ກຳນົດເວລາດາວໂຫຼດ 1 ລາຍການແລ້ວ</item>
+        <item quantity="other">ກຳນົດເວລາດາວໂຫຼດ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">ດາວໂຫຼດ %1$d ໄຟລ໌ແລ້ວ</item>
+        <item quantity="other">ດາວໂຫຼດ %1$d ໄຟລ໌ແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">ຂໍ້ມູນກົງກັນ %d ລາຍການ</item>
+        <item quantity="other">ຂໍ້ມູນກົງກັນ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">ແຖບ​ບໍ່ເປີດເຜີຍຕົວຕົນ %1$s ແຖບຈະຖືກປິດ</item>
+        <item quantity="other">ແຖບ​ບໍ່ເປີດເຜີຍຕົວຕົນ %1$s ແຖບຈະຖືກປິດ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">ແຖບບໍ່ເປີດເຜີຍຕົວຕົນ %1$s ແລະ ແຖບອື່ນໆ %2$s ແຖບຈະຖືກປິດ</item>
+        <item quantity="other">ແຖບບໍ່ເປີດເຜີຍຕົວຕົນ %1$s ແລະ ແຖບອື່ນໆ %2$s ແຖບຈະຖືກປິດ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s ແລະ ອີກ %2$s ແຖບຈະຖືກປິດ</item>
+        <item quantity="other">%1$s ແລະ ອີກ %2$s ແຖບຈະຖືກປິດ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s ແຖບ​ບໍ່ເປີດເຜີຍຕົວຕົນ</item>
+        <item quantity="other">%1$s ແຖບ​ບໍ່ເປີດເຜີຍຕົວຕົນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ແຖບ</item>
+        <item quantity="other">%2$s ແຖບ, %1$s ແຖບບໍ່ເປີດເຜີຍຕົວຕົນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ແຖບ</item>
+        <item quantity="other">%d ແຖບ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s ຄຳຕິຊົມ)</item>
+        <item quantity="other">(%1$s ຄຳຕິຊົມ)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s ຄຳຕິຊົມຈາກ Google</item>
+        <item quantity="other">%1$s ຄຳຕິຊົມຈາກ Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d ມື້ກ່ອນນີ້</item>
+        <item quantity="other">%d ມື້ກ່ອນນີ້</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d ຊົ່ວໂມງກ່ອນນີ້</item>
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນນີ້</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d ນາທີກ່ອນນີ້</item>
+        <item quantity="other">%d ນາທີກ່ອນນີ້</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome ຈະໂຫຼດໜ້າເວັບຂອງທ່ານເມື່ອພ້ອມແລ້ວ</item>
+        <item quantity="other">Chrome ຈະໂຫຼດໜ້າເວັບຂອງທ່ານເມື່ອພ້ອມແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">ມີການນຳໃຊ້ຄຸກກີ້ 1 ລາຍການ</item>
+        <item quantity="other">ມີການນຳໃຊ້ຄຸກກີ້ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">ອະນຸຍາດ %1$s, %2$s ແລະ ອີກ %3$s ລາຍການແລ້ວ</item>
+        <item quantity="other">ອະນຸຍາດ %1$s, %2$s ແລະ ອີກ %3$s ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">ບລັອກ %1$s, %2$s ແລະ ອີກ %3$s ລາຍການໄວ້ແລ້ວ</item>
+        <item quantity="other">ບລັອກ %1$s, %2$s ແລະ ອີກ %3$s ລາຍການໄວ້ແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s ແລະ ອີກ %3$s ລາຍການ</item>
+        <item quantity="other">%1$s, %2$s ແລະ ອີກ %3$s ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">ມີລະຫັດຜ່ານທີ່ຖືກລະເມີດ %d ລາຍການ</item>
+        <item quantity="other">ມີລະຫັດຜ່ານທີ່ຖືກລະເມີດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… ແລະ ອີກ %2$s ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+        <item quantity="other">%1$s… ແລະ ອີກ %2$s ລາຍຊື່ຜູ້ຕິດຕໍ່</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… ແລະ ອີກ %2$s ວິທີການຈ່າຍເງິນ</item>
+        <item quantity="other">%1$s… ແລະ ອີກ %2$s ວິທີການຈ່າຍເງິນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… ແລະ ອີກ %2$s ທີ່ຢູ່ການຈັດສົ່ງ</item>
+        <item quantity="other">%1$s… ແລະ ອີກ %2$s ທີ່ຢູ່ການຈັດສົ່ງ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… ແລະ ອີກ %2$s ທາງເລືອກການຈັດສົ່ງ</item>
+        <item quantity="other">%1$s… ແລະ ອີກ %2$s ທາງເລືອກການຈັດສົ່ງ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">ທ່ານມີໜ້າຍັງບໍ່ໄດ້ອ່ານ %1$d ໜ້າ</item>
+        <item quantity="other">ທ່ານມີໜ້າຍັງບໍ່ໄດ້ອ່ານ %1$d ໜ້າ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d ໜ້າທີ່ຍັງບໍ່ໄດ້ອ່ານ</item>
+        <item quantity="other">%1$d ໜ້າທີ່ຍັງບໍ່ໄດ້ອ່ານ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">ມີລະຫັດຜ່ານທີ່ຖືກລະເມີດ 1 ລາຍການ</item>
+        <item quantity="other">ມີລະຫັດຜ່ານທີ່ຖືກລະເມີດ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">ກວດແລ້ວເມື່ອ 1 ມື້ກ່ອນ</item>
+        <item quantity="other">ກວດແລ້ວເມື່ອ %d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">ກວດແລ້ວເມື່ອ 1 ຊົ່ວໂມງກ່ອນ</item>
+        <item quantity="other">ກວດແລ້ວເມື່ອ %d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">ກວດແລ້ວເມື່ອ 1 ນາທີກ່ອນ</item>
+        <item quantity="other">ກວດແລ້ວເມື່ອ %d ນາທີກ່ອນ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">ເລືອກ 1 ລາຍການແລ້ວ</item>
+        <item quantity="other">ເລືອກ %d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">ລະດັບຄວາມແຮງສັນຍານ: %d ຂີດ</item>
+        <item quantity="other">ລະດັບຄວາມແຮງສັນຍານ: %d ຂີດ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d ດາວຈາກເຕັມ %2$d.</item>
+        <item quantity="other">%1$d ດາວຈາກເຕັມ %2$d</item>
+    </plurals>
+</resources>

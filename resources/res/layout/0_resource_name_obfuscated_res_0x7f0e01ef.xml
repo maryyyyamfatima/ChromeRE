@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="0x7f01029e"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f050152">
+    <org.chromium.chrome.browser.autofill.prefeditor.EditorDialogToolbar
+        android:id="@+id/action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/0_resource_name_obfuscated_res_0x7f050003"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        style="@style/0_resource_name_obfuscated_res_0x7f15020d"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e026c"/>
+    <org.chromium.components.browser_ui.widget.FadingEdgeScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/action_bar"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true">
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/contents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080674"
+            android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080674"/>
+    </org.chromium.components.browser_ui.widget.FadingEdgeScrollView>
+</RelativeLayout>

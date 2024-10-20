@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.DualControlLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150443"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</org.chromium.components.browser_ui.widget.DualControlLayout>

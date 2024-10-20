@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.tasks.tab_management.TabGridIphDialogView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:id="0x7f0103c7"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/animation_drawable"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14054b"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f090368"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f1503dd"
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f14054e"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:gravity="start"
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f14054b"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"/>
+</org.chromium.chrome.browser.tasks.tab_management.TabGridIphDialogView>

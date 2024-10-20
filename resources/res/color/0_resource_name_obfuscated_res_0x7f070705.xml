@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05012e"
+        android:alpha="@dimen/0_resource_name_obfuscated_res_0x7f0804ad"/>
+    <item
+        android:state_checkable="false"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f05011a"/>
+    <item
+        android:state_checked="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050129"/>
+    <item android:color="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+</selector>

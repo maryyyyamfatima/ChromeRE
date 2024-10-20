@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.chrome.browser.toolbar.menu_button.MenuButton
+        android:id="@+id/menu_button_wrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <org.chromium.ui.widget.ChromeImageButton
+            android:layout_gravity="center"
+            android:id="@+id/menu_button"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f09025e"
+            android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f14018d"
+            app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+            style="@style/0_resource_name_obfuscated_res_0x7f1505ff"/>
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/menu_badge"
+            android:visibility="invisible"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900ab"
+            android:importantForAccessibility="no"
+            style="@style/0_resource_name_obfuscated_res_0x7f1505ff"/>
+    </org.chromium.chrome.browser.toolbar.menu_button.MenuButton>
+</merge>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d தாவலைச் சுருக்கும்.</item>
+        <item quantity="other">%1$d பக்கங்கள் உள்ள பக்கக் குழுவைச் சுருக்கும்.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d தாவலைச் சுருக்கும்.</item>
+        <item quantity="other">%2$d தாவல்கள் உள்ள %1$s பக்கக் குழுவைச் சுருக்கும்.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ஆடியோ ஃபைல்</item>
+        <item quantity="other">%d ஆடியோ ஃபைல்கள் </item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ஃபைல்</item>
+        <item quantity="other">%d ஃபைல்கள் </item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d படம்</item>
+        <item quantity="other">%d படங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d பக்கம்</item>
+        <item quantity="other">%d பக்கங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d வீடியோ</item>
+        <item quantity="other">%d வீடியோக்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">தேர்ந்தெடுத்த 1 உருப்படியை அகற்றும்</item>
+        <item quantity="other">தேர்ந்தெடுத்த %d உருப்படிகளை அகற்றும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">தேர்ந்தெடுத்த 1 உருப்படியைப் பகிரும்</item>
+        <item quantity="other">தேர்ந்தெடுத்த %d உருப்படிகளைப் பகிரும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">தேர்ந்தெடுத்த %1$d தாவலைக் குழுவிலிருந்து அகற்றும்.</item>
+        <item quantity="other">தேர்ந்தெடுத்த %1$d தாவல்களைக் குழுவிலிருந்து அகற்றும்.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">தேர்ந்தெடுத்த %1$d தாவலைக் குழுவாக்கும்</item>
+        <item quantity="other">தேர்ந்தெடுத்த %1$d தாவல்களைக் குழுவாக்கும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">தேர்ந்தெடுத்த %1$d தாவலை மூடும்</item>
+        <item quantity="other">தேர்ந்தெடுத்த %1$d தாவல்களை மூடும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d புக்மார்க்</item>
+        <item quantity="other">%1$d புக்மார்க்குகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d தாவல்</item>
+        <item quantity="other">%1$d தாவல்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(மேலும் 1)</item>
+        <item quantity="other">(மேலும் %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 குக்கீ தடுக்கப்பட்டது</item>
+        <item quantity="other">%d குக்கீகள் தடுக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d மணிநேரம்</item>
+        <item quantity="other">%d மணிநேரம்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ஃபைல் பதிவிறக்கப்பட்டது</item>
+        <item quantity="other">%d பதிவிறக்கங்கள் முடிந்தன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">ஒரு பதிவிறக்கம் தோல்வியடைந்தது</item>
+        <item quantity="other">%d பதிவிறக்கங்கள் தோல்வியடைந்தன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ஃபைலைப் பதிவிறக்குகிறது…</item>
+        <item quantity="other">%d ஃபைல்களைப் பதிவிறக்குகிறது…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">ஒரு பதிவிறக்கம் நிலுவையில் உள்ளது</item>
+        <item quantity="other">%d பதிவிறக்கங்கள் நிலுவையில் உள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 பதிவிறக்கம் திட்டமிடப்பட்டுள்ளது</item>
+        <item quantity="other">%d பதிவிறக்கங்கள் திட்டமிடப்பட்டுள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ஃபைல் பதிவிறக்கப்பட்டது</item>
+        <item quantity="other">%1$d ஃபைல்கள்  பதிவிறக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d பொருத்தம்</item>
+        <item quantity="other">%d பொருத்தங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s மறைநிலைப் பக்கம் மூடப்படும்</item>
+        <item quantity="other">%1$s மறைநிலைப் பக்கங்கள் மூடப்படும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s மறைநிலைப் பக்கமும் மேலும் %2$s பக்கமும் மூடப்படும்</item>
+        <item quantity="other">%1$s மறைநிலைப் பக்கமும் மேலும் %2$s பக்கங்களும் மூடப்படும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s, மேலும் %2$s பக்கம் மூடப்படும்</item>
+        <item quantity="other">%1$s, மேலும் %2$s பக்கங்கள் மூடப்படும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s மறைநிலைப் பக்கம்</item>
+        <item quantity="other">%1$s மறைநிலைப் பக்கங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s பக்கம்</item>
+        <item quantity="other">%2$s பக்கங்கள், %1$s மறைநிலை</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 பக்கம்</item>
+        <item quantity="other">%d பக்கங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s மதிப்புரை)</item>
+        <item quantity="other">(%1$s மதிப்புரைகள்)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Googleளில் இருந்து %1$s கருத்து</item>
+        <item quantity="other">Googleளில் இருந்து %1$s கருத்துகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d நாள் முன்பு</item>
+        <item quantity="other">%d நாட்களுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d மணிநேரம் முன்பு</item>
+        <item quantity="other">%d மணிநேரம் முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d நிமிடத்திற்கு முன்பு</item>
+        <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">பக்கம் தயாரானதும் Chrome அதை ஏற்றும்</item>
+        <item quantity="other">பக்கங்கள் தயாரானதும் Chrome அவற்றை ஏற்றும்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 குக்கீ உபயோகத்தில் உள்ளது</item>
+        <item quantity="other">%d குக்கீகள் உபயோகத்தில் உள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள் வழங்கப்பட்டுள்ளன</item>
+        <item quantity="other">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள் வழங்கப்பட்டுள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள் தடுக்கப்பட்டுள்ளன</item>
+        <item quantity="other">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள் தடுக்கப்பட்டுள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள்</item>
+        <item quantity="other">%1$s, %2$s &amp; மேலும் %3$s அனுமதிகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">களவாடப்பட்ட கடவுச்சொல்: %d</item>
+        <item quantity="other">களவாடப்பட்ட கடவுச்சொற்கள்: %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… மற்றும் %2$s தொடர்பு</item>
+        <item quantity="other">%1$s… மற்றும் %2$s தொடர்புகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… மற்றும் %2$s கட்டண முறை</item>
+        <item quantity="other">%1$s… மற்றும் %2$s கட்டண முறைகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… மற்றும் %2$s முகவரி</item>
+        <item quantity="other">%1$s… மற்றும் %2$s முகவரிகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… மற்றும் %2$s விருப்பம்</item>
+        <item quantity="other">%1$s… மற்றும் %2$s விருப்பங்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">படிக்காத பக்கம் %1$d உள்ளது</item>
+        <item quantity="other">படிக்காத பக்கங்கள் %1$d உள்ளன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">படிக்காத பக்கம்: %1$d</item>
+        <item quantity="other">படிக்காத பக்கங்கள்: %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 களவாடப்பட்ட கடவுச்சொல்</item>
+        <item quantity="other">%d களவாடப்பட்ட கடவுச்சொற்கள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">சரிபார்த்தது: 1 நாளுக்கு முன்பு</item>
+        <item quantity="other">சரிபார்த்தது: %d நாட்களுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">சரிபார்த்தது: 1 மணிநேரத்திற்கு முன்பு</item>
+        <item quantity="other">சரிபார்த்தது: %d மணிநேரத்திற்கு முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">சரிபார்த்தது: 1 நிமிடத்திற்கு முன்பு</item>
+        <item quantity="other">சரிபார்த்தது: %d நிமிடங்களுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 தேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">சிக்னல் வலிமையின் அளவு: %d கோடு</item>
+        <item quantity="other">சிக்னல் வலிமையின் அளவு: %d கோடுகள்</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d நட்சத்திரம் வழங்கப்பட்டுள்ளது</item>
+        <item quantity="other">%1$d/%2$d நட்சத்திரங்கள் வழங்கப்பட்டுள்ளன</item>
+    </plurals>
+</resources>

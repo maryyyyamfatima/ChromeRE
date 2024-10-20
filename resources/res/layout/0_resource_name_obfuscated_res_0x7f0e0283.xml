@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080650"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f080158"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f1407c0"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f080159"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080159"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:id="@+id/url_or_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08064f"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f080159"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f080159"/>
+</merge>

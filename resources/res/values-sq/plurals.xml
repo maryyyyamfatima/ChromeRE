@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Palos %1$d skedë.</item>
+        <item quantity="other">Palos grupin e skedave me %1$d skeda.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Palos %1$d skedë.</item>
+        <item quantity="other">Palos grupin e skedave &quot;%1$s&quot; me %2$d skeda.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d skedar audio</item>
+        <item quantity="other">%d skedarë audio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d skedar</item>
+        <item quantity="other">%d skedarë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d imazh</item>
+        <item quantity="other">%d Imazhe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d faqe</item>
+        <item quantity="other">%d faqe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Hiq 1 artikull të zgjedhur</item>
+        <item quantity="other">Hiq %d artikuj të zgjedhur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Ndaj 1 artikull të zgjedhur</item>
+        <item quantity="other">Ndaj %d artikuj të zgjedhur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Hiq %1$d skedë të zgjedhur nga grupi.</item>
+        <item quantity="other">Hiq %1$d skeda të zgjedhura nga grupi.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Grupo %1$d skedë të zgjedhur</item>
+        <item quantity="other">Grupo %1$d skeda të zgjedhura</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Mbyll %1$d skedë të zgjedhur</item>
+        <item quantity="other">Mbyll %1$d skeda të zgjedhura</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d faqeshënues</item>
+        <item quantity="other">%1$d faqeshënues</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d skedë</item>
+        <item quantity="other">%1$d skeda</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 tjetër)</item>
+        <item quantity="other">(+ %d të tjerë)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 kuki është bllokuar</item>
+        <item quantity="other">%d kuki janë bllokuar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d orë</item>
+        <item quantity="other">%d orë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Skedar i shkarkuar</item>
+        <item quantity="other">%d shkarkime të përfunduara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 shkarkim dështoi</item>
+        <item quantity="other">%d shkarkime dështuan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Po shkarkohet skedari…</item>
+        <item quantity="other">Po shkarkohen %d skedarë…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 shkarkim në pritje</item>
+        <item quantity="other">%d shkarkime në pritje</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 shkarkim i planifikuar</item>
+        <item quantity="other">%d shkarkime të planifikuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d skedar i shkarkuar</item>
+        <item quantity="other">%1$d skedarë të shkarkuar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d përputhje</item>
+        <item quantity="other">%d përputhje</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s skedë &quot;e fshehtë&quot; do të mbyllet</item>
+        <item quantity="other">%1$s skeda &quot;të fshehta&quot; do të mbyllen</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s skedë &quot;e fshehtë&quot; dhe %2$s skedë tjetër do të mbyllen</item>
+        <item quantity="other">%1$s skeda &quot;të fshehta&quot; dhe %2$s skeda të tjera do të mbyllen</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s dhe %2$s skedë tjetër do të mbyllen</item>
+        <item quantity="other">%1$s dhe %2$s skeda të tjera do të mbyllen</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s skedë e fshehtë</item>
+        <item quantity="other">%1$s skeda të fshehta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s skedë</item>
+        <item quantity="other">%2$s skeda, %1$s të fshehta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 skedë</item>
+        <item quantity="other">%d skeda</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s koment)</item>
+        <item quantity="other">(%1$s komente)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s shqyrtim nga Google</item>
+        <item quantity="other">%1$s shqyrtime nga Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d ditë më parë</item>
+        <item quantity="other">%d ditë më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d orë më parë</item>
+        <item quantity="other">%d orë më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minutë më parë</item>
+        <item quantity="other">%d minuta më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome do ta ngarkojë faqen tënde kur të jesh gati</item>
+        <item quantity="other">Chrome do të ngarkojë faqet e tua kur të jesh gati</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 kuki në përdorim</item>
+        <item quantity="other">%d kuki në përdorim</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s dhe %3$s tjetër e lejuar</item>
+        <item quantity="other">%1$s, %2$s dhe %3$s të tjera të lejuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s dhe %3$s tjetër e bllokuar</item>
+        <item quantity="other">%1$s, %2$s dhe %3$s të tjera të bllokuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s dhe %3$s tjetër</item>
+        <item quantity="other">%1$s, %2$s dhe %3$s të tjera</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d fjalëkalim i komprometuar</item>
+        <item quantity="other">%d fjalëkalime të komprometuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… dhe %2$s tjetër</item>
+        <item quantity="other">%1$s… dhe %2$s të tjera</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… dhe %2$s tjetër</item>
+        <item quantity="other">%1$s… dhe %2$s të tjera</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… dhe %2$s tjetër</item>
+        <item quantity="other">%1$s… dhe %2$s të tjera</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… dhe %2$s tjetër</item>
+        <item quantity="other">%1$s… dhe %2$s të tjera</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Ke %1$d faqe të palexuar</item>
+        <item quantity="other">Ke %1$d faqe të palexuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d faqe e palexuar</item>
+        <item quantity="other">%1$d faqe të palexuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 fjalëkalim i komprometuar</item>
+        <item quantity="other">%d fjalëkalime të komprometuara</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Kontrolluar 1 ditë më parë</item>
+        <item quantity="other">Kontrolluar %d ditë më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Kontrolluar 1 orë më parë</item>
+        <item quantity="other">Kontrolluar %d orë më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Kontrolluar 1 minutë më parë</item>
+        <item quantity="other">Kontrolluar %d minuta më parë</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 i zgjedhur</item>
+        <item quantity="other">%d të zgjedhur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Niveli i forcës së sinjalit: %d shirit</item>
+        <item quantity="other">Niveli i forcës së sinjalit: %d shirita</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d yll nga %2$d</item>
+        <item quantity="other">%1$d yje nga %2$d</item>
+    </plurals>
+</resources>

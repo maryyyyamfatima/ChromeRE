@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+    android:id="@+id/privacy_disclaimer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/0_resource_name_obfuscated_res_0x7f1404c1"
+    android:drawablePadding="@dimen/0_resource_name_obfuscated_res_0x7f08024b"
+    android:drawableStart="@drawable/0_resource_name_obfuscated_res_0x7f0901cc"
+    app:chromeDrawableTint="?attr/0_resource_name_obfuscated_res_0x7f050132"
+    app:drawableHeight="@dimen/0_resource_name_obfuscated_res_0x7f08024c"
+    app:drawableWidth="@dimen/0_resource_name_obfuscated_res_0x7f08024c"/>

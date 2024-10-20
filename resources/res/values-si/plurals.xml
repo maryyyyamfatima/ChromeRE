@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">ටැබ %1$dක් හකුළන්න.</item>
+        <item quantity="other">ටැබ සමූහය ටැබ %1$dක් සමග හකුළන්න.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">ටැබ %1$dක් හකුළන්න.</item>
+        <item quantity="other">%1$s ටැබ සමූහය ටැබ %2$dක් සමග හකුළන්න.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ශ්‍රව්‍ය ගොනුවක්</item>
+        <item quantity="other">ශ්‍රව්‍ය ගොනු %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ගොනුවක්</item>
+        <item quantity="other">ගොනු %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d රූපයක්</item>
+        <item quantity="other">රූප %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d පිටුවක්</item>
+        <item quantity="other">පිටු %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d වීඩියෝවක්</item>
+        <item quantity="other">වීඩියෝ %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">තෝරාගත් අයිතම 1ක් ඉවත් කරන්න</item>
+        <item quantity="other">තෝරාගත් අයිතම %dක් ඉවත් කරන්න</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">තෝරාගත් අයිතම 1ක් බෙදාගන්න</item>
+        <item quantity="other">තෝරාගත් අයිතම %dක් බෙදාගන්න</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">සමූහයෙන් තෝරා ගත් ටැබ %1$dක් ඉවත් කරන්න.</item>
+        <item quantity="other">සමූහයෙන් තෝරා ගත් ටැබ %1$dක් ඉවත් කරන්න.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$d තේරූ පටිත්ත සමූහ කරන්න</item>
+        <item quantity="other">තේරූ පටිති %1$d සමූහ කරන්න</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">තේරූ %1$d පටිත්ත වසන්න</item>
+        <item quantity="other">තේරූ පටිති %1$d වසරන්න</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d පිටුසනක්</item>
+        <item quantity="other">පිටුසන් %1$dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d පටිත්තක්</item>
+        <item quantity="other">පටිති %1$d ක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(තවත් + 1ක්)</item>
+        <item quantity="other">(තවත් + %dක්)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 කුකීයක් අවහිර කළා</item>
+        <item quantity="other">කුකී %d ක් අවහිර කළා</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">පැය %d</item>
+        <item quantity="other">පැය %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ගොනුව බාගන්නා ලදී</item>
+        <item quantity="other">බාගැනීම් %dක් සම්පූර්ණයි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">බාගැනීම් 1ක් අසමත් විය</item>
+        <item quantity="other">බාගැනීම් %dක් අසමත් විය</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ගොනුව බාගනිමින්…</item>
+        <item quantity="other">ගොනු %dක් බාගනිමින්…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">බාගැනීම් 1ක් පොරොත්තුවෙන්</item>
+        <item quantity="other">බාගැනීම් %dක් පොරොත්තුවෙන්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">බාගැනීම් 1ක් කාලසටහන්ගත කරන ලදි</item>
+        <item quantity="other">බාගැනීම් %dක් කාලසටහන්ගත කරන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ගොනුවක් බාගත්තා</item>
+        <item quantity="other">ගොනු %1$dක් බාගත්තා</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d ගැළපීමක්</item>
+        <item quantity="other">ගැළපීම් %dක්</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">අප්‍රකට ටැබ %1$sක් වසනු ඇත</item>
+        <item quantity="other">අප්‍රකට ටැබ %1$sක් වසනු ඇත</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">අප්‍රකට ටැබ %1$sක් සහ තව ටැබ %2$sක් වැසෙනු ඇත</item>
+        <item quantity="other">අප්‍රකට ටැබ %1$sක් සහ තව ටැබ %2$sක් වැසෙනු ඇත</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$sක් සහ තව ටැබ %2$sක් වැසෙනු ඇත</item>
+        <item quantity="other">%1$sක් සහ තව ටැබ %2$sක් වැසෙනු ඇත</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">අප්‍රකට ටැබ %1$s</item>
+        <item quantity="other">අප්‍රකට ටැබ %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">ටැබ %1$s</item>
+        <item quantity="other">ටැබ %2$s, අප්‍රකට %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">ටැබ 1</item>
+        <item quantity="other">ටැබ %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(සමාලෝචන %1$s)</item>
+        <item quantity="other">(සමාලෝචන %1$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google වෙතින් සමාලෝචන %1$s</item>
+        <item quantity="other">Google වෙතින් සමාලෝචන %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">දින %dකට පෙර</item>
+        <item quantity="other">දින %dකට පෙර</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">පැය %dකට පෙර</item>
+        <item quantity="other">පැය %dකට පෙර</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">මිනිත්තු %dකට පෙර</item>
+        <item quantity="other">මිනිත්තු %dකට පෙර</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">සූදානම් වූ විට Chrome ඔබේ පිටුව පූරණ කරයි</item>
+        <item quantity="other">සූදානම් වූ විට Chrome ඔබේ පිටු පූරණ කරයි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">කුකි 1ක් භාවිතයේ ඇත</item>
+        <item quantity="other">කුකි %dක් භාවිතයේ ඇත</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s සහ තව %3$sක් ඉඩ දෙන ලදි</item>
+        <item quantity="other">%1$s, %2$s සහ තව %3$sක් ඉඩ දෙන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s සහ තව %3$sක් අවහිර කරන ලදි</item>
+        <item quantity="other">%1$s, %2$s සහ තව %3$sක් අවහිර කරන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s සහ තවත් %3$s</item>
+        <item quantity="other">%1$s, %2$s සහ තවත් %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">අවදානමට පත් වූ මුරපද %d</item>
+        <item quantity="other">අවදානමට පත් වූ මුරපද %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… සහ තවත් %2$s</item>
+        <item quantity="other">%1$s… සහ තවත් %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… සහ තවත් %2$s</item>
+        <item quantity="other">%1$s… සහ තවත් %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… සහ තවත් %2$s</item>
+        <item quantity="other">%1$s… සහ තවත් %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… සහ තවත් %2$s</item>
+        <item quantity="other">%1$s… සහ තවත් %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">ඔබට නොකියවූ පිටු %1$dක් ඇත</item>
+        <item quantity="other">ඔබට නොකියවූ පිටු %1$dක් ඇත</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">නොකියවූ පිටු %1$d</item>
+        <item quantity="other">නොකියවූ පිටු %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">අවදානමට පත් වූ මුරපද 1</item>
+        <item quantity="other">අවදානමට පත් වූ මුරපද %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">දින 1කට පෙර පරීක්ෂා කරන ලදි</item>
+        <item quantity="other">දින %dකට පෙර පරීක්ෂා කරන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">පැය 1කට පෙර පරීක්ෂා කරන ලදි</item>
+        <item quantity="other">පැය %dකට පෙර පරීක්ෂා කරන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">මිනිත්තු 1කට පෙර පරීක්ෂා කරන ලදි</item>
+        <item quantity="other">මිනිත්තු %dකට පෙර පරීක්ෂා කරන ලදි</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1ක් තෝරන ලදී</item>
+        <item quantity="other">%dක් තෝරන ලදී</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">සංඥා ප්‍රබලතා මට්ටම: කණු %d</item>
+        <item quantity="other">සංඥා ප්‍රබලතා මට්ටම: කණු %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">තරු %2$dකින් %1$dක්</item>
+        <item quantity="other">තරු %2$dකින් %1$dක්</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+    android:gravity="center_vertical"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/0_resource_name_obfuscated_res_0x7f140a5b"
+    android:drawablePadding="16dp"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    app:drawableStartCompat="@drawable/0_resource_name_obfuscated_res_0x7f0902f8"/>

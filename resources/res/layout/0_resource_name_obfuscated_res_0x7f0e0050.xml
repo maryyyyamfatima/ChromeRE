@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space style="@style/0_resource_name_obfuscated_res_0x7f15019c"/>
+    <org.chromium.components.browser_ui.widget.DualControlLayout
+        android:id="@+id/button_bar"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0801f8"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0801f8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080679"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080679"
+        app:buttonAlignment="1"
+        app:primaryButtonText="@string/0_resource_name_obfuscated_res_0x7f14040b"
+        app:secondaryButtonText="@string/0_resource_name_obfuscated_res_0x7f1402f4"
+        app:stackedMargin="@dimen/0_resource_name_obfuscated_res_0x7f080380"/>
+</merge>

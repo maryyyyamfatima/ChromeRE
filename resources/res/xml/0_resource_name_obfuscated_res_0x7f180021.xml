@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090498"
+        android:shortcutId="new-tab-shortcut"
+        android:shortcutShortLabel="@string/0_resource_name_obfuscated_res_0x7f140633">
+        <intent
+            android:targetPackage="com.android.chrome"
+            android:action="chromium.shortcut.action.OPEN_NEW_TAB"
+            android:targetClass="org.chromium.chrome.browser.LauncherShortcutActivity"/>
+    </shortcut>
+    <shortcut
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090497"
+        android:enabled="false"
+        android:shortcutId="new-incognito-tab-shortcut"
+        android:shortcutShortLabel="@string/0_resource_name_obfuscated_res_0x7f14017f"
+        android:shortcutLongLabel="@string/0_resource_name_obfuscated_res_0x7f140632"
+        android:shortcutDisabledMessage="@string/0_resource_name_obfuscated_res_0x7f140403">
+        <intent
+            android:targetPackage="com.android.chrome"
+            android:action="chromium.shortcut.action.OPEN_NEW_INCOGNITO_TAB"
+            android:targetClass="org.chromium.chrome.browser.LauncherShortcutActivity"/>
+    </shortcut>
+</shortcuts>

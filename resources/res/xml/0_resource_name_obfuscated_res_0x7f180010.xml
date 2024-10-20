@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:key="contextual_search_switch"
+        android:summaryOn="@string/0_resource_name_obfuscated_res_0x7f140b27"
+        android:summaryOff="@string/0_resource_name_obfuscated_res_0x7f140b26"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1403d0"
+        android:key="see_better_results_switch"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f1403cf"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f1403c0"
+        android:key="contextual_search_description"
+        app:allowDividerBelow="false"/>
+</PreferenceScreen>

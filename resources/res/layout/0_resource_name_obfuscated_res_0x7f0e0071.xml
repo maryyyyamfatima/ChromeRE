@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.tasks.tab_management.TabGroupUiToolbarView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="0x7f010795"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:id="@+id/main_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <org.chromium.ui.widget.ChromeImageView
+                android:id="@+id/toolbar_left_button"
+                android:src="@drawable/0_resource_name_obfuscated_res_0x7f090200"
+                app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+                style="@style/0_resource_name_obfuscated_res_0x7f15019a"/>
+            <FrameLayout
+                android:id="@+id/toolbar_container_view"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"/>
+            <org.chromium.ui.widget.ChromeImageView
+                android:id="@+id/toolbar_right_button"
+                android:src="@drawable/0_resource_name_obfuscated_res_0x7f090409"
+                app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+                style="@style/0_resource_name_obfuscated_res_0x7f15019a"/>
+        </LinearLayout>
+        <org.chromium.ui.widget.ChromeImageView
+            android:id="@+id/tab_strip_fading_edge_start"
+            android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807b2"
+            android:layout_height="match_parent"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f0904b5"
+            android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f0807b1"/>
+        <org.chromium.ui.widget.ChromeImageView
+            android:layout_gravity="end|bottom"
+            android:id="@+id/tab_strip_fading_edge_end"
+            android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807b2"
+            android:layout_height="match_parent"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f0904b4"
+            android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0807b1"/>
+    </FrameLayout>
+</org.chromium.chrome.browser.tasks.tab_management.TabGroupUiToolbarView>

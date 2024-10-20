@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <org.chromium.components.embedder_support.delegate.ColorPickerAdvanced
+            android:id="@+id/color_picker_advanced"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </ScrollView>
+    <org.chromium.components.embedder_support.delegate.ColorPickerSimple
+        android:id="@+id/color_picker_simple"
+        android:background="@drawable/0_resource_name_obfuscated_res_0x7f090134"
+        android:padding="1px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/0_resource_name_obfuscated_res_0x7f0700cb"
+        android:dividerHeight="1px"/>
+    <org.chromium.ui.widget.ButtonCompat
+        android:id="@+id/more_colors_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140370"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+</LinearLayout>

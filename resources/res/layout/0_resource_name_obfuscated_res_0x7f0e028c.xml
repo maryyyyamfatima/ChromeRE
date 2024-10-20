@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="end|top"
+    android:id="@+id/survey_close_button"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f0904a7"
+    android:padding="12dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/0_resource_name_obfuscated_res_0x7f0904a2"
+    android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140aa6"
+    style="@style/0_resource_name_obfuscated_res_0x7f1502df"/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f090154"
+        android:maxLevel="@integer/0_resource_name_obfuscated_res_0x7f0c0043"/>
+    <item android:maxLevel="@integer/0_resource_name_obfuscated_res_0x7f0c0045">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f0803b6"/>
+            <solid android:color="?attr/0_resource_name_obfuscated_res_0x7f05013a"/>
+        </shape>
+    </item>
+    <item android:maxLevel="@integer/0_resource_name_obfuscated_res_0x7f0c0044">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f0803b6"/>
+            <solid android:color="@color/0_resource_name_obfuscated_res_0x7f0708d4"/>
+        </shape>
+    </item>
+</level-list>

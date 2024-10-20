@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/divider"
+    android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08035f"
+    android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08035f"
+    style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>

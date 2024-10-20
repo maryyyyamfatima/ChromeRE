@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    style="@style/0_resource_name_obfuscated_res_0x7f1501db">
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/start_icon"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f090413"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501de"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:ellipsize="end"
+        android:id="@+id/title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140882"
+        android:maxLines="1"
+        android:layout_weight="1"/>
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="0x7f0102bc"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0903f5"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501dc"/>
+</LinearLayout>

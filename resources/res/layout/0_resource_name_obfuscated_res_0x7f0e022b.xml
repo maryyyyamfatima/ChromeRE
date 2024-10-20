@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:id="@+id/progress_bar_overlay"
+    android:visibility="gone"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f08069d"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08069d"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08069c"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08069b"/>
+    <ImageView
+        android:id="@+id/confirmation_icon"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08069d"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f09011c"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150457"
+        android:id="@+id/progress_bar_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Skjul %1$d fane.</item>
+        <item quantity="other">Skjul fanegruppe med %1$d faner.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Skjul %1$d fane.</item>
+        <item quantity="other">Skjul fanegruppen %1$s med %2$d faner.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d lydfil</item>
+        <item quantity="other">%d lydfiler</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d fil</item>
+        <item quantity="other">%d filer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d billede</item>
+        <item quantity="other">%d billeder</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d side</item>
+        <item quantity="other">%d sider</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videoer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Fjern 1 valgt element</item>
+        <item quantity="other">Fjern %d valgte elementer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Del 1 valgt element</item>
+        <item quantity="other">Del %d valgte elementer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Fjern %1$d valgt fane fra gruppen.</item>
+        <item quantity="other">Fjern %1$d valgte faner fra gruppen.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Gruppér %1$d valgt fane</item>
+        <item quantity="other">Gruppér de %1$d valgte faner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Luk %1$d valgt fane</item>
+        <item quantity="other">Luk de %1$d valgte faner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d bogmærke</item>
+        <item quantity="other">%1$d bogmærker</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d fane</item>
+        <item quantity="other">%1$d faner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 anden)</item>
+        <item quantity="other">(+ %d andre)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 cookie blev blokeret</item>
+        <item quantity="other">%d cookies blev blokeret</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d t.</item>
+        <item quantity="other">%d t.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Filen er downloadet</item>
+        <item quantity="other">%d filer er downloadet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 download mislykkedes</item>
+        <item quantity="other">%d downloads mislykkedes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Downloader fil…</item>
+        <item quantity="other">Downloader %d filer…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 download afventer</item>
+        <item quantity="other">%d downloads afventer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 planlagt download.</item>
+        <item quantity="other">%d planlagte downloads.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fil blev downloadet</item>
+        <item quantity="other">%1$d filer blev downloadet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d resultat</item>
+        <item quantity="other">%d resultater</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s inkognitofane lukkes</item>
+        <item quantity="other">%1$s inkognitofaner lukkes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s inkognitofane og %2$s anden fane lukkes</item>
+        <item quantity="other">%1$s inkognitofane og %2$s andre faner lukkes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s og %2$s anden fane lukkes</item>
+        <item quantity="other">%1$s og %2$s andre faner lukkes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s inkognitofane</item>
+        <item quantity="other">%1$s inkognitofaner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s fane</item>
+        <item quantity="other">%2$s faner og %1$s inkognitofaner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 fane</item>
+        <item quantity="other">%d faner</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s anmeldelse)</item>
+        <item quantity="other">(%1$s anmeldelser)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s anmeldelse fra Google</item>
+        <item quantity="other">%1$s anmeldelser fra Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">For 1 dag siden</item>
+        <item quantity="other">For %d dage siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">For 1 time siden</item>
+        <item quantity="other">For %d timer siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">For %d minut siden</item>
+        <item quantity="other">For %d minutter siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome indlæser din side, når det er muligt</item>
+        <item quantity="other">Chrome indlæser dine sider, når det er muligt</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 cookie er i brug</item>
+        <item quantity="other">%d cookies er i brug</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s og %3$s mere er tilladt</item>
+        <item quantity="other">%1$s, %2$s og %3$s mere er tilladt</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s og %3$s mere er blokeret</item>
+        <item quantity="other">%1$s, %2$s og %3$s mere er blokeret</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s og %3$s mere</item>
+        <item quantity="other">%1$s, %2$s og %3$s mere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d kompromitteret adgangskode</item>
+        <item quantity="other">%d kompromitterede adgangskoder</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… og %2$s mere</item>
+        <item quantity="other">%1$s… og %2$s mere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… og %2$s mere</item>
+        <item quantity="other">%1$s… og %2$s mere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… og %2$s mere</item>
+        <item quantity="other">%1$s… og %2$s mere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… og %2$s mere</item>
+        <item quantity="other">%1$s… og %2$s mere</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Du har %1$d ulæst side</item>
+        <item quantity="other">Du har %1$d ulæste sider</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d ulæst side</item>
+        <item quantity="other">%1$d ulæste sider</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 kompromitteret adgangskode</item>
+        <item quantity="other">%d kompromitterede adgangskoder</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Tjekket for 1 dag siden</item>
+        <item quantity="other">Tjekket for %d dage siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Tjekket for 1 time siden</item>
+        <item quantity="other">Tjekket for %d timer siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Tjekket for 1 minut siden</item>
+        <item quantity="other">Tjekket for %d minutter siden</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 er valgt</item>
+        <item quantity="other">%d er valgt</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Signalstyrkeniveau: %d søjle</item>
+        <item quantity="other">Signalstyrkeniveau: %d søjler</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d stjerne ud af %2$d</item>
+        <item quantity="other">%1$d stjerner ud af %2$d</item>
+    </plurals>
+</resources>

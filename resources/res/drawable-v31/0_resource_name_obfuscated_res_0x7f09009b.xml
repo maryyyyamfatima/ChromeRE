@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:left="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+        android:top="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+        android:right="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+        android:bottom="@dimen/0_resource_name_obfuscated_res_0x7f08006b">
+        <org.chromium.components.browser_ui.widget.SurfaceColorDrawable
+            android:shape="rectangle"
+            app:surfaceElevation="@dimen/0_resource_name_obfuscated_res_0x7f0804ca">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f080069"/>
+            <padding
+                android:left="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+                android:top="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+                android:right="@dimen/0_resource_name_obfuscated_res_0x7f08006b"
+                android:bottom="@dimen/0_resource_name_obfuscated_res_0x7f08006b"/>
+        </org.chromium.components.browser_ui.widget.SurfaceColorDrawable>
+    </item>
+</layer-list>

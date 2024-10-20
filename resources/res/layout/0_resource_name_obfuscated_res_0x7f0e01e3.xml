@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.password_manager.PasswordGenerationDialogCustomView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="0x7f010571"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f080652"
+    android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080652"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080652"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080652">
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:id="@+id/generated_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        app:leading="20sp"/>
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+        android:id="@+id/generation_save_explanation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:leading="20sp"/>
+</org.chromium.chrome.browser.password_manager.PasswordGenerationDialogCustomView>

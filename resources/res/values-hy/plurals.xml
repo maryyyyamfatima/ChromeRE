@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Ծալել %1$d ներդիր։</item>
+        <item quantity="other">Ծալել %1$d ներդիրից բաղկացած խումբը։</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Ծալել %1$d ներդիր։</item>
+        <item quantity="other">Ծալել %2$d ներդիրից բաղկացած «%1$s» խումբը։</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d աուդիո ֆայլ</item>
+        <item quantity="other">%d աուդիո ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ֆայլ</item>
+        <item quantity="other">%d ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d պատկեր</item>
+        <item quantity="other">%d պատկեր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d էջ</item>
+        <item quantity="other">%d էջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d տեսանյութ</item>
+        <item quantity="other">%d տեսանյութ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Հեռացնել ընտրված 1 տարրը</item>
+        <item quantity="other">Հեռացնել ընտրված %d տարրերը</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Հրապարակել ընտրված 1 տարրը</item>
+        <item quantity="other">Հրապարակել ընտրված %d տարրերը</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Հեռացնել ընտրված %1$d ներդիրը խմբից։</item>
+        <item quantity="other">Հեռացնել ընտրված %1$d ներդիրները խմբից։</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Խմբավորել ընտրված %1$d ներդիրը</item>
+        <item quantity="other">Խմբավորել ընտրված %1$d ներդիրները</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Փակել ընտրված %1$d ներդիրը</item>
+        <item quantity="other">Փակել ընտրված %1$d ներդիրները</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d էջանիշ</item>
+        <item quantity="other">%1$d էջանիշ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ներդիր</item>
+        <item quantity="other">%1$d ներդիր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(ու ևս 1)</item>
+        <item quantity="other">(ու ևս %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Արգելափակվել է 1 քուքի ֆայլ</item>
+        <item quantity="other">Արգելափակվել է %d քուքի ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ժամ</item>
+        <item quantity="other">%d ժամ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Ֆայլը ներբեռնվեց</item>
+        <item quantity="other">Ներբեռնվեց %d ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Չհաջողվեց ներբեռնել 1 ֆայլ</item>
+        <item quantity="other">Չհաջողվեց ներբեռնել %d ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Ֆայլը ներբեռնվում է…</item>
+        <item quantity="other">Ներբեռնվում է %d ֆայլ…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Կնեռբեռնվի 1 ֆայլ</item>
+        <item quantity="other">Կներբեռնվի %d ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Պլանավորված է 1 ներբեռնում</item>
+        <item quantity="other">Պլանավորված է %d ներբեռնում</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Ներբեռնվեց %1$d ֆայլ</item>
+        <item quantity="other">Ներբեռնվեց %1$d ֆայլ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d համընկնում</item>
+        <item quantity="other">%d համընկնում</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s ինկոգնիտո ներդիր կփակվի</item>
+        <item quantity="other">%1$s ինկոգնիտո ներդիր կփակվի</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s ինկոգնիտո և %2$s այլ ներդիր կփակվեն</item>
+        <item quantity="other">%1$s ինկոգնիտո և %2$s այլ ներդիրներ կփակվեն</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">«%1$s» ներդիրն ու ևս %2$s ներդիր կփակվեն</item>
+        <item quantity="other">«%1$s» ներդիրն ու ևս %2$s ներդիր կփակվեն</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s ինկոգնիտո ներդիր</item>
+        <item quantity="other">%1$s ինկոգնիտո ներդիր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ներդիր</item>
+        <item quantity="other">%2$s ներդիր, %1$s ինկոգնիտո ներդիր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ներդիր</item>
+        <item quantity="other">%d ներդիր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s կարծիք)</item>
+        <item quantity="other">(%1$s կարծիք)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s կարծիք Google-ից</item>
+        <item quantity="other">%1$s կարծիք Google-ից</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d օր առաջ</item>
+        <item quantity="other">%d օր առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d ժամ առաջ</item>
+        <item quantity="other">%d ժամ առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d րոպե առաջ</item>
+        <item quantity="other">%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">էջը կբեռնվի, երբ սարքը միացած լինի ցանցին</item>
+        <item quantity="other">էջերը կբեռնվեն, երբ սարքը միացած լինի ցանցին</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 օգտագործվող քուքի</item>
+        <item quantity="other">%d օգտագործվող քուքի</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Թույլատրված են՝ «%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+        <item quantity="other">Թույլատրված են՝ «%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Արգելափակված են՝ «%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+        <item quantity="other">Արգելափակված են՝ «%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">«%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+        <item quantity="other">«%1$s», «%2$s» ու ևս %3$s թույլտվություն</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d կոտրված գաղտնաբառ</item>
+        <item quantity="other">%d կոտրված գաղտնաբառ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… ու ևս %2$s կոնտակտ</item>
+        <item quantity="other">%1$s… ու ևս %2$s կոնտակտ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… ու վճարման ևս %2$s եղանակ</item>
+        <item quantity="other">%1$s… ու վճարման ևս %2$s եղանակ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… ու առաքման ևս %2$s հասցե</item>
+        <item quantity="other">%1$s… ու առաքման ևս %2$s հասցե</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… և ուղարկման ևս %2$s տարբերակ</item>
+        <item quantity="other">%1$s… և ուղարկման ևս %2$s տարբերակ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Դուք ունեք %1$d չկարդացված էջ</item>
+        <item quantity="other">Դուք ունեք %1$d չկարդացված էջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d չկարդացված էջ</item>
+        <item quantity="other">%1$d չկարդացված էջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 կոտրված գաղտնաբառ</item>
+        <item quantity="other">%d կոտրված գաղտնաբառ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Ստուգվել է 1 օր առաջ</item>
+        <item quantity="other">Ստուգվել է %d օր առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Ստուգվել է 1 ժամ առաջ</item>
+        <item quantity="other">Ստուգվել է %d ժամ առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Ստուգվել է 1 րոպե առաջ</item>
+        <item quantity="other">Ստուգվել է %d րոպե առաջ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 ընտրված տարր</item>
+        <item quantity="other">%d ընտրված տարր</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Ազդանշանի ուժգնությունը՝ %d գծիկ</item>
+        <item quantity="other">Ազդանշանի ուժգնությունը՝ %d գծիկ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d աստղ</item>
+        <item quantity="other">%1$d/%2$d աստղ</item>
+    </plurals>
+</resources>

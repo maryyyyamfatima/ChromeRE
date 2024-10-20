@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Собери %1$d картичка.</item>
+        <item quantity="other">Собери ја групата со %1$d картички.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Собери %1$d картичка.</item>
+        <item quantity="other">Собери ја групата %1$s со %2$d картички.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d аудиодатотека</item>
+        <item quantity="other">%d аудиодатотеки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d датотека</item>
+        <item quantity="other">%d датотеки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d слика</item>
+        <item quantity="other">%d слики</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d страница</item>
+        <item quantity="other">%d страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видеа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Отстрани 1 избрана ставка</item>
+        <item quantity="other">Отстрани %d избрани ставки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Споделете 1 избрана ставка</item>
+        <item quantity="other">Споделете %d избрани ставки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Отстрани %1$d избрана картичка од групата.</item>
+        <item quantity="other">Отстрани %1$d избрани картички од групата.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Групирајте %1$d избрана картичка</item>
+        <item quantity="other">Групирајте %1$d избрани картички</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Затвори %1$d избрана картичка</item>
+        <item quantity="other">Затвори %1$d избрани картички</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d обележувач</item>
+        <item quantity="other">%1$d обележувачи</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d картичка</item>
+        <item quantity="other">%1$d картички</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(и уште 1)</item>
+        <item quantity="other">(и уште %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 колаче е блокирано</item>
+        <item quantity="other">%d колачиња се блокирани</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ч.</item>
+        <item quantity="other">%d ч.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Преземена е датотека</item>
+        <item quantity="other">%d преземања се завршени</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 неуспешно преземање</item>
+        <item quantity="other">%d неуспешни преземања</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Се презема датотека…</item>
+        <item quantity="other">Се преземаат %d датотеки…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 преземање чека на ред</item>
+        <item quantity="other">%d преземања чекаат на ред</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Закажано е 1 преземање</item>
+        <item quantity="other">Закажани се %d преземања</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Преземена е %1$d датотека</item>
+        <item quantity="other">Преземени се %1$d датотеки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d совпаѓање</item>
+        <item quantity="other">%d совпаѓања</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s картичка „Инкогнито“ ќе се затвори</item>
+        <item quantity="other">%1$s картички „Инкогнито“ ќе се затворат</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s картичка „Инкогнито“ и уште %2$s картичка ќе се затворат</item>
+        <item quantity="other">%1$s картичка „Инкогнито“ и уште %2$s картички ќе се затворат</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s и уште %2$s една картичка ќе се затворат</item>
+        <item quantity="other">%1$s и уште %2$s картички ќе се затворат</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s картичка „Инкогнито“</item>
+        <item quantity="other">%1$s картички „Инкогнито“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s картичка</item>
+        <item quantity="other">%2$s картички, %1$s инкогнито</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 картичка</item>
+        <item quantity="other">%d картички</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s рецензија)</item>
+        <item quantity="other">(%1$s рецензии)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s рецензија од Google</item>
+        <item quantity="other">%1$s рецензии од Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">Пред %d ден</item>
+        <item quantity="other">Пред %d дена</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">Пред %d час</item>
+        <item quantity="other">Пред %d часа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">Пред %d минута</item>
+        <item quantity="other">Пред %d минути</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome ќе ја вчита страницата кога ќе биде спремна</item>
+        <item quantity="other">Chrome ќе ги вчита страниците кога ќе бидат спремни</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Се користи 1 колаче</item>
+        <item quantity="other">Се користат %d колачиња</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s и уште %3$s се одобрени</item>
+        <item quantity="other">%1$s, %2$s и уште %3$s се одобрени</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s и уште %3$s се блокирани</item>
+        <item quantity="other">%1$s, %2$s и уште %3$s се блокирани</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s и уште %3$s друго</item>
+        <item quantity="other">%1$s, %2$s и уште %3$s други</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d компромитирана лозинка</item>
+        <item quantity="other">%d компромитирани лозинки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… и уште %2$s</item>
+        <item quantity="other">%1$s… и уште %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… и уште %2$s</item>
+        <item quantity="other">%1$s… и уште %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… и уште %2$s</item>
+        <item quantity="other">%1$s… и уште %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… и уште %2$s</item>
+        <item quantity="other">%1$s… и уште %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Имате %1$d непрочитана страница</item>
+        <item quantity="other">Имате %1$d непрочитани страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d непрочитана страница</item>
+        <item quantity="other">%1$d непрочитани страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 компромитирана лозинка</item>
+        <item quantity="other">%d компромитирани лозинки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Проверено пред 1 ден</item>
+        <item quantity="other">Проверено пред %d дена</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Проверено пред 1 час</item>
+        <item quantity="other">Проверено пред %d часа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Проверено пред 1 минута</item>
+        <item quantity="other">Проверено пред %d минути</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Избрана е 1</item>
+        <item quantity="other">Избрани се %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Ниво на јачина на сигналот: %d бар</item>
+        <item quantity="other">Ниво на јачина на сигналот: %d бари</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d од %2$d ѕвезди</item>
+        <item quantity="other">%1$d од %2$d ѕвезди</item>
+    </plurals>
+</resources>

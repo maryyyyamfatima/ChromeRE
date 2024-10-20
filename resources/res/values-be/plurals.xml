@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Згарнуць %1$d укладку.</item>
+        <item quantity="few">Згарнуць групу з %1$d укладак.</item>
+        <item quantity="many">Згарнуць групу з %1$d укладак.</item>
+        <item quantity="other">Згарнуць групу з %1$d укладкі.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Згарнуць %1$d укладку.</item>
+        <item quantity="few">Згарнуць групу &quot;%1$s&quot; з %2$d укладкамі.</item>
+        <item quantity="many">Згарнуць групу &quot;%1$s&quot; з %2$d укладкамі.</item>
+        <item quantity="other">Згарнуць групу &quot;%1$s&quot; з %2$d укладкі.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d аўдыяфайл</item>
+        <item quantity="few">%d аўдыяфайлы</item>
+        <item quantity="many">%d аўдыяфайлаў</item>
+        <item quantity="other">%d аўдыяфайла</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d файл</item>
+        <item quantity="few">%d файлы</item>
+        <item quantity="many">%d файлаў</item>
+        <item quantity="other">%d файла</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d відарыс</item>
+        <item quantity="few">%d відарысы</item>
+        <item quantity="many">%d відарысаў</item>
+        <item quantity="other">%d відарыса</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d старонка</item>
+        <item quantity="few">%d старонкі</item>
+        <item quantity="many">%d старонак</item>
+        <item quantity="other">%d старонкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">1 відэа</item>
+        <item quantity="few">%d відэа</item>
+        <item quantity="many">%d відэа</item>
+        <item quantity="other">%d відэа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Выдаліць 1 выбраны элемент</item>
+        <item quantity="few">Выдаліць %d выбраныя элементы</item>
+        <item quantity="many">Выдаліць %d выбраных элементаў</item>
+        <item quantity="other">Выдаліць %d выбранага элемента</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Абагуліць 1 выбраны элемент</item>
+        <item quantity="few">Абагуліць %d выбраныя элементы</item>
+        <item quantity="many">Абагуліць %d выбраных элементаў</item>
+        <item quantity="other">Абагуліць %d выбранага элемента</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Выдаліць %1$d выбраную ўкладку з групы.</item>
+        <item quantity="few">Выдаліць %1$d выбраныя ўкладкі з групы.</item>
+        <item quantity="many">Выдаліць %1$d выбраных укладак з групы.</item>
+        <item quantity="other">Выдаліць %1$d выбранай укладкі з групы.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Дадаць %1$d выбраную ўкладку ў групу</item>
+        <item quantity="few">Дадаць %1$d выбраныя ўкладкі ў групу</item>
+        <item quantity="many">Дадаць %1$d выбраных укладак у групу</item>
+        <item quantity="other">Дадаць %1$d выбранай укладкі ў групу</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Закрыць %1$d выбраную ўкладку</item>
+        <item quantity="few">Закрыць %1$d выбраныя ўкладкі</item>
+        <item quantity="many">Закрыць %1$d выбраных укладак</item>
+        <item quantity="other">Закрыць %1$d выбранай укладкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d закладка</item>
+        <item quantity="few">%1$d закладкі</item>
+        <item quantity="many">%1$d закладак</item>
+        <item quantity="other">%1$d закладкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d укладка</item>
+        <item quantity="few">%1$d укладкі</item>
+        <item quantity="many">%1$d укладак</item>
+        <item quantity="other">%1$d укладкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(і яшчэ 1)</item>
+        <item quantity="few">(і яшчэ %d)</item>
+        <item quantity="many">(і яшчэ %d)</item>
+        <item quantity="other">(і яшчэ %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 файл cookie заблакіраваны</item>
+        <item quantity="few">%d файлы cookie заблакіраваны</item>
+        <item quantity="many">%d файлаў cookie заблакіраваны</item>
+        <item quantity="other">%d файла cookie заблакіраваны</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d гадз</item>
+        <item quantity="few">%d гадз</item>
+        <item quantity="many">%d гадз</item>
+        <item quantity="other">%d гадз</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Файл спампаваны</item>
+        <item quantity="few">Завершана %d спампоўкі</item>
+        <item quantity="many">Завершана %d спамповак</item>
+        <item quantity="other">Завершана %d спампоўкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Збой 1 спампоўкі</item>
+        <item quantity="few">Збой %d спамповак</item>
+        <item quantity="many">Збой %d спамповак</item>
+        <item quantity="other">Збой %d спампоўкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Ідзе спампоўванне файла…</item>
+        <item quantity="few">Ідзе спампоўванне %d файлаў…</item>
+        <item quantity="many">Ідзе спампоўванне %d файлаў…</item>
+        <item quantity="other">Ідзе спампоўванне %d файла…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Чакаецца 1 спампоўка</item>
+        <item quantity="few">Чакаецца %d спампоўкі</item>
+        <item quantity="many">Чакаецца %d спамповак</item>
+        <item quantity="other">Чакаецца %d спампоўкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Запланавана 1 спампоўка</item>
+        <item quantity="few">Запланавана %d спампоўкі</item>
+        <item quantity="many">Запланавана %d спамповак</item>
+        <item quantity="other">Запланавана %d спампоўкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">Спампаваны %1$d файл</item>
+        <item quantity="few">Спампавана %1$d файлы</item>
+        <item quantity="many">Спампавана %1$d файлаў</item>
+        <item quantity="other">Спампавана %1$d файла</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d супадзенне</item>
+        <item quantity="few">%d супадзенні</item>
+        <item quantity="many">%d супадзенняў</item>
+        <item quantity="other">%d супадзення</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s укладка ў рэжыме інкогніта будзе закрыта</item>
+        <item quantity="few">%1$s укладкі ў рэжыме інкогніта будуць закрыты</item>
+        <item quantity="many">%1$s укладак у рэжыме інкогніта будуць закрыты</item>
+        <item quantity="other">%1$s укладкі ў рэжыме інкогніта будуць закрыты</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Будуць закрыты ўкладкі: %1$s у рэжыме інкогніта і яшчэ %2$s</item>
+        <item quantity="few">Будуць закрыты ўкладкі: %1$s у рэжыме інкогніта і яшчэ %2$s</item>
+        <item quantity="many">Будуць закрыты ўкладкі: %1$s у рэжыме інкогніта і яшчэ %2$s</item>
+        <item quantity="other">Будуць закрыты ўкладкі: %1$s у рэжыме інкогніта і яшчэ %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">Укладка &quot;%1$s&quot; і яшчэ %2$s укладка будуць закрыты</item>
+        <item quantity="few">Укладка &quot;%1$s&quot; і яшчэ %2$s укладкі будуць закрыты</item>
+        <item quantity="many">Укладка &quot;%1$s&quot; і яшчэ %2$s укладак будуць закрыты</item>
+        <item quantity="other">Укладка &quot;%1$s&quot; і яшчэ %2$s укладкі будуць закрыты</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s укладка ў рэжыме інкогніта</item>
+        <item quantity="few">%1$s укладкі ў рэжыме інкогніта</item>
+        <item quantity="many">%1$s укладак у рэжыме інкогніта</item>
+        <item quantity="other">%1$s укладкі ў рэжыме інкогніта</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s укладка</item>
+        <item quantity="few">Укладак: %2$s (у рэжыме інкогніта: %1$s)</item>
+        <item quantity="many">Укладак: %2$s (у рэжыме інкогніта: %1$s)</item>
+        <item quantity="other">Укладак: %2$s (у рэжыме інкогніта: %1$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 укладка</item>
+        <item quantity="few">%d укладкі</item>
+        <item quantity="many">%d укладак</item>
+        <item quantity="other">%d укладкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s водгук)</item>
+        <item quantity="few">(%1$s водгукі)</item>
+        <item quantity="many">(%1$s водгукаў)</item>
+        <item quantity="other">(%1$s водгуку)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s водгук з Google</item>
+        <item quantity="few">%1$s водгукі з Google</item>
+        <item quantity="many">%1$s водгукаў з Google</item>
+        <item quantity="other">%1$s водгуку з Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d дзень таму</item>
+        <item quantity="few">%d дні таму</item>
+        <item quantity="many">%d дзён таму</item>
+        <item quantity="other">%d дня таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d гадзіну таму</item>
+        <item quantity="few">%d гадзіны таму</item>
+        <item quantity="many">%d гадзін таму</item>
+        <item quantity="other">%d гадзіны таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">1 хвіліну таму</item>
+        <item quantity="few">%d хвіліны таму</item>
+        <item quantity="many">%d хвілін таму</item>
+        <item quantity="other">%d хвіліны таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome загрузіць старонку па гатоўнасці</item>
+        <item quantity="few">Chrome загрузіць старонкі па гатоўнасці</item>
+        <item quantity="many">Chrome загрузіць старонкі па гатоўнасці</item>
+        <item quantity="other">Chrome загрузіць старонкі па гатоўнасці</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Выкарыстоўваецца 1 файл cookie</item>
+        <item quantity="few">Выкарыстоўваюцца %d файлы cookie</item>
+        <item quantity="many">Выкарыстоўваюцца %d файлаў cookie</item>
+        <item quantity="other">Выкарыстоўваюцца %d файла cookie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Дазволены %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="few">Дазволены %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="many">Дазволены %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="other">Дазволены %1$s, %2$s і яшчэ %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Заблакіраваны %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="few">Заблакіраваны %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="many">Заблакіраваны %1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="other">Заблакіраваны %1$s, %2$s і яшчэ %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="few">%1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="many">%1$s, %2$s і яшчэ %3$s</item>
+        <item quantity="other">%1$s, %2$s і яшчэ %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d раскрыты пароль</item>
+        <item quantity="few">%d раскрытыя паролі</item>
+        <item quantity="many">%d раскрытых пароляў</item>
+        <item quantity="other">%d раскрытага пароля</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… і яшчэ %2$s</item>
+        <item quantity="few">%1$s… і яшчэ %2$s</item>
+        <item quantity="many">%1$s… і яшчэ %2$s</item>
+        <item quantity="other">%1$s… і яшчэ %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… і яшчэ %2$s</item>
+        <item quantity="few">%1$s… і яшчэ %2$s</item>
+        <item quantity="many">%1$s… і яшчэ %2$s</item>
+        <item quantity="other">%1$s… і яшчэ %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… і яшчэ %2$s</item>
+        <item quantity="few">%1$s… і яшчэ %2$s</item>
+        <item quantity="many">%1$s… і яшчэ %2$s</item>
+        <item quantity="other">%1$s… і яшчэ %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… і яшчэ %2$s</item>
+        <item quantity="few">%1$s… і яшчэ %2$s</item>
+        <item quantity="many">%1$s… і яшчэ %2$s</item>
+        <item quantity="other">%1$s… і яшчэ %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">У вас %1$d непрачытаная старонка</item>
+        <item quantity="few">У вас %1$d непрачытаныя старонкі</item>
+        <item quantity="many">У вас %1$d непрачытаных старонак</item>
+        <item quantity="other">У вас %1$d непрачытанай старонкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d непрачытаная старонка</item>
+        <item quantity="few">%1$d непрачытаныя старонкі</item>
+        <item quantity="many">%1$d непрачытаных старонак</item>
+        <item quantity="other">%1$d непрачытанай старонкі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">Адзін раскрыты пароль</item>
+        <item quantity="few">%d раскрытыя паролі</item>
+        <item quantity="many">%d раскрытых пароляў</item>
+        <item quantity="other">%d раскрытага пароля</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Праверка праводзілася дзень таму</item>
+        <item quantity="few">Праверка праводзілася %d дні таму</item>
+        <item quantity="many">Праверка праводзілася %d дзён таму</item>
+        <item quantity="other">Праверка праводзілася %d дня таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Праверка праводзілася гадзіну таму</item>
+        <item quantity="few">Праверка праводзілася %d гадзіны таму</item>
+        <item quantity="many">Праверка праводзілася %d гадзін таму</item>
+        <item quantity="other">Праверка праводзілася %d гадзіны таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Праверка праводзілася хвіліну таму</item>
+        <item quantity="few">Праверка праводзілася %d хвіліны таму</item>
+        <item quantity="many">Праверка праводзілася %d хвілін таму</item>
+        <item quantity="other">Праверка праводзілася %d хвіліны таму</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Выбраны 1 элемент</item>
+        <item quantity="few">Выбрана %d элементы</item>
+        <item quantity="many">Выбрана %d элементаў</item>
+        <item quantity="other">Выбрана %d элемента</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Узровень сігналу: %d палоска</item>
+        <item quantity="few">Узровень сігналу: %d палоскі</item>
+        <item quantity="many">Узровень сігналу: %d палосак</item>
+        <item quantity="other">Узровень сігналу: %d палоскі</item>
+    </plurals>
+</resources>

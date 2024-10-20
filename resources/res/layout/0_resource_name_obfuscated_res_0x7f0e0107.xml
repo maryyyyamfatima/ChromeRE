@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.explore_sites.ExploreSitesTileView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0807f8"
+    android:layout_height="wrap_content">
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e02c0"/>
+</org.chromium.chrome.browser.explore_sites.ExploreSitesTileView>

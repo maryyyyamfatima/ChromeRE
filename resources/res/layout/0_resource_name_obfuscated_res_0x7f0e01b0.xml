@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.feed.sections.SectionHeaderView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f08073f"
+    android:layoutDirection="locale">
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f080225"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501c4"/>
+    <RelativeLayout
+        android:id="@+id/main_content"
+        android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f080612"
+        android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f080612"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f080612">
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f1503db"
+            android:id="@+id/header_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textDirection="locale"/>
+        <org.chromium.components.browser_ui.widget.listmenu.ListMenuButton
+            android:id="@+id/header_menu"
+            android:background="@null"
+            android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f080233"
+            android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080740"
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f090316"
+            android:scaleType="centerInside"
+            android:layout_centerVertical="true"
+            android:contentDescription="@string/0_resource_name_obfuscated_res_0x7f140147"
+            android:layout_marginStart="15dp"
+            android:layout_alignParentEnd="true"
+            app:menuMaxWidth="@dimen/0_resource_name_obfuscated_res_0x7f08022a"
+            app:tint="@null"/>
+    </RelativeLayout>
+</org.chromium.chrome.browser.feed.sections.SectionHeaderView>

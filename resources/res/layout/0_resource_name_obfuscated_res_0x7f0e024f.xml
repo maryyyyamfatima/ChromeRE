@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="0x7f010378"
+    android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0807b5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <org.chromium.chrome.browser.ntp.NativePageRootFrameLayout
+        android:id="@+id/recent_tabs_root"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080803">
+        <org.chromium.chrome.browser.ntp.RecentTabsExpandableListView
+            android:scrollbarStyle="outsideOverlay"
+            android:id="@+id/odp_listview"
+            android:background="?attr/0_resource_name_obfuscated_res_0x7f050152"
+            android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0806ef"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="@android:color/transparent"
+            android:cacheColorHint="?attr/0_resource_name_obfuscated_res_0x7f050152"
+            android:childDivider="@null"
+            android:divider="@null"/>
+    </org.chromium.chrome.browser.ntp.NativePageRootFrameLayout>
+</FrameLayout>

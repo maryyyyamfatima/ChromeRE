@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="end"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_gravity="end"
+        android:id="@+id/safety_check_timestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f0806f8"/>
+    <org.chromium.ui.widget.ButtonCompat
+        android:layout_gravity="end"
+        android:id="@+id/safety_check_button"
+        android:focusable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/0_resource_name_obfuscated_res_0x7f0806f8"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140986"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501c6"/>
+</LinearLayout>

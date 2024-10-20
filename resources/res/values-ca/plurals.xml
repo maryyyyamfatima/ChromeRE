@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Replega %1$d pestanya.</item>
+        <item quantity="other">Replega el grup format per %1$d pestanyes.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Replega %1$d pestanya.</item>
+        <item quantity="other">Replega el grup %1$s format per %2$d pestanyes.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d fitxer d&apos;àudio</item>
+        <item quantity="other">%d fitxers d&apos;àudio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d fitxer</item>
+        <item quantity="other">%d fitxers</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d imatge</item>
+        <item quantity="other">%d imatges</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d pàgina</item>
+        <item quantity="other">%d pàgines</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d vídeo</item>
+        <item quantity="other">%d vídeos</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Suprimeix 1 element seleccionat</item>
+        <item quantity="other">Suprimeix %d elements seleccionats</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Comparteix 1 element seleccionat</item>
+        <item quantity="other">Comparteix %d elements seleccionats</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Suprimeix %1$d pestanya seleccionada del grup.</item>
+        <item quantity="other">Suprimeix %1$d pestanyes seleccionades del grup.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Agrupa %1$d pestanya seleccionada</item>
+        <item quantity="other">Agrupa les %1$d pestanyes seleccionades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Tanca %1$d pestanya seleccionada</item>
+        <item quantity="other">Tanca les %1$d pestanyes seleccionades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d adreça d&apos;interès</item>
+        <item quantity="other">%1$d adreces d&apos;interès</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d pestanya</item>
+        <item quantity="other">%1$d pestanyes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(i 1 més)</item>
+        <item quantity="other">(i %d més)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 galeta bloquejada</item>
+        <item quantity="other">%d galetes bloquejades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">S&apos;ha baixat el fitxer</item>
+        <item quantity="other">S&apos;han completat %d baixades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Error en 1 baixada</item>
+        <item quantity="other">Error en %d baixades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">S&apos;està baixant el fitxer…</item>
+        <item quantity="other">S&apos;estan baixant %d fitxers…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 baixada pendent</item>
+        <item quantity="other">%d baixades pendents</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">S&apos;ha programat 1 baixada</item>
+        <item quantity="other">S&apos;han programat %d baixades</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fitxer baixat</item>
+        <item quantity="other">%1$d fitxers baixats</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d coincidència</item>
+        <item quantity="other">%d coincidències</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">Es tancarà %1$s pestanya d&apos;incògnit</item>
+        <item quantity="other">Es tancaran %1$s pestanyes d&apos;incògnit</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Es tancaran %1$s pestanya d&apos;incògnit i %2$s de normal.</item>
+        <item quantity="other">Es tancaran %1$s pestanyes d&apos;incògnit i %2$s de normals.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">Es tancaran %1$s i %2$s pestanya més</item>
+        <item quantity="other">Es tancaran %1$s i %2$s pestanyes més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s pestanya d&apos;incògnit</item>
+        <item quantity="other">%1$s pestanyes d&apos;incògnit</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s pestanya</item>
+        <item quantity="other">%2$s pestanyes, %1$s d&apos;incògnit</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 pestanya</item>
+        <item quantity="other">%d pestanyes</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s ressenya)</item>
+        <item quantity="other">(%1$s ressenyes)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s ressenya de Google</item>
+        <item quantity="other">%1$s ressenyes de Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">fa %d dia</item>
+        <item quantity="other">fa %d dies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">fa %d hora</item>
+        <item quantity="other">fa %d hores</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">fa %d minut</item>
+        <item quantity="other">fa %d minuts</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome carregarà la pàgina quan estigui a punt</item>
+        <item quantity="other">Chrome carregarà les pàgines quan estiguin a punt</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 galeta en ús</item>
+        <item quantity="other">%d galetes en ús</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">S&apos;han permès %1$s, %2$s i %3$s més</item>
+        <item quantity="other">S&apos;han permès %1$s, %2$s i %3$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">S&apos;han bloquejat %1$s, %2$s i %3$s més</item>
+        <item quantity="other">S&apos;han bloquejat %1$s, %2$s i %3$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s i %3$s més</item>
+        <item quantity="other">%1$s, %2$s i %3$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d contrasenya en perill</item>
+        <item quantity="other">%d contrasenyes en perill</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… i %2$s més</item>
+        <item quantity="other">%1$s… i %2$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… i %2$s més</item>
+        <item quantity="other">%1$s… i %2$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… i %2$s més</item>
+        <item quantity="other">%1$s… i %2$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… i %2$s més</item>
+        <item quantity="other">%1$s… i %2$s més</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Tens %1$d pàgina no llegida</item>
+        <item quantity="other">Tens %1$d pàgines no llegides</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d pàgina no llegida</item>
+        <item quantity="other">%1$d pàgines no llegides</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 contrasenya en perill</item>
+        <item quantity="other">%d contrasenyes en perill</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">S&apos;ha comprovat fa 1 dia</item>
+        <item quantity="other">S&apos;ha comprovat fa %d dies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">S&apos;ha comprovat fa 1 hora</item>
+        <item quantity="other">S&apos;ha comprovat fa %d hores</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">S&apos;ha comprovat fa 1 minut</item>
+        <item quantity="other">S&apos;ha comprovat fa %d minuts</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 seleccionat</item>
+        <item quantity="other">%d seleccionats</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Intensitat del senyal: %d barra</item>
+        <item quantity="other">Intensitat del senyal: %d barres</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d estrella de %2$d</item>
+        <item quantity="other">%1$d estrelles de %2$d</item>
+    </plurals>
+</resources>

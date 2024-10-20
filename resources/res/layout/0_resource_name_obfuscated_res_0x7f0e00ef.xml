@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+    android:id="0x7f010279"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:textAlignment="viewStart"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803af"/>

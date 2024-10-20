@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Draga saman %1$d flipa.</item>
+        <item quantity="other">Draga saman flipahóp með %1$d flipum.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Draga saman %1$d flipa.</item>
+        <item quantity="other">Draga saman %1$s-flipahóp með %2$d flipum.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d hljóðskrá</item>
+        <item quantity="other">%d hljóðskrár</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d skrá</item>
+        <item quantity="other">%d skrár</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d mynd</item>
+        <item quantity="other">%d myndir</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d síða</item>
+        <item quantity="other">%d síður</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d myndskeið</item>
+        <item quantity="other">%d myndskeið</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Fjarlægja 1 valið atriði</item>
+        <item quantity="other">Fjarlægja %d valin atriði</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Deila 1 völdu atriði</item>
+        <item quantity="other">Deila %d völdum atriðum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Fjarlægja %1$d valinn flipa úr hópi.</item>
+        <item quantity="other">Fjarlægja %1$d valda flipa úr hópi.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Setja %1$d valinn flipa í hóp</item>
+        <item quantity="other">Setja %1$d valda flipa í hóp</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Loka %1$d völdum flipa</item>
+        <item quantity="other">Loka %1$d völdum flipum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d bókamerki</item>
+        <item quantity="other">%1$d bókamerki</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d flipi</item>
+        <item quantity="other">%1$d flipar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 í viðbót)</item>
+        <item quantity="other">(+ %d í viðbót)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Lokað á eitt fótspor</item>
+        <item quantity="other">Lokað á %d fótspor</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d klst.</item>
+        <item quantity="other">%d klst.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Skrá sótt</item>
+        <item quantity="other">%d skrár sóttar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Mistókst að sækja eina skrá</item>
+        <item quantity="other">Mistókst að sækja %d skrár</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Sækir skrá…</item>
+        <item quantity="other">Sækir %d skrár…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Ein skrá bíður niðurhals</item>
+        <item quantity="other">%d skrár bíða niðurhals</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 niðurhal á áætlun</item>
+        <item quantity="other">%d niðurhöl á áætlun</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d skrá sótt</item>
+        <item quantity="other">%1$d skrár sóttar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d samsvörun</item>
+        <item quantity="other">%d samsvaranir</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s huliðsflipa verður lokað</item>
+        <item quantity="other">%1$s huliðsflipum verður lokað</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s huliðsflipa og %2$s flipa til viðbótar verður lokað</item>
+        <item quantity="other">%1$s huliðsflipa og %2$s flipum til viðbótar verður lokað</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s og %2$s flipa til viðbótar verður lokað</item>
+        <item quantity="other">%1$s og %2$s flipum til viðbótar verður lokað</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s huliðsflipi</item>
+        <item quantity="other">%1$s huliðsflipar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s flipi</item>
+        <item quantity="other">%2$s flipar, %1$s huliðsflipar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 flipi</item>
+        <item quantity="other">%d flipar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s umsögn)</item>
+        <item quantity="other">(%1$s umsagnir)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s umsögn frá Google</item>
+        <item quantity="other">%1$s umsagnir frá Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">Fyrir %d degi</item>
+        <item quantity="other">Fyrir %d dögum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">Fyrir %d klukkustund</item>
+        <item quantity="other">Fyrir %d klukkustundum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">Fyrir %d mínútu</item>
+        <item quantity="other">Fyrir %d mínútum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome hleður síðunni þegar hún er tilbúin</item>
+        <item quantity="other">Chrome hleður síðunum þegar þær eru tilbúnar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 fótspor í notkun</item>
+        <item quantity="other">%d fótspor í notkun</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">„%1$s“, „%2$s“ og %3$s í viðbót leyft</item>
+        <item quantity="other">„%1$s“, „%2$s“ og %3$s í viðbót leyft</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Lokað er fyrir „%1$s“, „%2$s“ og %3$s í viðbót</item>
+        <item quantity="other">Lokað er fyrir „%1$s“, „%2$s“ og %3$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">„%1$s“, „%2$s“ og %3$s í viðbót</item>
+        <item quantity="other">„%1$s“, „%2$s“ og %3$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d aðgangsorð í hættu</item>
+        <item quantity="other">%d aðgangsorð í hættu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… og %2$s í viðbót</item>
+        <item quantity="other">%1$s… og %2$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… og %2$s í viðbót</item>
+        <item quantity="other">%1$s… og %2$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… og %2$s í viðbót</item>
+        <item quantity="other">%1$s… og %2$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… og %2$s í viðbót</item>
+        <item quantity="other">%1$s… og %2$s í viðbót</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">%1$d síða er ólesin</item>
+        <item quantity="other">%1$d síður eru ólesnar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d ólesin síða</item>
+        <item quantity="other">%1$d ólesnar síður</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 aðgangsorð í hættu</item>
+        <item quantity="other">%d aðgangsorð í hættu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Síðast athugað fyrir 1 degi</item>
+        <item quantity="other">Síðast athugað fyrir %d dögum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Síðast athugað fyrir 1 klukkustund</item>
+        <item quantity="other">Síðast athugað fyrir %d klukkustundum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Athugað fyrir 1 mínútu</item>
+        <item quantity="other">Athugað fyrir %d mínútum</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 valið</item>
+        <item quantity="other">%d valin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Sendistyrkur: %d stika</item>
+        <item quantity="other">Sendistyrkur: %d stikur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d stjarna af %2$d</item>
+        <item quantity="other">%1$d stjörnur af %2$d</item>
+    </plurals>
+</resources>

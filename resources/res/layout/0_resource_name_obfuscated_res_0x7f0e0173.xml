@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.chrome.browser.omnibox.status.StatusView
+        android:id="@+id/location_bar_status"
+        android:focusable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803bc"
+        android:screenReaderFocusable="true">
+        <ViewStub
+            android:layout_gravity="center_vertical"
+            android:id="@+id/location_bar_incognito_badge_stub"
+            android:focusable="false"
+            android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e0175"
+            android:inflatedId="@+id/location_bar_incognito_badge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0174"/>
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150426"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:id="@+id/location_bar_verbose_status"
+            android:focusable="false"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:maxLines="1"
+            android:textAlignment="viewStart"
+            android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803ca"
+            android:paddingEnd="8dp"/>
+        <View
+            android:layout_gravity="center_vertical"
+            android:id="@+id/location_bar_verbose_status_separator"
+            android:background="@color/0_resource_name_obfuscated_res_0x7f07007a"
+            android:focusable="false"
+            android:visibility="gone"
+            android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0803c6"
+            android:layout_height="24dp"/>
+        <Space
+            android:id="@+id/location_bar_verbose_status_extra_space"
+            android:focusable="false"
+            android:visibility="gone"
+            android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f0803c3"
+            android:layout_height="match_parent"/>
+    </org.chromium.chrome.browser.omnibox.status.StatusView>
+</merge>

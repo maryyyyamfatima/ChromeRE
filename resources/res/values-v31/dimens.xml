@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080322">30dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080323">16dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080324">16dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080325">16dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080326">26dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080327">14sp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080328">24sp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080329">24dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08032a">8dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08032b">28dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08071c">28dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08071e">24dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080720">48dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08074c">5dp</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08074d">@dimen/0_resource_name_obfuscated_res_0x7f080325</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f08074e">@dimen/0_resource_name_obfuscated_res_0x7f08032b</dimen>
+    <dimen name="0_resource_name_obfuscated_res_0x7f080754">88dp</dimen>
+</resources>

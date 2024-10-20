@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f1501d8" parent="@style/0_resource_name_obfuscated_res_0x7f15049f">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15021b" parent="@style/0_resource_name_obfuscated_res_0x7f15022a">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15021c" parent="@style/0_resource_name_obfuscated_res_0x7f15022b">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15022a" parent="@android:style/Theme.Material.NoActionBar">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f15022b" parent="@android:style/Theme.Material.Light.NoActionBar">
+    </style>
+</resources>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Свиване на %1$d раздел.</item>
+        <item quantity="other">Свиване на групата с раздели с(ъс) %1$d раздела.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Свиване на %1$d раздел.</item>
+        <item quantity="other">Свиване на групата с раздели „%1$s“ с(ъс) %2$d раздела.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d аудиофайл</item>
+        <item quantity="other">%d аудиофайла</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d файл</item>
+        <item quantity="other">%d файла</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d изображение</item>
+        <item quantity="other">%d изображения</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d страница</item>
+        <item quantity="other">%d страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d видеоклип</item>
+        <item quantity="other">%d видеоклипа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Премахване на 1 избран елемент</item>
+        <item quantity="other">Премахване на %d избрани елемента</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Споделяне на 1 избран елемент</item>
+        <item quantity="other">Споделяне на %d избрани елемента</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Премахване на %1$d избран раздел от групата.</item>
+        <item quantity="other">Премахване на %1$d избрани раздела от групата.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Добавяне на %1$d избран раздел към група</item>
+        <item quantity="other">Добавяне на %1$d избрани раздела към група</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Затваряне на избрания %1$d раздел</item>
+        <item quantity="other">Затваряне на избраните %1$d раздела</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d отметка</item>
+        <item quantity="other">%1$d отметки</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d раздел</item>
+        <item quantity="other">%1$d раздела</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(и още 1)</item>
+        <item quantity="other">(и още %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">Блокирана е 1 „бисквитка“</item>
+        <item quantity="other">Блокирани са %d „бисквитки“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ч</item>
+        <item quantity="other">%d ч</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Файлът бе изтеглен</item>
+        <item quantity="other">%d изтегляния завършиха</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 изтегляне не бе успешно</item>
+        <item quantity="other">%d изтегляния не бяха успешни</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Изтегля се файл…</item>
+        <item quantity="other">Изтеглят се %d файла…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">Предстои 1 изтегляне</item>
+        <item quantity="other">Предстоят %d изтегляния</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Насрочено е 1 изтегляне</item>
+        <item quantity="other">Насрочени са %d изтегляния</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d файл бе изтеглен</item>
+        <item quantity="other">%1$d файла бяха изтеглени</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d съответствие</item>
+        <item quantity="other">%d съответствия</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s раздел в режим „инкогнито“ ще бъде затворен</item>
+        <item quantity="other">%1$s раздела в режим „инкогнито“ ще бъдат затворени</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">Следните раздели ще бъдат затворени: %1$s в режим „инкогнито“ и още %2$s</item>
+        <item quantity="other">Следните раздели ще бъдат затворени: %1$s в режим „инкогнито“ и още %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s и още %2$s раздел ще бъдат затворени</item>
+        <item quantity="other">%1$s и още %2$s раздела ще бъдат затворени</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s раздел в режим „инкогнито“</item>
+        <item quantity="other">%1$s раздела в режим „инкогнито“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s раздел</item>
+        <item quantity="other">%2$s раздела, %1$s в режим „инкогнито“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 раздел</item>
+        <item quantity="other">%d раздела</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s отзив)</item>
+        <item quantity="other">(%1$s отзива)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s отзив от Google</item>
+        <item quantity="other">%1$s отзива от Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">преди %d ден</item>
+        <item quantity="other">преди %d дни</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">преди %d час</item>
+        <item quantity="other">преди %d часа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">преди %d минута</item>
+        <item quantity="other">преди %d минути</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome ще зареди страницата при готовност</item>
+        <item quantity="other">Chrome ще зареди страниците при готовност</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Използва се 1 „бисквитка“</item>
+        <item quantity="other">Използват се %d „бисквитки“</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Достъпът до %1$s, %2$s и още %3$s е разрешен</item>
+        <item quantity="other">Достъпът до %1$s, %2$s и още %3$s е разрешен</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Достъпът до %1$s, %2$s и още %3$s е блокиран</item>
+        <item quantity="other">Достъпът до %1$s, %2$s и още %3$s е блокиран</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s и още %3$s</item>
+        <item quantity="other">%1$s, %2$s и още %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d компрометирана парола</item>
+        <item quantity="other">%d компрометирани пароли</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… и още %2$s</item>
+        <item quantity="other">%1$s… и още %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… и още %2$s</item>
+        <item quantity="other">%1$s… и още %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… и още %2$s</item>
+        <item quantity="other">%1$s… и още %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… и още %2$s</item>
+        <item quantity="other">%1$s… и още %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Имате %1$d непрочетена страница</item>
+        <item quantity="other">Имате %1$d непрочетени страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d непрочетена страница</item>
+        <item quantity="other">%1$d непрочетени страници</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 компрометирана парола</item>
+        <item quantity="other">%d компрометирани пароли</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Проверено преди 1 ден</item>
+        <item quantity="other">Проверено преди %d дни</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Проверено преди 1 час</item>
+        <item quantity="other">Проверено преди %d часа</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Проверено преди 1 минута</item>
+        <item quantity="other">Проверено преди %d минути</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">Избран е 1</item>
+        <item quantity="other">Избрани са %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Сила на сигнала: %d чертичка</item>
+        <item quantity="other">Сила на сигнала: %d чертички</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d от %2$d звезди</item>
+        <item quantity="other">%1$d от %2$d звезди</item>
+    </plurals>
+</resources>

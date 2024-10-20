@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recent_tabs_list_item_layout"
+    android:background="?attr/0_resource_name_obfuscated_res_0x7f0503f1"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f0806ee"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0806f0"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0806f0">
+    <ImageView
+        android:id="@+id/recent_tabs_favicon"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501de"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/recent_tabs_favicon">
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+            android:ellipsize="end"
+            android:id="@+id/title_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"/>
+        <TextView
+            android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+            android:ellipsize="end"
+            android:id="@+id/domain_row"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"/>
+    </LinearLayout>
+</RelativeLayout>

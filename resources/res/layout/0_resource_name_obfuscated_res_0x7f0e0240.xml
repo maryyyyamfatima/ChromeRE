@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:focusable="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+        android:id="0x7f0102e8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f14065c"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f14065d"/>
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+        android:id="0x7f0100cf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140659"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f14065a"/>
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+        android:id="0x7f0104f0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f14065e"
+        app:primaryText="@string/0_resource_name_obfuscated_res_0x7f14065f"/>
+</org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d টা টেব সংকোচন কৰক।</item>
+        <item quantity="other">%1$d টা টেবযুক্ত টেবৰ গোটটো সংকোচন কৰক।</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d টা টেব সংকোচন কৰক।</item>
+        <item quantity="other">%2$d টা টেবযুক্ত %1$s টেবৰ গোটটো সংকোচন কৰক।</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%dটা অডিঅ&apos; ফাইল</item>
+        <item quantity="other">%dটা অডিঅ&apos; ফাইল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%dটা ফাইল</item>
+        <item quantity="other">%dটা ফাইল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d খন ছবি</item>
+        <item quantity="other">%d খন ছবি</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%dটা পৃষ্ঠা</item>
+        <item quantity="other">%dটা পৃষ্ঠা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%dটা ভিডিঅ’</item>
+        <item quantity="other">%dটা ভিডিঅ’</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">বাছনি কৰা ১টা বস্তু আঁতৰাওক</item>
+        <item quantity="other">বাছনি কৰা %dটা বস্তু আঁতৰাওক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">বাছনি কৰা ১টা বস্তু শ্বেয়াৰ কৰক</item>
+        <item quantity="other">বাছনি কৰা %dটা বস্তু শ্বেয়াৰ কৰক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">গোটৰ পৰা %1$d টা বাছনি কৰা টেব আঁতৰাওক।</item>
+        <item quantity="other">গোটৰ পৰা %1$d টা বাছনি কৰা টেব আঁতৰাওক।</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$d টা বাছনি কৰা টেবৰ গোট বনাওক</item>
+        <item quantity="other">%1$d টা বাছনি কৰা টেবৰ গোট বনাওক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">%1$d টা বাছনি কৰা টেব বন্ধ কৰক</item>
+        <item quantity="other">%1$d টা বাছনি কৰা টেব বন্ধ কৰক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$dটা বুকমাৰ্ক</item>
+        <item quantity="other">%1$dটা বুকমাৰ্ক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$dটা টেব</item>
+        <item quantity="other">%1$dটা টেব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(আৰু ১টা)</item>
+        <item quantity="other">(আৰু %dটা)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">১ টা কুকি অৱৰোধ কৰা হৈছে</item>
+        <item quantity="other">%d টা কুকি অৱৰোধ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ঘণ্টা</item>
+        <item quantity="other">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">ফাইল ডাউনল’ড কৰা হ’ল</item>
+        <item quantity="other">%d টা ডাউনল’ড সম্পূৰ্ণ হ’ল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">১ টা ডাউনল’ড কৰিব পৰা নগ’ল</item>
+        <item quantity="other">%d টা ডাউনল’ড কৰিব পৰা নগ’ল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">ফাইল ডাউনল’ড কৰি থকা হৈছে…</item>
+        <item quantity="other">%d টা ফাইল ডাউনল’ড কৰি থকা হৈছে…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">১ টা ডাউনল’ড বাকী আছে</item>
+        <item quantity="other">%d টা ডাউনল’ড বাকী আছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">১ টা ডাউনল’ডৰ সময়সূচী নিৰ্ধাৰণ কৰা হৈছে</item>
+        <item quantity="other">%d টা ডাউনল’ডৰ সময়সূচী নিৰ্ধাৰণ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$dটা ফাইল ডাউনল’ড কৰা হ’ল</item>
+        <item quantity="other">%1$dটা ফাইল ডাউনল’ড কৰা হ’ল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d টা মিল</item>
+        <item quantity="other">%d টা মিল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s টা ইনক’গ্নিট’ টেব বন্ধ কৰা হ’ব</item>
+        <item quantity="other">%1$s টা ইনক’গ্নিট’ টেব বন্ধ কৰা হ’ব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s টা ইনক’গনিট’ আৰু %2$s টা টেব বন্ধ কৰা হ’ব</item>
+        <item quantity="other">%1$s টা ইনক’গনিট’ আৰু %2$s টা টেব বন্ধ কৰা হ’ব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s আৰু %2$s টা টেব বন্ধ কৰা হ’ব</item>
+        <item quantity="other">%1$s আৰু %2$s টা টেব বন্ধ কৰা হ’ব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s টা ইনক’গ্নিট’ টেব</item>
+        <item quantity="other">%1$s টা ইনক’গ্নিট’ টেব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s টা টেব</item>
+        <item quantity="other">%2$s টা টেব, %1$s টা ইনক’গনিট’</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">১ টা টেব</item>
+        <item quantity="other">%d টা টেব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s টা পৰ্যালোচনা)</item>
+        <item quantity="other">(%1$s টা পৰ্যালোচনা)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Googleৰ পৰা %1$s টা পর্যালোচনা</item>
+        <item quantity="other">Googleৰ পৰা %1$s টা পর্যালোচনা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d দিন পূর্বে</item>
+        <item quantity="other">%d দিন পূর্বে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%dঘণ্টা পূৰ্বে</item>
+        <item quantity="other">%dঘণ্টা পূৰ্বে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d মিনিট পূর্বে</item>
+        <item quantity="other">%d মিনিট পূর্বে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">আপোনাৰ পৃষ্ঠাটো সাজু হ&apos;লে Chromeএ সেইটো ল&apos;ড কৰিব</item>
+        <item quantity="other">আপোনাৰ পৃষ্ঠাসমূহ সাজু হ&apos;লে Chromeএ সেইটো ল&apos;ড কৰিব</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">১ টা কুকি ব্যৱহাৰ হৈ আছে</item>
+        <item quantity="other">%d টা কুকি ব্যৱহাৰ হৈ আছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s আৰু %3$s টাৰ অনুমতি দিয়া আছে</item>
+        <item quantity="other">%1$s, %2$s আৰু %3$s টাৰ অনুমতি দিয়া আছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s আৰু %3$s টা অৱৰোধ কৰা আছে</item>
+        <item quantity="other">%1$s, %2$s আৰু %3$s টা অৱৰোধ কৰা আছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s আৰু %3$s টা</item>
+        <item quantity="other">%1$s, %2$s আৰু %3$s টা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d টা হেক হোৱা পাছৱৰ্ড</item>
+        <item quantity="other">%d টা হেক হোৱা পাছৱৰ্ড</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… আৰু অন্য %2$sটা</item>
+        <item quantity="other">%1$s… আৰু অন্য %2$sটা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… আৰু অন্য %2$sটা</item>
+        <item quantity="other">%1$s… আৰু অন্য %2$sটা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… আৰু %2$s অধিক</item>
+        <item quantity="other">%1$s… আৰু %2$s অধিক</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… আৰু %2$sটা</item>
+        <item quantity="other">%1$s… আৰু %2$sটা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">আপোনাৰ %1$d খন নপঢ়া পৃষ্ঠা আছে</item>
+        <item quantity="other">আপোনাৰ %1$d খন নপঢ়া পৃষ্ঠা আছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d খন নপঢ়া পৃষ্ঠা</item>
+        <item quantity="other">%1$d খন নপঢ়া পৃষ্ঠা</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">১ টা হেক হোৱা পাছৱৰ্ড</item>
+        <item quantity="other">%d টা হেক হোৱা পাছৱৰ্ড</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">১ দিনৰ আগত পৰীক্ষা কৰা হৈছিল</item>
+        <item quantity="other">%d দিনৰ আগত পৰীক্ষা কৰা হৈছিল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">১ ঘণ্টাৰ আগত পৰীক্ষা কৰা হৈছিল</item>
+        <item quantity="other">%d ঘণ্টাৰ আগত পৰীক্ষা কৰা হৈছিল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">১ মিনিটৰ আগত পৰীক্ষা কৰা হৈছে</item>
+        <item quantity="other">%d মিনিটৰ আগত পৰীক্ষা কৰা হৈছে</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">১টা বস্তু বাছনি কৰা হ’ল</item>
+        <item quantity="other">%dটা বস্তু বাছনি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">ছিগনেলৰ ক্ষমতাৰ স্তৰ: %d বাৰ</item>
+        <item quantity="other">ছিগনেলৰ ক্ষমতাৰ স্তৰ: %d বাৰ</item>
+    </plurals>
+</resources>

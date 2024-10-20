@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="start|center_vertical"
+    android:orientation="vertical"
+    android:id="@+id/footer_command"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:gravity="start|center_vertical"
+        android:id="@+id/footer_text"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0803a2"
+        android:fillViewport="true"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803a5"/>
+</LinearLayout>

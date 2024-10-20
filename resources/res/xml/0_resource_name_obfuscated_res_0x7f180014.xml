@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140977"
+        android:key="subtitle"
+        app:allowDividerBelow="false"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090313"
+        android:key="bullet_one"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140974"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f09024f"
+        android:key="bullet_two"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140976"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090212"
+        android:key="bullet_three"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140975"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f090345"
+        android:key="bullet_four"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140973"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:icon="@drawable/0_resource_name_obfuscated_res_0x7f0901e1"
+        android:key="bullet_five"
+        android:summary="@string/0_resource_name_obfuscated_res_0x7f140972"
+        app:allowDividerBelow="false"
+        app:iconTint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+</PreferenceScreen>

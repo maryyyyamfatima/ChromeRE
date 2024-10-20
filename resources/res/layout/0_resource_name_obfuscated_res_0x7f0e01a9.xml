@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/mv_tiles_container"
+    android:visibility="gone"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:layout_scrollFlags="0x1">
+    <ViewStub
+        android:id="@+id/mv_tiles_carousel_stub"
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e01a8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ViewStub
+        android:id="@+id/mv_tiles_grid_stub"
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e01aa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <ViewStub
+        android:id="@+id/tile_grid_placeholder_stub"
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e01b5"
+        android:inflatedId="@+id/tile_grid_placeholder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15045c"
+    android:gravity="center"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f0900a4"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080393"
+    android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080395"
+    android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f080395"
+    android:minWidth="0dp"
+    android:minHeight="0dp"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080398"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080398"
+    android:elevation="2dp"/>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15043f"
+        android:ellipsize="end"
+        android:id="@+id/line_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:textAlignment="viewStart"
+        app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807ca"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+        android:ellipsize="end"
+        android:id="@+id/line_2"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:textAlignment="viewStart"/>
+</LinearLayout>

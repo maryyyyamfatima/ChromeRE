@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/0_resource_name_obfuscated_res_0x7f15053e"
+    android:layout_gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15036c"
+        android:ellipsize="end"
+        android:layout_gravity="start|center_vertical"
+        android:id="@+id/snackbar_text"
+        android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f0801ad"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0801ae"
+        android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f0801ad"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0801ae"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="@integer/0_resource_name_obfuscated_res_0x7f0c000e"
+        android:layout_weight="1"
+        android:textAlignment="viewStart"/>
+    <Button
+        android:textColor="?attr/0_resource_name_obfuscated_res_0x7f05010d"
+        android:layout_gravity="end|center_vertical"
+        android:id="@+id/snackbar_action"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f0801aa"
+        android:minWidth="48dp"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f0801aa"
+        style="?attr/0_resource_name_obfuscated_res_0x7f050062"/>
+</view>

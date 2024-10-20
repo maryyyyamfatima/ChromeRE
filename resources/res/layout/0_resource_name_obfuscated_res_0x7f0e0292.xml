@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="@dimen/0_resource_name_obfuscated_res_0x7f08075d"
+    android:textColor="@color/0_resource_name_obfuscated_res_0x7f070887"
+    android:textColorLink="@color/0_resource_name_obfuscated_res_0x7f07086e"
+    android:linksClickable="true"
+    android:id="@+id/survey_legal_text"
+    android:padding="8dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="48dp"
+    style="@style/0_resource_name_obfuscated_res_0x7f1502e2"/>

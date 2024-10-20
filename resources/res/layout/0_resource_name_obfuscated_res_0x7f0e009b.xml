@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    android:id="0x7f0101ad"
+    android:background="@drawable/0_resource_name_obfuscated_res_0x7f090392"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f080142"
+    android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08014a"
+    android:layout_marginRight="@dimen/0_resource_name_obfuscated_res_0x7f080142"
+    android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08014a"
+    android:layout_marginHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f080142"
+    android:layout_marginVertical="@dimen/0_resource_name_obfuscated_res_0x7f08014a">
+    <org.chromium.chrome.browser.contextmenu.ContextMenuListView
+        android:id="@+id/context_menu_list_view"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f080136"
+        android:clipToPadding="false"
+        android:layout_width="@dimen/0_resource_name_obfuscated_res_0x7f080144"
+        android:layout_height="wrap_content"
+        android:listSelector="@android:color/transparent"
+        android:divider="@null"
+        android:fadeScrollbars="false"/>
+</FrameLayout>

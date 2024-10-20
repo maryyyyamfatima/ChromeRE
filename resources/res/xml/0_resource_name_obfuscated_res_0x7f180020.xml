@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <org.chromium.chrome.browser.language.settings.ContentLanguagesPreference
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e015f"
+        android:key="preferred_languages"
+        android:widgetLayout="@layout/0_resource_name_obfuscated_res_0x7f0e001d"/>
+    <org.chromium.components.browser_ui.settings.ChromeSwitchPreference
+        android:key="translate_switch"
+        android:summaryOn="@string/0_resource_name_obfuscated_res_0x7f140597"
+        android:summaryOff="@string/0_resource_name_obfuscated_res_0x7f140597"/>
+</PreferenceScreen>

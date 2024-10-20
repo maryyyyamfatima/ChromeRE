@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Ahenda %1$d vaheleht.</item>
+        <item quantity="other">Ahenda %1$d vahelehega vahelehegrupp.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Ahenda %1$d vaheleht.</item>
+        <item quantity="other">Ahenda %2$d vahelehega vahelehegrupp %1$s.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d helifail</item>
+        <item quantity="other">%d helifaili</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d fail</item>
+        <item quantity="other">%d faili</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d pilt</item>
+        <item quantity="other">%d pilti</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d leht</item>
+        <item quantity="other">%d lehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videot</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Eemalda 1 valitud üksus</item>
+        <item quantity="other">Eemalda %d valitud üksust</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Jaga 1 valitud üksust</item>
+        <item quantity="other">Jaga %d valitud üksust</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Eemalda grupist %1$d valitud vaheleht.</item>
+        <item quantity="other">Eemalda grupist %1$d valitud vahelehte.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Grupeeri %1$d valitud vaheleht</item>
+        <item quantity="other">Grupeeri %1$d valitud vahelehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Sule %1$d valitud vaheleht</item>
+        <item quantity="other">Sule %1$d valitud vahelehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d järjehoidja</item>
+        <item quantity="other">%1$d järjehoidjat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d vaheleht</item>
+        <item quantity="other">%1$d vahelehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(ja veel 1)</item>
+        <item quantity="other">(ja veel %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 küpsisefail on blokeeritud</item>
+        <item quantity="other">%d küpsisefaili on blokeeritud</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Fail laaditi alla</item>
+        <item quantity="other">Lõpetati %d allalaadimist</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 allalaadimine ebaõnnestus</item>
+        <item quantity="other">%d allalaadimist ebaõnnestusid</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Faili allalaadimine …</item>
+        <item quantity="other">%d faili allalaadimine …</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 allalaadimine on ootel</item>
+        <item quantity="other">%d allalaadimist on ootel</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 allalaadimine on ajastatud</item>
+        <item quantity="other">%d allalaadimist on ajastatud</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fail laaditi alla</item>
+        <item quantity="other">%1$d faili laaditi alla</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d vaste</item>
+        <item quantity="other">%d vastet</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s inkognito vaheleht suletakse</item>
+        <item quantity="other">%1$s inkognito vahelehte suletakse</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s inkognito ja veel %2$s vaheleht suletakse</item>
+        <item quantity="other">%1$s inkognito ja veel %2$s vahelehte suletakse</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s ja veel %2$s vaheleht suletakse</item>
+        <item quantity="other">%1$s ja veel %2$s vahelehte suletakse</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s inkognito vaheleht</item>
+        <item quantity="other">%1$s inkognito vahelehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s vaheleht</item>
+        <item quantity="other">%2$s vahelehte, %1$s inkognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 vaheleht</item>
+        <item quantity="other">%d vahelehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s arvustus)</item>
+        <item quantity="other">(%1$s arvustust)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s arvustus Google&apos;ist</item>
+        <item quantity="other">%1$s arvustust Google&apos;ist</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d päev tagasi</item>
+        <item quantity="other">%d päeva tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d tund tagasi</item>
+        <item quantity="other">%d tundi tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minut tagasi</item>
+        <item quantity="other">%d minutit tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome laadib teie lehe, kui see on valmis</item>
+        <item quantity="other">Chrome laadib teie lehed, kui need on valmis</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 küpsisefail on kasutuses</item>
+        <item quantity="other">%d küpsisefaili on kasutuses</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s ja veel %3$s on lubatud</item>
+        <item quantity="other">%1$s, %2$s ja veel %3$s on lubatud</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s ja veel %3$s on blokeeritud</item>
+        <item quantity="other">%1$s, %2$s ja veel %3$s on blokeeritud</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s ja veel %3$s</item>
+        <item quantity="other">%1$s, %2$s ja veel %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d ohustatud parool</item>
+        <item quantity="other">%d ohustatud parooli</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… ja veel %2$s</item>
+        <item quantity="other">%1$s… ja veel %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… ja veel %2$s</item>
+        <item quantity="other">%1$s… ja veel %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… ja veel %2$s</item>
+        <item quantity="other">%1$s… ja veel %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… ja veel %2$s</item>
+        <item quantity="other">%1$s… ja veel %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Teil on %1$d lugemata leht</item>
+        <item quantity="other">Teil on %1$d lugemata lehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d lugemata leht</item>
+        <item quantity="other">%1$d lugemata lehte</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 parool on ohus</item>
+        <item quantity="other">%d parooli on ohus</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Kontrolliti 1 päev tagasi</item>
+        <item quantity="other">Kontrolliti %d päeva tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Kontrolliti 1 tund tagasi</item>
+        <item quantity="other">Kontrolliti %d tundi tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Kontrolliti 1 minut tagasi</item>
+        <item quantity="other">Kontrolliti %d minutit tagasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 on valitud</item>
+        <item quantity="other">%d on valitud</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Signaalitugevuse tase: %d riba</item>
+        <item quantity="other">Signaalitugevuse tase: %d riba</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d tärn %2$d-st</item>
+        <item quantity="other">%1$d tärni %2$d-st</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050141"/>
+    <item
+        android:state_focused="true"
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050141"/>
+    <item
+        android:color="?attr/0_resource_name_obfuscated_res_0x7f050141"
+        android:state_hovered="true"/>
+    <item android:color="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+</selector>

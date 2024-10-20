@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f08066c"/>
+            <size android:height="@dimen/0_resource_name_obfuscated_res_0x7f08066d"/>
+            <gradient
+                android:startColor="@color/0_resource_name_obfuscated_res_0x7f0707a8"
+                android:endColor="@color/0_resource_name_obfuscated_res_0x7f0707a8"
+                android:angle="90"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f08066c"/>
+                <size android:height="@dimen/0_resource_name_obfuscated_res_0x7f08066d"/>
+                <gradient
+                    android:startColor="@color/0_resource_name_obfuscated_res_0x7f07012d"
+                    android:endColor="@color/0_resource_name_obfuscated_res_0x7f07012d"
+                    android:angle="90"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d табыг хураах.</item>
+        <item quantity="other">%1$d таб бүхий бүлэг табыг хураах.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d табыг хураах.</item>
+        <item quantity="other">%2$d таб бүхий %1$s бүлэг табыг хураах.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d Аудио файл</item>
+        <item quantity="other">%d Аудио файл</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d Файл</item>
+        <item quantity="other">%d Файл</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d Зураг</item>
+        <item quantity="other">%d Зураг</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d Хуудас</item>
+        <item quantity="other">%d Хуудас</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d Видео</item>
+        <item quantity="other">%d Видео</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Сонгосон 1 зүйлийг устгах</item>
+        <item quantity="other">Сонгосон %d зүйлийг устгах</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Сонгосон 1 зүйлийг хуваалцах</item>
+        <item quantity="other">Сонгосон %d зүйлийг хуваалцах </item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Сонгосон %1$d табыг бүлгээс хасах.</item>
+        <item quantity="other">Сонгосон %1$d табыг бүлгээс хасах.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Сонгосон %1$d табыг бүлэглэх</item>
+        <item quantity="other">Сонгосон %1$d табыг бүлэглэх</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Сонгосон %1$d табыг хаах</item>
+        <item quantity="other">Сонгосон %1$d табыг хаах</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d хавчуурга</item>
+        <item quantity="other">%1$d хавчуурга</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d таб</item>
+        <item quantity="other">%1$d таб</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(бусад + 1)</item>
+        <item quantity="other">(бусад + %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 күүкиг блоклосон</item>
+        <item quantity="other">%d күүкиг блоклосон</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d цаг</item>
+        <item quantity="other">%d цаг</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Файл татсан</item>
+        <item quantity="other">%d таталт дууссан</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 таталт амжилтгүй боллоо</item>
+        <item quantity="other">%d таталт амжилтгүй боллоо</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Файл татаж байна…</item>
+        <item quantity="other">%d файл татаж байна…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 таталт хүлээгдэж байна</item>
+        <item quantity="other">%d таталт хүлээгдэж байна</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 таталт товлосон</item>
+        <item quantity="other">%d таталт товлосон</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d файл татсан</item>
+        <item quantity="other">%1$d файл татсан</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d тохирол</item>
+        <item quantity="other">%d тохирол</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s нууцлалтай табыг хаана</item>
+        <item quantity="other">%1$s нууцлалтай табыг хаана</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s нууцлалтай таб болон бусад %2$s табыг хаана</item>
+        <item quantity="other">%1$s нууцлалтай таб болон бусад %2$s табыг хаана</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s болон бусад %2$s табыг хаана</item>
+        <item quantity="other">%1$s болон бусад %2$s табыг хаана</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s нууцлалтай таб</item>
+        <item quantity="other">%1$s нууцлалтай таб</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s таб</item>
+        <item quantity="other">%2$s таб, %1$s нууцлалтай</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 таб</item>
+        <item quantity="other">%d таб</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s шүүмж)</item>
+        <item quantity="other">(%1$s шүүмж)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google-н %1$s шүүмж</item>
+        <item quantity="other">Google-н %1$s шүүмж</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d өдрийн өмнө</item>
+        <item quantity="other">%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d цагийн өмнө</item>
+        <item quantity="other">%d цагийн өмнө</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d минутын өмнө</item>
+        <item quantity="other">%d минутын өмнө</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome хуудсыг бэлэн болох үед ачаална</item>
+        <item quantity="other">Chrome хуудаснуудыг бэлэн болох үед ачаална</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 күүки ашиглаж байна</item>
+        <item quantity="other">%d 1 күүки ашиглаж байна</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s болон бусад %3$s-г зөвшөөрсөн</item>
+        <item quantity="other">%1$s, %2$s болон бусад %3$s-г зөвшөөрсөн</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s болон бусад %3$s-г блоклосон</item>
+        <item quantity="other">%1$s, %2$s болон бусад %3$s-г блоклосон</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s болон бусад %3$s</item>
+        <item quantity="other">%1$s, %2$s болон бусад %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">Алдагдсан %d нууц үг</item>
+        <item quantity="other">Алдагдсан %d нууц үг</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… болон бусад %2$s</item>
+        <item quantity="other">%1$s… болон бусад %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… болон бусад %2$s</item>
+        <item quantity="other">%1$s… болон бусад %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… болон бусад %2$s</item>
+        <item quantity="other">%1$s… болон бусад %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… болон бусад %2$s</item>
+        <item quantity="other">%1$s… болон бусад %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Танд уншаагүй %1$d хуудас байна</item>
+        <item quantity="other">Танд уншаагүй %1$d хуудас байна</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">Уншаагүй %1$d хуудас</item>
+        <item quantity="other">Уншаагүй %1$d хуудас</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">Алдагдсан 1 нууц үг</item>
+        <item quantity="other">Алдагдсан %d нууц үг</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 хоногийн өмнө шалгасан</item>
+        <item quantity="other">%d хоногийн өмнө шалгасан</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 цагийн өмнө шалгасан</item>
+        <item quantity="other">%d цагийн өмнө шалгасан</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 минутын өмнө шалгасан</item>
+        <item quantity="other">%d минутын өмнө шалгасан</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 сонгосон</item>
+        <item quantity="other">%d сонгосон</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Дохионы хүчний түвшин: %d мөр</item>
+        <item quantity="other">Дохионы хүчний түвшин: %d мөр</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%2$d-с %1$d од</item>
+        <item quantity="other">%2$d-с %1$d од</item>
+    </plurals>
+</resources>

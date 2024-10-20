@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.chrome.browser.password_edit_dialog.UsernameSelectionConfirmationView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/0_resource_name_obfuscated_res_0x7f150003">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08064c"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f1407d2"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        android:labelFor="@+id/usernames_spinner"/>
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/usernames_spinner"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08064c"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f08064a"/>
+    <View
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08064d"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        style="@style/0_resource_name_obfuscated_res_0x7f15024b"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:id="@+id/footer"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f08064c"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f08064d"
+        android:layout_marginStart="@dimen/0_resource_name_obfuscated_res_0x7f08064a"
+        android:layout_marginEnd="@dimen/0_resource_name_obfuscated_res_0x7f08064a"/>
+</org.chromium.chrome.browser.password_edit_dialog.UsernameSelectionConfirmationView>

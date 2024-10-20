@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/0_resource_name_obfuscated_res_0x7f0801ea"
+        android:width="@dimen/0_resource_name_obfuscated_res_0x7f0801ea"
+        android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f090432"
+        android:top="@dimen/0_resource_name_obfuscated_res_0x7f0801eb"
+        android:bottom="@dimen/0_resource_name_obfuscated_res_0x7f0801eb"
+        android:start="@dimen/0_resource_name_obfuscated_res_0x7f0801e9"
+        android:end="@dimen/0_resource_name_obfuscated_res_0x7f0801e9"/>
+</layer-list>

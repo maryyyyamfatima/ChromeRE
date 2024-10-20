@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_selected="true">
+        <org.chromium.components.browser_ui.widget.SurfaceColorDrawable
+            android:shape="rectangle"
+            app:surfaceElevation="@dimen/0_resource_name_obfuscated_res_0x7f08070b">
+            <corners android:radius="@dimen/0_resource_name_obfuscated_res_0x7f080708"/>
+            <stroke
+                android:width="@dimen/0_resource_name_obfuscated_res_0x7f080709"
+                android:color="@android:color/transparent"/>
+        </org.chromium.components.browser_ui.widget.SurfaceColorDrawable>
+    </item>
+</selector>

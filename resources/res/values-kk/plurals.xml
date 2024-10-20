@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d қойындысын жию.</item>
+        <item quantity="other">%1$d қойындысы бар қойындылар тобын жию.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d қойындысын жию.</item>
+        <item quantity="other">%2$d қойындысы бар %1$s қойындылар тобын жию.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d аудиофайл</item>
+        <item quantity="other">%d аудиофайл</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d файл</item>
+        <item quantity="other">%d файл</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d сурет</item>
+        <item quantity="other">%d сурет</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d бет</item>
+        <item quantity="other">%d бет</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d бейне</item>
+        <item quantity="other">%d бейне</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Таңдалған 1 элементті өшіру</item>
+        <item quantity="other">Таңдалған %d элементті өшіру</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Таңдалған 1 элементті бөлісу</item>
+        <item quantity="other">Таңдалған %d элементті бөлісу</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Таңдалған %1$d қойындыны топтан өшіру.</item>
+        <item quantity="other">Таңдалған %1$d қойындыны топтан өшіру.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">%1$d таңдалған қойындыны топтау</item>
+        <item quantity="other">%1$d таңдалған қойындыны топтау</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Таңдалған %1$d қойындыны жабу</item>
+        <item quantity="other">Таңдалған %1$d қойындыны жабу</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d бетбелгі</item>
+        <item quantity="other">%1$d бетбелгі</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d қойынды</item>
+        <item quantity="other">%1$d қойынды</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(Тағы 1)</item>
+        <item quantity="other">(Тағы %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 cookie файлы бөгелді.</item>
+        <item quantity="other">%d cookie файлы бөгелді.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d сағ</item>
+        <item quantity="other">%d сағ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Файл жүктеп алынды.</item>
+        <item quantity="other">%d файл жүктеп алынды.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 файл жүктеп алынбады</item>
+        <item quantity="other">%d файл жүктеп алынбады</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Файл жүктеп алынуда…</item>
+        <item quantity="other">%d файл жүктеп алынуда…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 файл жүктеп алынуы керек</item>
+        <item quantity="other">%d файл жүктеп алынуы керек</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 жүктеп алу жоспарланды.</item>
+        <item quantity="other">%d жүктеп алу жоспарланды.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d файл жүктеп алынды.</item>
+        <item quantity="other">%1$d файл жүктеп алынды.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d сәйкестік</item>
+        <item quantity="other">%d сәйкестік</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s инкогнито қойындысы жабылады.</item>
+        <item quantity="other">%1$s инкогнито қойындысы жабылады.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s инкогнито қойындысы және тағы %2$s қойынды жабылады.</item>
+        <item quantity="other">%1$s инкогнито қойындысы және тағы %2$s қойынды жабылады.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">&quot;%1$s&quot; және тағы %2$s қойынды жабылады.</item>
+        <item quantity="other">&quot;%1$s&quot; және тағы %2$s қойынды жабылады.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s инкогнито қойындысы</item>
+        <item quantity="other">%1$s инкогнито қойындысы</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s қойынды</item>
+        <item quantity="other">%2$s қойынды, %1$s инкогнито қойындысы</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 қойынды</item>
+        <item quantity="other">%d қойынды</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s пікір)</item>
+        <item quantity="other">(%1$s пікір)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Google-дан %1$s пікір</item>
+        <item quantity="other">Google-дан %1$s пікір</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d күн бұрын</item>
+        <item quantity="other">%d күн бұрын</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d сағат бұрын</item>
+        <item quantity="other">%d сағат бұрын</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d минут бұрын</item>
+        <item quantity="other">%d минут бұрын</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Дайын болған кезде, Chrome бетті жүктейді.</item>
+        <item quantity="other">Дайын болған кезде, Chrome беттерді жүктейді.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 cookie файлы қолданылып жатыр</item>
+        <item quantity="other">%d cookie файлы қолданылып жатыр</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s және тағы %3$s қызметті пайдалануға рұқсат етілген.</item>
+        <item quantity="other">%1$s, %2$s және тағы %3$s қызметті пайдалануға рұқсат етілген.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s және тағы %3$s қызметті пайдалануға тыйым салынған.</item>
+        <item quantity="other">%1$s, %2$s және тағы %3$s қызметті пайдалануға тыйым салынған.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s және тағы %3$s</item>
+        <item quantity="other">%1$s, %2$s және тағы %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d құпия сөз ұрланған.</item>
+        <item quantity="other">%d құпия сөз ұрланған.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… және тағы %2$s</item>
+        <item quantity="other">%1$s… және тағы %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… және тағы %2$s</item>
+        <item quantity="other">%1$s… және тағы %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… және тағы %2$s</item>
+        <item quantity="other">%1$s… және тағы %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… және тағы %2$s</item>
+        <item quantity="other">%1$s… және тағы %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Оқылмаған %1$d бет бар.</item>
+        <item quantity="other">Оқылмаған %1$d бет бар.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d оқылмаған бет.</item>
+        <item quantity="other">%1$d оқылмаған бет.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 құпия сөз ұрланды.</item>
+        <item quantity="other">%d құпия сөз ұрланды.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 күн бұрын тексерілді.</item>
+        <item quantity="other">%d күн бұрын тексерілді.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 сағат бұрын тексерілді.</item>
+        <item quantity="other">%d сағат бұрын тексерілді.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 минут бұрын тексерілді.</item>
+        <item quantity="other">%d минут бұрын тексерілді.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 таңдалды</item>
+        <item quantity="other">%d таңдалды</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Сигнал деңгейі: %d сызықша</item>
+        <item quantity="other">Сигнал деңгейі: %d сызықша</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d жұлдыз</item>
+        <item quantity="other">%1$d/%2$d жұлдыз</item>
+    </plurals>
+</resources>

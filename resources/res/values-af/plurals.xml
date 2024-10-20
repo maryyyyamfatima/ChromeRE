@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Vou %1$d oortjie in.</item>
+        <item quantity="other">Vou oortjiegroep met %1$d oortjies in.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Vou %1$d oortjie in.</item>
+        <item quantity="other">Vou %1$s-oortjiegroep met %2$d oortjies in.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d oudiolêer</item>
+        <item quantity="other">%d oudiolêers</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d lêer</item>
+        <item quantity="other">%d lêers</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d prent</item>
+        <item quantity="other">%d prente</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d bladsy</item>
+        <item quantity="other">%d bladsye</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video&apos;s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Verwyder 1 gekose item</item>
+        <item quantity="other">Verwyder %d gekose items</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Deel 1 gekose item</item>
+        <item quantity="other">Deel %d gekose items</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Verwyder %1$d geselekteerde oortjie uit die groep.</item>
+        <item quantity="other">Verwyder %1$d geselekteerde oortjies uit die groep.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Groepeer %1$d geselekteerde oortjie</item>
+        <item quantity="other">Groepeer %1$d geselekteerde oortjies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Maak %1$d gekose oortjie toe</item>
+        <item quantity="other">Maak %1$d gekose oortjies toe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d boekmerk</item>
+        <item quantity="other">%1$d boekmerke</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d oortjie</item>
+        <item quantity="other">%1$d oortjies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ nog 1)</item>
+        <item quantity="other">(+ nog %d)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 webkoekie word geblokkeer</item>
+        <item quantity="other">%d webkoekies word geblokkeer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uur</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Lêer is afgelaai</item>
+        <item quantity="other">%d aflaaie is voltooi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">Kon 1 item nie aflaai nie</item>
+        <item quantity="other">Kon %d items nie aflaai nie</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Laai tans lêer af …</item>
+        <item quantity="other">Laai tans %d lêers af …</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 aflaai hangende</item>
+        <item quantity="other">%d aflaaie hangende</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 aflaai is geskeduleer</item>
+        <item quantity="other">%d aflaaie is geskeduleer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d lêer is afgelaai</item>
+        <item quantity="other">%1$d lêers is afgelaai</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d passing</item>
+        <item quantity="other">%d passings</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s Incognito-oortjie sal toegemaak word</item>
+        <item quantity="other">%1$s Incognito-oortjies sal toegemaak word</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s Incognito- en nog %2$s oortjie sal toegemaak word</item>
+        <item quantity="other">%1$s Incognito- en nog %2$s oortjies sal toegemaak word</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s en nog %2$s oortjie sal toegemaak word</item>
+        <item quantity="other">%1$s en nog %2$s oortjies sal toegemaak word</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s incognito-oortjie</item>
+        <item quantity="other">%1$s incognito-oortjies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s oortjie</item>
+        <item quantity="other">%2$s oortjies, %1$s incognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 oortjie</item>
+        <item quantity="other">%d oortjies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s resensie)</item>
+        <item quantity="other">(%1$s resensies)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s resensie van Google af</item>
+        <item quantity="other">%1$s resensies van Google af</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d dag gelede</item>
+        <item quantity="other">%d dae gelede</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d uur gelede</item>
+        <item quantity="other">%d uur gelede</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minuut gelede</item>
+        <item quantity="other">%d minute gelede</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome sal jou bladsy laai wanneer dit gereed is</item>
+        <item quantity="other">Chrome sal jou bladsye laai wanneer dit gereed is</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 webkoekie word tans gebruik</item>
+        <item quantity="other">%d webkoekies word tans gebruik</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s en nog %3$s word toegelaat</item>
+        <item quantity="other">%1$s, %2$s en nog %3$s word toegelaat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s, en nog %3$s word geblokkeer</item>
+        <item quantity="other">%1$s, %2$s, en nog %3$s word geblokkeer</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s en nog %3$s</item>
+        <item quantity="other">%1$s, %2$s en nog %3$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d gekompromitteerde wagwoord</item>
+        <item quantity="other">%d gekompromitteerde wagwoorde</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s … en nog %2$s</item>
+        <item quantity="other">%1$s … en nog %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s … en nog %2$s</item>
+        <item quantity="other">%1$s … en nog %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s … en nog %2$s</item>
+        <item quantity="other">%1$s … en nog %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s … en nog %2$s</item>
+        <item quantity="other">%1$s … en nog %2$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Jy het %1$d ongelese bladsy</item>
+        <item quantity="other">Jy het %1$d ongelese bladsye</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d ongeleesde bladsy</item>
+        <item quantity="other">%1$d ongeleesde bladsye</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 gekompromitteerde wagwoord</item>
+        <item quantity="other">%d gekompromitteerde wagwoorde</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 dag gelede nagegaan</item>
+        <item quantity="other">%d dae gelede nagegaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 uur gelede nagegaan</item>
+        <item quantity="other">%d uur gelede nagegaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 minuut gelede nagegaan</item>
+        <item quantity="other">%d minute gelede nagegaan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 gekies</item>
+        <item quantity="other">%d gekies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Seinsterktevlak: %d stafie</item>
+        <item quantity="other">Seinsterktevlak: %d stafies</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d ster uit %2$d</item>
+        <item quantity="other">%1$d sterre uit %2$d</item>
+    </plurals>
+</resources>

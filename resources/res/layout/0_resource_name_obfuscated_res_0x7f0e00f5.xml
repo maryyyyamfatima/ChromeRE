@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15046f"
+        android:id="@+id/required_fields_notice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140829"/>
+    <include layout="@layout/0_resource_name_obfuscated_res_0x7f0e0050"/>
+</LinearLayout>

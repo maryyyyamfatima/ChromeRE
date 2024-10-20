@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/0_resource_name_obfuscated_res_0x7f070093"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/0_resource_name_obfuscated_res_0x7f080185"
+        android:top="@dimen/0_resource_name_obfuscated_res_0x7f080185"
+        android:right="@dimen/0_resource_name_obfuscated_res_0x7f080185"
+        android:bottom="@dimen/0_resource_name_obfuscated_res_0x7f080185">
+        <bitmap
+            android:src="@drawable/0_resource_name_obfuscated_res_0x7f0900c5"
+            android:tint="@color/0_resource_name_obfuscated_res_0x7f070094"/>
+    </item>
+</layer-list>

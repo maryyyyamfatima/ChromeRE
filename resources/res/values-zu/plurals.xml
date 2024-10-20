@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Goqa ithebhu engu-%1$d.</item>
+        <item quantity="other">Goqa iqembu lethebhu enamathebhu angu-%1$d.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Goqa ithebhu engu-%1$d.</item>
+        <item quantity="other">Goqa iqembu lethebhu engu-%1$s enamathebhu angu-%2$d.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d Ifayela lomsindo</item>
+        <item quantity="other">%d Amafayela omsindo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d Ifayela</item>
+        <item quantity="other">%d Amafayela</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d Isithombe</item>
+        <item quantity="other">%d Izithombe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d Ikhasi</item>
+        <item quantity="other">%d Amakhasi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d Ividiyo</item>
+        <item quantity="other">%d Amavidiyo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Susa into engu-1 ekhethiwe</item>
+        <item quantity="other">Susa izinto ezingu-%d ezikhethiwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Yabelana ngento engu-1 ekhethiwe</item>
+        <item quantity="other">Yabelana ngezinto ezingu-%d ezikhethiwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Susa ithebhu ekhethiwe engu-%1$d  kusukela eqenjini.</item>
+        <item quantity="other">Susa amathebhu akhethiwe angu-%1$d kusukela eqenjini.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Faka kuqembu ithebhu ekhethiwe e-%1$d</item>
+        <item quantity="other">Faka kuqembu amathebhu akhethiwe a-%1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Vala ithebhu ekhethiwe engu-%1$d</item>
+        <item quantity="other">Vala amathebhu akhethiwe angu-%1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d ibhukhimakhi</item>
+        <item quantity="other">%1$d amabhukhimakhi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ithebhu</item>
+        <item quantity="other">%1$d amathebhu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 okuningi)</item>
+        <item quantity="other">(+ %d okuningi)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 ikhukhi elivinjelwe</item>
+        <item quantity="other">%d amakhukhi avinjelwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d hr</item>
+        <item quantity="other">%d amahora</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Ifayela elidawunilodiwe</item>
+        <item quantity="other">Okudawunilodiwe okungu-%d kuqediwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">ukulanda kwehlulekile</item>
+        <item quantity="other">%d ukulanda kwehlulekile</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Idawuniloda ifayela…</item>
+        <item quantity="other">Idawuniloda amafayela angu-%d…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 ukulanda kulindile</item>
+        <item quantity="other">%d ukulanda kulindile</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">Ukudawuniloda oku-1 kushejuliwe</item>
+        <item quantity="other">Okudawunilodiwe okungu-%d kushejuliwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ifayela elilandiwe</item>
+        <item quantity="other">%1$d amafayela alandiwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">Umeshi o-%d</item>
+        <item quantity="other">Amameshi angu-%d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">ithebhu ye-incognito engu-%1$s izovalwa</item>
+        <item quantity="other">amathebhu we-incognito angu-%1$s azovalwa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">I-incognito engu-%1$s kanye nethebhu engu-%2$s ngaphezulu izovalwa</item>
+        <item quantity="other">I-incognito engu-%1$s kanye namathebhu angu-%2$s ngaphezulu azovalwa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">I-%1$s kanye nethebhu engu-%2$s ngaphezulu izovalwa</item>
+        <item quantity="other">I-%1$s kanye namathebhu angu-%2$s ngaphezulu azovalwa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">ithebhu ye-incognito %1$s</item>
+        <item quantity="other">amathebhu e-incognito %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">ithebhu %1$s</item>
+        <item quantity="other">amathebhu %2$s, i-incognito %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">ithebhu 1</item>
+        <item quantity="other">amathebhu %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(isibuyekezo esingu-%1$s)</item>
+        <item quantity="other">(izibuyekezo ezingu-%1$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">Isibuyekezo esingu-%1$s esivela ku-Google</item>
+        <item quantity="other">Izibuyekezo ezingu-%1$s ezivela ku-Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d usuku oludlule</item>
+        <item quantity="other">%d izinsuku ezedlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d ihora eledlule</item>
+        <item quantity="other">%d amahora adlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d iminithi eledlule</item>
+        <item quantity="other">%d amaminithi adlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">I-Chrome izolayisha ikhasi lakho uma isilungele</item>
+        <item quantity="other">I-Chrome izolayisha amakhasi akho uma isilungile</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">Ikhukhi e-1 iyasebenza</item>
+        <item quantity="other">Amakhukhi angu-%d asebenzayo</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">I-%1$s, %2$s, nezinye ezingu-%3$s zivunyelwe</item>
+        <item quantity="other">I-%1$s, %2$s, nezinye ezingu-%3$s zivunyelwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">I-%1$s, %2$s, nezinye ezingu-%3$s zivinjelwe</item>
+        <item quantity="other">I-%1$s, %2$s, nezinye ezingu-%3$s zivinjelwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s, nokungu-%3$s ngaphezulu</item>
+        <item quantity="other">%1$s, %2$s, nokungu-%3$s ngaphezulu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">iphasiwedi eyonakalisiwe engu-%d</item>
+        <item quantity="other">amaphasiwedi onakalisiwe angu-%d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… nokungu-%2$s ngaphezulu</item>
+        <item quantity="other">%1$s… nokungu-%2$s ngaphezulu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… nokungu-%2$s ngaphezulu</item>
+        <item quantity="other">%1$s… nokungu-%2$s ngaphezulu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… nokungu-%2$s ngaphezulu</item>
+        <item quantity="other">%1$s… nokungu-%2$s ngaphezulu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… nokungu-%2$s ngaphezulu</item>
+        <item quantity="other">%1$s… nokungu-%2$s ngaphezulu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Unekhasi elingu-%1$d elingafundiwe</item>
+        <item quantity="other">Unamakhasi angu-%1$d angafundiwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">ikhasi elingafundiwe %1$d</item>
+        <item quantity="other">amakhasi angafundiwe %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">iphasiwedi eyonakalisiwe e-1</item>
+        <item quantity="other">amaphasiwedi onakalisiwe angu-%d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Kuhlolwe osukwini olu-1 olwedlule</item>
+        <item quantity="other">Kuhlolwe ezinsukwini ezingu-%d ezedlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Kuhlolwe ehoreni eli-1 eledlule</item>
+        <item quantity="other">Kuhlolwe emahoreni angu-%d adlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Kuhlolwe kumzuzu o-1 odlule</item>
+        <item quantity="other">Kuhlolwe kwimizuzu engu-%d edlule</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 ekhethiwe</item>
+        <item quantity="other">%d ekhethiwe</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Ileveli yamandla esignali: %d ibha</item>
+        <item quantity="other">Ileveli yamandla esignali: %d amabha</item>
+    </plurals>
+</resources>

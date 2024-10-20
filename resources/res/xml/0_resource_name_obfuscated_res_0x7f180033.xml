@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remote-actions version="1">
+    <action
+        id="back"
+        label="@string/0_resource_name_obfuscated_res_0x7f140271"
+        priority="1"
+        trigger_key="ALT_LEFT+DPAD_LEFT"/>
+    <action
+        id="forward"
+        label="@string/0_resource_name_obfuscated_res_0x7f1404be"
+        priority="2"
+        trigger_key="ALT_LEFT+DPAD_RIGHT"/>
+    <action
+        id="scroll_down"
+        label="@string/0_resource_name_obfuscated_res_0x7f1409c5"
+        priority="3"
+        trigger_key="PAGE_DOWN"/>
+    <action
+        id="scroll_up"
+        label="@string/0_resource_name_obfuscated_res_0x7f1409c6"
+        priority="4"
+        trigger_key="PAGE_UP"/>
+</remote-actions>

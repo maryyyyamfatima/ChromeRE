@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabPaddingEnd="5dp"
+        app:tabPaddingStart="5dp"
+        style="@style/0_resource_name_obfuscated_res_0x7f15030a">
+        <com.google.android.material.tabs.TabItem
+            android:id="0x7f010302"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f140427"/>
+        <com.google.android.material.tabs.TabItem
+            android:id="0x7f0105b2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/0_resource_name_obfuscated_res_0x7f140425"/>
+    </com.google.android.material.tabs.TabLayout>
+    <FrameLayout
+        android:id="@+id/content_container"
+        android:paddingTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabs"/>
+    <ImageView
+        android:layout_below="@+id/tabs"
+        android:importantForAccessibility="no"
+        style="@style/0_resource_name_obfuscated_res_0x7f1502fe"/>
+</RelativeLayout>

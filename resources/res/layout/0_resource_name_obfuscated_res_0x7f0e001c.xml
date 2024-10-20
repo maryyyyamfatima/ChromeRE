@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="0x7f0103da"
+    android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0801db"
+    android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0801db"
+    android:layout_marginStart="0dp"
+    style="@style/0_resource_name_obfuscated_res_0x7f1501da">
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/icon_view"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501de"/>
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/0_resource_name_obfuscated_res_0x7f150253"/>
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/0_resource_name_obfuscated_res_0x7f15024c"/>
+    </LinearLayout>
+    <org.chromium.components.browser_ui.widget.listmenu.ListMenuButton
+        android:id="@+id/more"
+        android:background="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f09025e"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080180"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080180"
+        app:menuMaxWidth="@dimen/0_resource_name_obfuscated_res_0x7f08067e"
+        app:tint="@color/0_resource_name_obfuscated_res_0x7f07012b"/>
+</LinearLayout>

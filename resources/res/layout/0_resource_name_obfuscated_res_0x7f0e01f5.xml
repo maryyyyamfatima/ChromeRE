@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="start"
+    android:orientation="vertical"
+    style="@style/0_resource_name_obfuscated_res_0x7f150003">
+    <org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f150452"
+        android:gravity="center_vertical"
+        android:id="@+id/text"
+        android:paddingBottom="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:textDirection="locale"
+        app:chromeDrawableTint="?attr/0_resource_name_obfuscated_res_0x7f05013a"/>
+</LinearLayout>

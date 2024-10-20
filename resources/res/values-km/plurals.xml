@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">បង្រួមផ្ទាំង %1$d។</item>
+        <item quantity="other">បង្រួមក្រុមផ្ទាំង​ដែលមាន %1$dផ្ទាំង។</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">បង្រួមផ្ទាំង %1$d។</item>
+        <item quantity="other">បង្រួមក្រុមផ្ទាំង %1$s ដែលមាន %2$dផ្ទាំង។</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">ឯកសារសំឡេង %d</item>
+        <item quantity="other">ឯកសារ​សំឡេង %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">ឯកសារ %d</item>
+        <item quantity="other">ឯកសារ %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">រូបភាព %d</item>
+        <item quantity="other">រូបភាព %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d ទំព័រ</item>
+        <item quantity="other">%d ទំព័រ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">វីដេអូ %d</item>
+        <item quantity="other">វីដេអូ %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">លុបធាតុដែលបានជ្រើសរើស 1</item>
+        <item quantity="other">លុបធាតុដែលបានជ្រើសរើស %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">ចែករំលែកធាតុដែលបានជ្រើសរើស 1</item>
+        <item quantity="other">ចែករំលែកធាតុដែលបានជ្រើសរើស %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">លុបផ្ទាំង %1$d ដែល​បានជ្រើសរើស​ពីក្រុម។</item>
+        <item quantity="other">លុបផ្ទាំង %1$d ដែល​បានជ្រើសរើស​ពីក្រុម។</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">បញ្ចូលផ្ទាំង​ដែលបានជ្រើសរើស %1$d ​ទៅក្នុងក្រុម</item>
+        <item quantity="other">បញ្ចូលផ្ទាំង​ដែលបានជ្រើសរើស %1$d ​ទៅក្នុងក្រុម</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">បិទ​ផ្ទាំង​ដែលបាន​ជ្រើសរើស %1$d</item>
+        <item quantity="other">បិទ​ផ្ទាំង​ដែលបាន​ជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">ចំណាំ %1$d</item>
+        <item quantity="other">ចំណាំ %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">ផ្ទាំង %1$d</item>
+        <item quantity="other">ផ្ទាំង %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 ទៀត)</item>
+        <item quantity="other">(+ %d ទៀត)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">បាន​ទប់ស្កាត់​ខូគី 1</item>
+        <item quantity="other">បាន​ទប់ស្កាត់​ខូគី %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d ម៉ោង​</item>
+        <item quantity="other">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">បានទាញយកឯកសារ</item>
+        <item quantity="other">បាន​បញ្ចប់ការទាញយក %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">ការទាញយក 1 បាន​បរាជ័យ</item>
+        <item quantity="other">ការទាញយក %d បាន​បរាជ័យ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">កំពុង​ទាញយក​ឯកសារ…</item>
+        <item quantity="other">កំពុង​ទាញយក​ឯកសារ %d…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">ការទាញយក 1 មិនទាន់​សម្រេចទេ</item>
+        <item quantity="other">ការទាញយក %d មិនទាន់​សម្រេចទេ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">បានកំណត់​កាលវិភាគ​នៃការទាញយក 1</item>
+        <item quantity="other">បានកំណត់​កាលវិភាគ​នៃការទាញយក %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">បានទាញយកឯកសារ %1$d</item>
+        <item quantity="other">បានទាញយកឯកសារ %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">ត្រូវគ្នា %d</item>
+        <item quantity="other">ត្រូវគ្នា %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">ផ្ទាំង​ឯកជន %1$s នឹងត្រូវបានបិទ</item>
+        <item quantity="other">ផ្ទាំង​ឯកជន %1$s នឹងត្រូវបានបិទ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">ផ្ទាំង​ឯកជន %1$s និងផ្ទាំង %2$s ទៀតនឹង​ត្រូវបានបិទ</item>
+        <item quantity="other">ផ្ទាំង​ឯកជន %1$s និងផ្ទាំង %2$s ទៀតនឹង​ត្រូវបានបិទ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s និងផ្ទាំង %2$s ទៀតនឹង​ត្រូវបានបិទ</item>
+        <item quantity="other">%1$s និងផ្ទាំង %2$s ទៀតនឹង​ត្រូវបានបិទ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">ផ្ទាំងឯកជន %1$s</item>
+        <item quantity="other">ផ្ទាំងឯកជន %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">ផ្ទាំង %1$s</item>
+        <item quantity="other">ផ្ទាំង %2$s, ឯកជន %1$s</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">ផ្ទាំង 1</item>
+        <item quantity="other">ផ្ទាំង %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(មតិវាយតម្លៃ %1$s)</item>
+        <item quantity="other">(មតិវាយតម្លៃ %1$s)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">ការវាយតម្លៃ %1$s ពី Google</item>
+        <item quantity="other">ការវាយតម្លៃ %1$s ពី Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d ថ្ងៃមុន</item>
+        <item quantity="other">%d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d ម៉ោងមុន</item>
+        <item quantity="other">%d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d នាទីមុន</item>
+        <item quantity="other">%d នាទីមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome នឹងផ្ទុកទំព័រ​របស់អ្នក នៅពេលរួចរាល់</item>
+        <item quantity="other">Chrome នឹងផ្ទុកទំព័រ​របស់អ្នក នៅពេលរួចរាល់</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">កំពុងប្រើខូគី 1</item>
+        <item quantity="other">កំពុងប្រើខូគី %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">បានអនុញ្ញាត %1$s, %2$s និង %3$s ទៀត</item>
+        <item quantity="other">បានអនុញ្ញាត %1$s, %2$s និង %3$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">បានទប់ស្កាត់ %1$s, %2$s និង %3$s ទៀត</item>
+        <item quantity="other">បានទប់ស្កាត់ %1$s, %2$s និង %3$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s និង %3$s ទៀត</item>
+        <item quantity="other">%1$s, %2$s និង %3$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">ពាក្យសម្ងាត់ដែល​រងការលុកលុយ %d</item>
+        <item quantity="other">ពាក្យសម្ងាត់​ដែលរង​ការលុកលុយ %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… និង %2$s ទៀត</item>
+        <item quantity="other">%1$s… និង %2$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… និង %2$s ទៀត</item>
+        <item quantity="other">%1$s… និង %2$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… និង %2$s ទៀត</item>
+        <item quantity="other">%1$s… និង %2$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… និង %2$s ទៀត</item>
+        <item quantity="other">%1$s… និង %2$s ទៀត</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">អ្នក​មានទំព័រ​មិនទាន់អាន​ចំនួន %1$d</item>
+        <item quantity="other">អ្នក​មានទំព័រ​មិនទាន់អាន​ចំនួន %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">ទំព័រមិន​ទាន់អាន %1$d</item>
+        <item quantity="other">ទំព័រមិន​ទាន់អាន %1$d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">ពាក្យសម្ងាត់​ដែលរង​ការលុកលុយ 1</item>
+        <item quantity="other">ពាក្យសម្ងាត់​ដែលរង​ការលុកលុយ %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">បានពិនិត្យមើល​កាលពី 1 ថ្ងៃមុន</item>
+        <item quantity="other">បានពិនិត្យមើល​កាលពី %d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">បានពិនិត្យមើល​កាលពី 1 ម៉ោងមុន</item>
+        <item quantity="other">បានពិនិត្យមើល​កាលពី %d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">បាន​ពិនិត្យមើល​កាលពី 1 នាទីមុន</item>
+        <item quantity="other">បាន​ពិនិត្យមើល​កាលពី %d នាទីមុន</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">បានជ្រើសរើស 1</item>
+        <item quantity="other">បានជ្រើសរើស %d</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">កម្រិត​កម្លាំង​រលកសញ្ញា៖ %d កាំ</item>
+        <item quantity="other">កម្រិត​កម្លាំង​រលកសញ្ញា៖ %d កាំ</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+        <item quantity="other">ផ្កាយ %1$d ក្នុងចំណោមផ្កាយ %2$d</item>
+    </plurals>
+</resources>

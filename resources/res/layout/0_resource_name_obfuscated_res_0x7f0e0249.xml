@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="0x7f0103f4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/lightweight_reactions_scene"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lightweight_reactions_divider"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e0254"/>
+    <View
+        android:id="@+id/lightweight_reactions_divider"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f050154"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f08080b"
+        android:layout_above="@+id/lightweight_reactions_toolbar"/>
+    <include
+        android:id="@+id/lightweight_reactions_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/0_resource_name_obfuscated_res_0x7f080812"
+        android:layout_alignParentBottom="true"
+        layout="@layout/0_resource_name_obfuscated_res_0x7f0e02c5"/>
+</RelativeLayout>

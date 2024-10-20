@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:gravity="center"
+        android:id="0x7f0102de"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080200"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140482"
+        style="@style/0_resource_name_obfuscated_res_0x7f15046f"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/experimental_explore_sites_tiles"
+        android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f0801fe"
+        android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f0801fe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080200"
+        android:paddingHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f0801fe"/>
+    <org.chromium.ui.widget.ButtonCompat
+        android:gravity="center"
+        android:id="@+id/experimental_explore_sites_more_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/0_resource_name_obfuscated_res_0x7f0801fd"
+        android:layout_marginTop="@dimen/0_resource_name_obfuscated_res_0x7f080200"
+        android:layout_marginRight="@dimen/0_resource_name_obfuscated_res_0x7f0801fd"
+        android:layout_marginBottom="@dimen/0_resource_name_obfuscated_res_0x7f080200"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140703"
+        android:layout_marginHorizontal="@dimen/0_resource_name_obfuscated_res_0x7f0801fd"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+</LinearLayout>

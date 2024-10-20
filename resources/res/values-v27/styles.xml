@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="0_resource_name_obfuscated_res_0x7f150076" parent="@style/0_resource_name_obfuscated_res_0x7f150122">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150077" parent="@style/0_resource_name_obfuscated_res_0x7f150123">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150086" parent="@style/0_resource_name_obfuscated_res_0x7f150124">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150087" parent="@style/0_resource_name_obfuscated_res_0x7f150125">
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150121" parent="@style/0_resource_name_obfuscated_res_0x7f150069">
+        <item name="android:navigationBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightNavigationBar">@bool/0_resource_name_obfuscated_res_0x7f06001a</item>
+        <item name="android:navigationBarDividerColor">?attr/0_resource_name_obfuscated_res_0x7f050154</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150122" parent="@style/0_resource_name_obfuscated_res_0x7f150114">
+        <item name="android:navigationBarColor">@color/0_resource_name_obfuscated_res_0x7f070578</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150123" parent="@style/0_resource_name_obfuscated_res_0x7f1500f6">
+        <item name="android:navigationBarColor">@color/0_resource_name_obfuscated_res_0x7f070578</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150124" parent="@style/0_resource_name_obfuscated_res_0x7f150118">
+        <item name="android:navigationBarColor">?unknown_ref: 7f0702f0</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150125" parent="@style/0_resource_name_obfuscated_res_0x7f1500fc">
+        <item name="android:navigationBarColor">?unknown_ref: 7f0702f0</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1501bd" parent="@style/0_resource_name_obfuscated_res_0x7f150068">
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1504a5" parent="@style/0_resource_name_obfuscated_res_0x7f150067">
+        <item name="android:navigationBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightNavigationBar">@bool/0_resource_name_obfuscated_res_0x7f06001a</item>
+        <item name="android:navigationBarDividerColor">?attr/0_resource_name_obfuscated_res_0x7f050154</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1504a9" parent="@style/0_resource_name_obfuscated_res_0x7f150068">
+        <item name="android:navigationBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightNavigationBar">@bool/0_resource_name_obfuscated_res_0x7f06001a</item>
+        <item name="android:navigationBarDividerColor">?attr/0_resource_name_obfuscated_res_0x7f050154</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f1504b1" parent="@style/0_resource_name_obfuscated_res_0x7f15006b">
+        <item name="android:navigationBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightNavigationBar">@bool/0_resource_name_obfuscated_res_0x7f06001a</item>
+        <item name="android:navigationBarDividerColor">?attr/0_resource_name_obfuscated_res_0x7f050154</item>
+    </style>
+    <style name="0_resource_name_obfuscated_res_0x7f150548" parent="@style/0_resource_name_obfuscated_res_0x7f1500ad">
+        <item name="android:navigationBarColor">?attr/0_resource_name_obfuscated_res_0x7f050152</item>
+        <item name="android:windowLightNavigationBar">@bool/0_resource_name_obfuscated_res_0x7f06001a</item>
+        <item name="android:navigationBarDividerColor">?attr/0_resource_name_obfuscated_res_0x7f050154</item>
+    </style>
+</resources>

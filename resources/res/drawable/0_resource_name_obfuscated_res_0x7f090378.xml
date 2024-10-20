@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/0_resource_name_obfuscated_res_0x7f070093"/>
+        </shape>
+    </item>
+    <item
+        android:id="@+id/icon"
+        android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f0901df"
+        android:left="@dimen/0_resource_name_obfuscated_res_0x7f0800a3"
+        android:top="@dimen/0_resource_name_obfuscated_res_0x7f0800a3"
+        android:right="@dimen/0_resource_name_obfuscated_res_0x7f0800a3"
+        android:bottom="@dimen/0_resource_name_obfuscated_res_0x7f0800a3"/>
+</layer-list>

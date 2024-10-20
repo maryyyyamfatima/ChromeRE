@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.chromium.components.browser_ui.photo_picker.PhotoPickerToolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="0dp"
+    android:paddingEnd="0dp"
+    style="@style/0_resource_name_obfuscated_res_0x7f15020d">
+    <org.chromium.ui.widget.ButtonCompat
+        android:enabled="false"
+        android:layout_gravity="end"
+        android:id="@+id/done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f14040b"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+</org.chromium.components.browser_ui.photo_picker.PhotoPickerToolbar>

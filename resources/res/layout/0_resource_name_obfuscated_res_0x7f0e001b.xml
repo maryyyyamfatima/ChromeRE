@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15032f"
+        android:textColor="?attr/0_resource_name_obfuscated_res_0x7f0504ec"
+        android:ellipsize="end"
+        android:id="@+id/message"
+        android:background="?attr/0_resource_name_obfuscated_res_0x7f0504ed"
+        android:paddingLeft="@dimen/0_resource_name_obfuscated_res_0x7f080816"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f08081a"
+        android:paddingRight="@dimen/0_resource_name_obfuscated_res_0x7f080816"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f08081a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/0_resource_name_obfuscated_res_0x7f080817"
+        android:maxWidth="256dp"
+        android:maxLines="3"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f080816"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f080816"/>
+</LinearLayout>

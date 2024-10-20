@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp">
+    <org.chromium.ui.widget.ChromeImageView
+        android:id="@+id/shortcut_icon"
+        android:scaleType="centerInside"
+        style="@style/0_resource_name_obfuscated_res_0x7f1501de"/>
+    <org.chromium.ui.widget.TextViewWithLeading
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:id="@+id/shortcut_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/0_resource_name_obfuscated_res_0x7f0804f2"
+        android:maxLines="1"
+        app:leading="@dimen/0_resource_name_obfuscated_res_0x7f0807ce"/>
+</LinearLayout>

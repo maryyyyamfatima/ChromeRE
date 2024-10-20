@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/0_resource_name_obfuscated_res_0x7f0903e9"
+        android:layout_weight="1"
+        android:importantForAccessibility="no"
+        android:layout_marginVertical="20dp"
+        app:srcCompat="@drawable/0_resource_name_obfuscated_res_0x7f0903e9"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f1503dd"
+        android:id="@+id/notification_permission_rationale_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f1406f5"
+        android:layout_marginHorizontal="16dp"/>
+    <TextView
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:id="@+id/notification_permission_rationale_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="16dp"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f1406f3"
+        android:layout_marginHorizontal="16dp"/>
+</LinearLayout>

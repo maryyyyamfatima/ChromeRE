@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <org.chromium.components.browser_ui.settings.TextMessagePreference
+        android:layout="@layout/0_resource_name_obfuscated_res_0x7f0e01d6"
+        android:key="personalization_summary"/>
+    <Preference
+        android:key="topic_info"
+        app:iconSpaceReserved="false"/>
+    <org.chromium.components.browser_ui.settings.ButtonPreference
+        android:title="@string/0_resource_name_obfuscated_res_0x7f140745"
+        android:key="manage_interest_button"
+        app:buttonLayout="@layout/0_resource_name_obfuscated_res_0x7f0e0076"/>
+</PreferenceScreen>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" style="@style/0_resource_name_obfuscated_res_0x7f150003">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/explanation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/username_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/0_resource_name_obfuscated_res_0x7f1405dc">
+            <org.chromium.components.browser_ui.widget.text.AlertDialogEditText
+                android:id="@+id/username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/0_resource_name_obfuscated_res_0x7f1405dc"
+                android:inputType="textNoSuggestions"
+                android:imeOptions="flagNoExtractUi"
+                android:importantForAutofill="no"/>
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="0x7f010576"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/0_resource_name_obfuscated_res_0x7f1405da">
+            <org.chromium.components.browser_ui.widget.text.AlertDialogEditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/0_resource_name_obfuscated_res_0x7f1405da"
+                android:inputType="textPassword"
+                android:imeOptions="flagNoExtractUi"
+                android:importantForAutofill="no"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+</ScrollView>

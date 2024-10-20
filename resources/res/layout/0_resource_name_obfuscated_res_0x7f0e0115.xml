@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:focusable="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout
+        android:id="@+id/radio_button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/allow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140c0e"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140c0f"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/block_third_party_incognito"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140c12"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140c13"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/block_third_party"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140c12"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140c14"/>
+        <org.chromium.components.browser_ui.widget.RadioButtonWithDescription
+            android:id="@+id/block"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:descriptionText="@string/0_resource_name_obfuscated_res_0x7f140c11"
+            app:primaryText="@string/0_resource_name_obfuscated_res_0x7f140c15"/>
+    </org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout>
+    <org.chromium.components.browser_ui.widget.text.TextViewWithCompoundDrawables
+        android:textAppearance="@style/0_resource_name_obfuscated_res_0x7f15044d"
+        android:gravity="center_vertical"
+        android:id="@+id/managed_view"
+        android:padding="16dp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f1405ef"
+        android:drawablePadding="10dp"
+        app:chromeDrawableTint="?attr/0_resource_name_obfuscated_res_0x7f05012e"/>
+</LinearLayout>

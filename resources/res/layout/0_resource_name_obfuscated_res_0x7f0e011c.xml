@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <org.chromium.ui.widget.ButtonCompat
+        android:gravity="start|center_vertical"
+        android:layout_gravity="top"
+        android:id="@+id/clear_browsing_data_button"
+        android:paddingTop="@dimen/0_resource_name_obfuscated_res_0x7f0803af"
+        android:paddingBottom="@dimen/0_resource_name_obfuscated_res_0x7f0803af"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/0_resource_name_obfuscated_res_0x7f140724"
+        android:paddingStart="@dimen/0_resource_name_obfuscated_res_0x7f0803af"
+        android:paddingEnd="@dimen/0_resource_name_obfuscated_res_0x7f0803af"
+        app:verticalInset="0dp"
+        style="@style/0_resource_name_obfuscated_res_0x7f15047e"/>
+    <View style="@style/0_resource_name_obfuscated_res_0x7f1501cf"/>
+</LinearLayout>

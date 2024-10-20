@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">%1$d ta varaqni yigʻish.</item>
+        <item quantity="other">%1$d varaqli guruhni yigʻish.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">%1$d ta varaqni yigʻish.</item>
+        <item quantity="other">%2$d varaqli %1$s guruhini yigʻish.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d ta audio fayl</item>
+        <item quantity="other">%d ta audio fayl</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d ta fayl</item>
+        <item quantity="other">%d ta fayl</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d ta rasm</item>
+        <item quantity="other">%d ta rasm</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d ta sahifa</item>
+        <item quantity="other">%d ta sahifa</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d ta video</item>
+        <item quantity="other">%d ta video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Tanlangan 1 ta elementni olib tashlash</item>
+        <item quantity="other">Tanlangan %d ta elementni olib tashlash</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Belgilangan 1 ta elementni ulashish</item>
+        <item quantity="other">Belgilangan %d ta elementni ulashish</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Tanlangan %1$d ta varaqni guruhdan olib tashlash.</item>
+        <item quantity="other">Tanlangan %1$d ta varaqni guruhdan olib tashlash.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Belgilangan %1$d ta varaqni guruhlash</item>
+        <item quantity="other">Belgilangan %1$d ta varaqni guruhlash</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Tanlangan %1$d ta varaqni yopish</item>
+        <item quantity="other">Tanlangan %1$d ta varaqni yopish</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d ta bukmark</item>
+        <item quantity="other">%1$d ta bukmark</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d ta varaq</item>
+        <item quantity="other">%1$d ta varaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(yana 1 ta)</item>
+        <item quantity="other">(yana %d ta)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 ta cookie fayl bloklandi</item>
+        <item quantity="other">%d ta cookie fayl bloklandi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d soat</item>
+        <item quantity="other">%d soat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Fayl yuklab olindi</item>
+        <item quantity="other">%d ta fayl yuklab olindi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 ta fayl yuklab olinmadi</item>
+        <item quantity="other">%d ta fayl yuklab olinmadi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Fayl yuklab olinmoqda…</item>
+        <item quantity="other">%d ta fayl yuklab olinmoqda…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 ta fayl yuklab olinishi kutilmoqda...</item>
+        <item quantity="other">%d ta fayl yuklab olinishi kutilmoqda...</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 ta yuklanma rejalashtirildi</item>
+        <item quantity="other">%d ta yuklanma rejalashtirildi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d ta fayl yuklab olindi</item>
+        <item quantity="other">%1$d ta fayl yuklab olindi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d ta mos natija</item>
+        <item quantity="other">%d ta mos natija</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s ta inkognito varaq yopiladi</item>
+        <item quantity="other">%1$s ta inkognito varaq yopiladi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">yana %2$s ta varaq yopiladi (%1$s tasi inkognito)</item>
+        <item quantity="other">yana %2$s ta varaq yopiladi (%1$s tasi inkognito)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s va yana %2$s ta varaq yopiladi</item>
+        <item quantity="other">%1$s va yana %2$s ta varaq yopiladi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s ta inkognito varaq</item>
+        <item quantity="other">%1$s ta inkognito varaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s ta varaq</item>
+        <item quantity="other">%2$s ta varaq, %1$s tasi inkognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 ta varaq</item>
+        <item quantity="other">%d ta varaq</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s ta sharh)</item>
+        <item quantity="other">(%1$s ta sharh)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s ta sharh Googledan</item>
+        <item quantity="other">%1$s ta sharh Googledan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d kun oldin</item>
+        <item quantity="other">%d kun oldin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d soat oldin</item>
+        <item quantity="other">%d soat oldin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d daqiqa oldin</item>
+        <item quantity="other">%d daqiqa oldin</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome sahifani tayyor boʻlishi bilan ochadi</item>
+        <item quantity="other">Chrome sahifalarni tayyor boʻlishi bilan ochadi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 ta cookie fayl ishlatilmoqda</item>
+        <item quantity="other">%d ta cookie fayl ishlatilmoqda</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">Ruxsat berildi: %1$s, %2$s va yana %3$s ta</item>
+        <item quantity="other">Ruxsat berildi: %1$s, %2$s va yana %3$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">Bloklandi: %1$s, %2$s va yana %3$s ta</item>
+        <item quantity="other">Bloklandi: %1$s, %2$s va yana %3$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s va yana %3$s ta</item>
+        <item quantity="other">%1$s, %2$s va yana %3$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d ta parol oshkor etilgan</item>
+        <item quantity="other">%d ta parol oshkor etilgan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… va yana %2$s ta</item>
+        <item quantity="other">%1$s… va yana %2$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… va yana %2$s ta</item>
+        <item quantity="other">%1$s… va yana %2$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… va yana %2$s ta</item>
+        <item quantity="other">%1$s… va yana %2$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… va yana %2$s ta</item>
+        <item quantity="other">%1$s… va yana %2$s ta</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">%1$d ta oʻqilmagan xat bor</item>
+        <item quantity="other">%1$d ta oʻqilmagan xat bor</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d ta sahifa oʻqilmagan</item>
+        <item quantity="other">%1$d ta sahifa oʻqilmagan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 ta parol oshkor etilgan</item>
+        <item quantity="other">%d ta parol oshkor etilgan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">1 kun oldin tekshirilgan</item>
+        <item quantity="other">%d kun oldin tekshirilgan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">1 soat oldin tekshirilgan</item>
+        <item quantity="other">%d soat oldin tekshirilgan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">1 daqiqa oldin tekshirilgan</item>
+        <item quantity="other">%d daqiqa oldin tekshirilgan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one"> 1 ta belgilandi</item>
+        <item quantity="other">%d ta belgilandi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Signal darajasi: %d chiziqda</item>
+        <item quantity="other">Signal darajasi: %d chiziqda</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d/%2$d yulduz</item>
+        <item quantity="other">%1$d/%2$d yulduz</item>
+    </plurals>
+</resources>

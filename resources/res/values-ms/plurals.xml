@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120000">
+        <item quantity="one">Runtuhkan %1$d tab.</item>
+        <item quantity="other">Runtuhkan kumpulan tab dengan %1$d tab.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120001">
+        <item quantity="one">Runtuhkan %1$d tab.</item>
+        <item quantity="other">Runtuhkan kumpulan tab %1$s dengan %2$d tab.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120002">
+        <item quantity="one">%d Fail audio</item>
+        <item quantity="other">%d Fail audio</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120003">
+        <item quantity="one">%d Fail</item>
+        <item quantity="other">%d Fail</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120004">
+        <item quantity="one">%d Imej</item>
+        <item quantity="other">%d Imej</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120005">
+        <item quantity="one">%d Halaman</item>
+        <item quantity="other">%d Halaman</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120006">
+        <item quantity="one">%d Video</item>
+        <item quantity="other">%d Video</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120008">
+        <item quantity="one">Alih keluar 1 item yang dipilih</item>
+        <item quantity="other">Alih keluar %d item yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120009">
+        <item quantity="one">Kongsi 1 item yang dipilih</item>
+        <item quantity="other">Kongsi %d item yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000a">
+        <item quantity="one">Alih keluar %1$d tab yang dipilih daripada kumpulan.</item>
+        <item quantity="other">Alih keluar %1$d tab yang dipilih daripada kumpulan.</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000b">
+        <item quantity="one">Himpunkan %1$d tab yang dipilih</item>
+        <item quantity="other">Himpunkan %1$d tab yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000c">
+        <item quantity="one">Tutup %1$d tab yang dipilih</item>
+        <item quantity="other">Tutup %1$d tab yang dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000d">
+        <item quantity="one">%1$d penanda halaman</item>
+        <item quantity="other">%1$d penanda halaman</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000e">
+        <item quantity="one">%1$d tab</item>
+        <item quantity="other">%1$d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12000f">
+        <item quantity="one">(+ 1 lagi)</item>
+        <item quantity="other">(+ %d lagi)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120010">
+        <item quantity="one">1 kuki disekat</item>
+        <item quantity="other">%d kuki disekat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120011">
+        <item quantity="one">%d jam</item>
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120012">
+        <item quantity="one">Fail dimuat turun</item>
+        <item quantity="other">%d muat turun selesai</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120013">
+        <item quantity="one">1 muat turun gagal</item>
+        <item quantity="other">%d muat turun gagal</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120014">
+        <item quantity="one">Memuat turun fail…</item>
+        <item quantity="other">Memuat turun %d fail…</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120015">
+        <item quantity="one">1 muat turun belum selesai</item>
+        <item quantity="other">%d muat turun belum selesai</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120016">
+        <item quantity="one">1 muat turun dijadualkan</item>
+        <item quantity="other">%d muat turun dijadualkan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120017">
+        <item quantity="one">%1$d fail dimuat turun</item>
+        <item quantity="other">%1$d fail dimuat turun</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120018">
+        <item quantity="one">%d padanan</item>
+        <item quantity="other">%d padanan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120019">
+        <item quantity="one">%1$s tab inkognito akan ditutup</item>
+        <item quantity="other">%1$s tab inkognito akan ditutup</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001a">
+        <item quantity="one">%1$s inkognito dan %2$s lagi tab akan ditutup</item>
+        <item quantity="other">%1$s inkognito and %2$s lagi tab akan ditutup</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001b">
+        <item quantity="one">%1$s dan %2$s lagi tab akan ditutup</item>
+        <item quantity="other">%1$s dan %2$s lagi tab akan ditutup</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001c">
+        <item quantity="one">%1$s tab inkognito</item>
+        <item quantity="other">%1$s tab inkognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001d">
+        <item quantity="one">%1$s tab</item>
+        <item quantity="other">%2$s tab, %1$s inkognito</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001e">
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tab</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12001f">
+        <item quantity="one">(%1$s ulasan)</item>
+        <item quantity="other">(%1$s ulasan)</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120020">
+        <item quantity="one">%1$s ulasan daripada Google</item>
+        <item quantity="other">%1$s ulasan daripada Google</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120022">
+        <item quantity="one">%d hari yang lalu</item>
+        <item quantity="other">%d hari yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120023">
+        <item quantity="one">%d jam yang lalu</item>
+        <item quantity="other">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120024">
+        <item quantity="one">%d minit yang lalu</item>
+        <item quantity="other">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120025">
+        <item quantity="one">Chrome akan memuatkan halaman anda apabila sudah sedia</item>
+        <item quantity="other">Chrome akan memuatkan halaman anda apabila sudah sedia</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120026">
+        <item quantity="one">1 kuki sedang digunakan</item>
+        <item quantity="other">%d kuki sedang digunakan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120027">
+        <item quantity="one">%1$s, %2$s dan %3$s lagi dibenarkan</item>
+        <item quantity="other">%1$s, %2$s dan %3$s lagi dibenarkan</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120028">
+        <item quantity="one">%1$s, %2$s dan %3$s lagi disekat</item>
+        <item quantity="other">%1$s, %2$s dan %3$s lagi disekat</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120029">
+        <item quantity="one">%1$s, %2$s dan %3$s lagi</item>
+        <item quantity="other">%1$s, %2$s dan %3$s lagi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002a">
+        <item quantity="one">%d kata laluan yang terjejas</item>
+        <item quantity="other">%d kata laluan yang terjejas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002b">
+        <item quantity="one">%1$s… dan %2$s lagi</item>
+        <item quantity="other">%1$s… dan %2$s lagi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002c">
+        <item quantity="one">%1$s… dan %2$s lagi</item>
+        <item quantity="other">%1$s… dan %2$s lagi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002d">
+        <item quantity="one">%1$s… dan %2$s lagi</item>
+        <item quantity="other">%1$s… dan %2$s lagi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002e">
+        <item quantity="one">%1$s… dan %2$s lagi</item>
+        <item quantity="other">%1$s… dan %2$s lagi</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f12002f">
+        <item quantity="one">Anda mempunyai %1$d halaman belum dibaca</item>
+        <item quantity="other">Anda mempunyai %1$d halaman belum dibaca</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120030">
+        <item quantity="one">%1$d halaman belum dibaca</item>
+        <item quantity="other">%1$d halaman belum dibaca</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120031">
+        <item quantity="one">1 kata laluan yang terjejas</item>
+        <item quantity="other">%d kata laluan yang terjejas</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120032">
+        <item quantity="one">Disemak 1 hari yang lalu</item>
+        <item quantity="other">Disemak %d hari yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120033">
+        <item quantity="one">Disemak 1 jam yang lalu</item>
+        <item quantity="other">Disemak %d yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120034">
+        <item quantity="one">Disemak 1 minit yang lalu</item>
+        <item quantity="other">Disemak %d minit yang lalu</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120035">
+        <item quantity="one">1 dipilih</item>
+        <item quantity="other">%d dipilih</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120036">
+        <item quantity="one">Tahap Kekuatan Isyarat: %d bar</item>
+        <item quantity="other">Tahap Kekuatan Isyarat: %d bar</item>
+    </plurals>
+    <plurals name="0_resource_name_obfuscated_res_0x7f120037">
+        <item quantity="one">%1$d bintang daripada %2$d</item>
+        <item quantity="other">%1$d bintang daripada %2$d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/0_resource_name_obfuscated_res_0x7f09040b"/>
+    <item>
+        <org.chromium.components.browser_ui.widget.SurfaceColorDrawable xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:shape="rectangle"
+            app:surfaceElevation="@dimen/0_resource_name_obfuscated_res_0x7f0804ca">
+            <corners
+                android:radius="@dimen/0_resource_name_obfuscated_res_0x7f080673"
+                android:bottomLeftRadius="0dp"
+                android:bottomRightRadius="0dp"/>
+        </org.chromium.components.browser_ui.widget.SurfaceColorDrawable>
+    </item>
+</layer-list>
